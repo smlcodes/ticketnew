@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,11:30,Premium,145₹,192,0
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,11:30,NonPremium,100₹,95,3
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,14:30,Premium,145₹,192,3
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,14:30,NonPremium,100₹,95,4
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,18:30,Premium,145₹,192,3
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,18:30,NonPremium,100₹,95,3
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,21:30,Premium,145₹,192,0
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,21:30,NonPremium,100₹,95,1
