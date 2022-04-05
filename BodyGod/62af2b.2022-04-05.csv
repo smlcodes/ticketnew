@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mysore,PvrGarudaMallAlbertVictorRoad,Kannada,13:05,Classic,130₹,119,2
+Bangalore,PvrVaishnaviSapphireMallYashwantpur,Kannada,13:55,Recliner,230₹,13,0
+Bangalore,PvrVaishnaviSapphireMallYashwantpur,Kannada,13:55,Prime,140₹,37,0
+Bangalore,PvrVaishnaviSapphireMallYashwantpur,Kannada,13:55,Classic,112₹,85,0
+Davanagere,MovietimeSsGardeniaMallDavanagere,Kannada,16:15,Gold,200₹,41,0
+Davanagere,MovietimeSsGardeniaMallDavanagere,Kannada,16:15,Premier,180₹,160,0
+Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,16:15,Recliner,250₹,17,0
+Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,16:15,Prime,170₹,80,9
+Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,16:15,Classic,150₹,128,3
+Mangalore,PvrForumFizaMallPandeshwar,Kannada,16:30,Classic,112₹,71,0
+Bangalore,CinepolisEtaNammaMall,Kannada,18:15,Premium,150₹,29,0
+Bangalore,CinepolisEtaNammaMall,Kannada,18:15,Executive,150₹,69,2
+Bangalore,PvrVegaBannerghattaRoad,Kannada,19:25,Recliner,300₹,9,9
+Bangalore,PvrVegaBannerghattaRoad,Kannada,19:25,Classic,170₹,86,86
+Bangalore,SriVajreshwariTheatre2KUllal,Kannada,21:45,Balcony,120₹,200,172
+Bangalore,SriVajreshwariTheatre2KUllal,Kannada,21:45,Second,100₹,676,612
