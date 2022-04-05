@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Tirupur,ManisCinemas4KHdTirupur,Tamil,10:45,Balcony,100₹,99,0
+Tirupur,ManisCinemas4KHdTirupur,Tamil,10:45,Firstclass,80₹,329,0
+Chennai,PvrAmpaSkywalkMallAminjikarai,Tamil,12:05,Prime,179₹,118,5
+Chennai,PvrAmpaSkywalkMallAminjikarai,Tamil,12:05,Classic,60₹,17,2
+Tirupur,ManisCinemas4KHdTirupur,Tamil,14:30,Balcony,100₹,99,0
+Tirupur,ManisCinemas4KHdTirupur,Tamil,14:30,Firstclass,80₹,329,0
+Tirupur,ManisCinemas4KHdTirupur,Tamil,18:30,Balcony,100₹,99,0
+Tirupur,ManisCinemas4KHdTirupur,Tamil,18:30,Firstclass,80₹,329,0
+Tirupur,ManisCinemas4KHdTirupur,Tamil,22:15,Balcony,100₹,99,0
+Tirupur,ManisCinemas4KHdTirupur,Tamil,22:15,Firstclass,80₹,329,0
