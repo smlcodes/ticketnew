@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kalaburagi,MirajCinemasShraddhaMallMadoopura,Kannada,13:40,Gold,350₹,10,0
+Kalaburagi,MirajCinemasShraddhaMallMadoopura,Kannada,13:40,Executive,180₹,192,0
+Kalaburagi,MirajCinemasShraddhaMallMadoopura,Kannada,13:40,Special,160₹,80,0
+Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,14:50,Recliner,250₹,16,0
+Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,14:50,Prime,170₹,90,4
+Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,14:50,Classic,150₹,108,0
+Bangalore,PvrVegaBannerghattaRoad,Kannada,16:30,Recliner,250₹,9,0
+Bangalore,PvrVegaBannerghattaRoad,Kannada,16:30,Classic,150₹,86,8
+Bangalore,PvrVaishnaviSapphireMallYashwantpur,Kannada,18:50,Recliner,280₹,9,0
+Bangalore,PvrVaishnaviSapphireMallYashwantpur,Kannada,18:50,Prime,190₹,20,0
+Bangalore,PvrVaishnaviSapphireMallYashwantpur,Kannada,18:50,Classic,170₹,85,0
+Mangalore,PvrForumFizaMallPandeshwar,Kannada,19:05,Classic,112₹,71,0
