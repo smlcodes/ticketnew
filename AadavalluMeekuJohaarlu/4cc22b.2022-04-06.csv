@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bellary,RrCinemasBellary,Telugu,11:00,Gold,150₹,86,40
+Bellary,RrCinemasBellary,Telugu,11:00,Silver,100₹,242,132
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,11:30,Premium,145₹,192,5
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,11:30,NonPremium,100₹,95,2
+Bellary,RrCinemasBellary,Telugu,14:00,Gold,150₹,86,40
+Bellary,RrCinemasBellary,Telugu,14:00,Silver,100₹,242,132
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,14:30,Premium,145₹,192,2
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,14:30,NonPremium,100₹,95,11
+Bellary,RrCinemasBellary,Telugu,17:00,Gold,150₹,86,40
+Bellary,RrCinemasBellary,Telugu,17:00,Silver,100₹,242,132
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,18:30,Premium,145₹,192,2
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,18:30,NonPremium,100₹,95,1
+Bellary,RrCinemasBellary,Telugu,20:00,Gold,150₹,86,40
+Bellary,RrCinemasBellary,Telugu,20:00,Silver,100₹,242,132
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,21:30,Premium,145₹,192,6
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,21:30,NonPremium,100₹,95,3
