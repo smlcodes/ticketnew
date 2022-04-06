@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bangalore,PvrVegaBannerghattaRoad,Kannada,11:20,Recliner,220₹,9,0
+Bangalore,PvrVegaBannerghattaRoad,Kannada,11:20,Classic,112₹,73,0
+Bangalore,PvrVegaBannerghattaRoad,Kannada,11:20,Recliner,220₹,9,0
+Bangalore,PvrVegaBannerghattaRoad,Kannada,11:20,Classic,112₹,86,4
+Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,12:35,Recliner,250₹,16,0
+Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,12:35,Prime,170₹,90,0
+Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,12:35,Classic,150₹,108,0
+Bangalore,PvrPhoenixMarketcityMallWhitefieldRoad,Kannada,12:55,Recliner,250₹,7,0
+Bangalore,PvrPhoenixMarketcityMallWhitefieldRoad,Kannada,12:55,Classic,170₹,72,2
+Bangalore,CinepolisEtaNammaMall,Kannada,19:50,Normal,170₹,9,0
+Bangalore,CinepolisEtaNammaMall,Kannada,19:50,Premium,170₹,35,0
+Bangalore,CinepolisEtaNammaMall,Kannada,19:50,Executive,170₹,81,0
