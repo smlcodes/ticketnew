@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Noida,PvrLogixCityCentreNoida,English,19:30,Classic,260₹,87,13
+Gurgaon,PvrAmbienceGurgaon,English,19:30,Prime,300₹,38,6
+Gurgaon,PvrAmbienceGurgaon,English,19:30,ClassicNormal,250₹,84,2
