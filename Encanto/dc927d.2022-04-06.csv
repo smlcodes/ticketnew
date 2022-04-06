@@ -1,0 +1,12 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bangalore,PvrVrWhitefieldRoad,English,18:50,Recliner,300₹,14,9
+Bangalore,PvrVrWhitefieldRoad,English,18:50,Prime,210₹,17,10
+Bangalore,PvrVrWhitefieldRoad,English,18:50,Classic,190₹,115,17
+DelhiNcr,PvrPromenadeVasantKunj,English,19:30,Prime,390₹,44,10
+DelhiNcr,PvrPromenadeVasantKunj,English,19:30,Classic,360₹,50,0
+DelhiNcr,PvrPromenadeVasantKunj,English,19:30,Prime,390₹,44,10
+DelhiNcr,PvrPromenadeVasantKunj,English,19:30,Classic,360₹,50,0
+DelhiNcr,PvrPromenadeVasantKunj,English,19:30,Prime,390₹,44,10
+DelhiNcr,PvrPromenadeVasantKunj,English,19:30,Classic,360₹,50,0
+DelhiNcr,PvrPromenadeVasantKunj,English,19:30,Prime,390₹,44,16
+DelhiNcr,PvrPromenadeVasantKunj,English,19:30,Classic,360₹,50,0
