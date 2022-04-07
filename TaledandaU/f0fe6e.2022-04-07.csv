@@ -1,0 +1,11 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bangalore,PvrMsrElementsMallTanisandhraMainRoad,Kannada,13:20,Recliner,250₹,11,1
+Bangalore,PvrMsrElementsMallTanisandhraMainRoad,Kannada,13:20,Prime,170₹,19,0
+Bangalore,PvrMsrElementsMallTanisandhraMainRoad,Kannada,13:20,Classic,150₹,80,0
+Bangalore,PvrVegaBannerghattaRoad,Kannada,13:35,Recliner,250₹,9,0
+Bangalore,PvrVegaBannerghattaRoad,Kannada,13:35,Classic,150₹,86,7
+Bangalore,CinepolisEtaNammaMall,Kannada,15:25,Premium,130₹,29,0
+Bangalore,CinepolisEtaNammaMall,Kannada,15:25,Executive,130₹,69,0
+Bangalore,PvrVaishnaviSapphireMallYashwantpur,Kannada,15:55,Recliner,230₹,9,0
+Bangalore,PvrVaishnaviSapphireMallYashwantpur,Kannada,15:55,Prime,140₹,20,1
+Bangalore,PvrVaishnaviSapphireMallYashwantpur,Kannada,15:55,Classic,112₹,85,0
