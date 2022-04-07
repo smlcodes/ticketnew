@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,TimeCinemaAhmedabadCgSquareMall,Gujarathi,12:00,Infinity900,900₹,12,0
+Surat,InoxRajImperialVarachhaRoad,Gujarathi,15:00,Imperial,320₹,5,5
+Surat,InoxRajImperialVarachhaRoad,Gujarathi,15:00,Platinum,170₹,20,0
+Surat,InoxRajImperialVarachhaRoad,Gujarathi,15:00,Gold,140₹,23,2
+Surat,InoxRajImperialVarachhaRoad,Gujarathi,15:00,Silver,120₹,10,0
+Ahmedabad,RevolutionMultiplexAhmedabad,Gujarathi,18:35,PlatinumClass,180₹,100,0
+Ahmedabad,RevolutionMultiplexAhmedabad,Gujarathi,18:35,GoldenClass,160₹,100,0
+Ahmedabad,RevolutionMultiplexAhmedabad,Gujarathi,18:35,SilverClass,140₹,100,0
+Ahmedabad,TimeCinemaAhmedabadCgSquareMall,Gujarathi,19:25,Standard260,260₹,84,0
