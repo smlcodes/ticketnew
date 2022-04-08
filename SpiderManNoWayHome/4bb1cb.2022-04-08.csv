@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Noida,PvrLogixCityCentrePlayHouseNoida,English,11:00,3DClassic,260₹,49,12
+Hyderabad,PvrPlayHouseNextGalleriaMallPanjagutt,English,15:00,Classic,200₹,54,31
+Noida,PvrLogixCityCentrePlayHouseNoida,English,16:50,3DClassic,330₹,49,16
+Noida,PvrLogixCityCentrePlayHouseNoida,English,22:40,3DClassic,330₹,41,38
