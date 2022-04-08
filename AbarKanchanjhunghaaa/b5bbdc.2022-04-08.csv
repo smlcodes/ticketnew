@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,16:00,Balcony,50₹,264,99
+Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,16:00,FirstClass,30₹,513,89
+Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,19:00,Balcony,50₹,264,120
+Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,19:00,FirstClass,30₹,513,106
+Kolkata,AjantaCinema,Bengali,20:30,Balcony,150₹,106,58
