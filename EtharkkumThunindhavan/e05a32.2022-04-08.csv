@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Thanjavur,GvComplexThanjavur,Tamil,11:15,BoxA,150₹,11,11
+Thanjavur,GvComplexThanjavur,Tamil,11:15,BoxB,150₹,11,11
+Thanjavur,GvComplexThanjavur,Tamil,11:15,I,130₹,156,29
+Thanjavur,GvComplexThanjavur,Tamil,11:15,Ii,100₹,60,0
+Thanjavur,GvComplexThanjavur,Tamil,14:30,BoxA,150₹,11,11
+Thanjavur,GvComplexThanjavur,Tamil,14:30,BoxB,150₹,11,11
+Thanjavur,GvComplexThanjavur,Tamil,14:30,I,130₹,156,29
+Thanjavur,GvComplexThanjavur,Tamil,14:30,Ii,100₹,60,0
