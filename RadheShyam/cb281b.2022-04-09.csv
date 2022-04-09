@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Rajahmundry,UrvasiComplexRajahmundry,Telugu,11:00,LowerBalcony,112₹,277,80
+Rajahmundry,UrvasiComplexRajahmundry,Telugu,11:00,UpperBalcony,112₹,246,0
+Rajahmundry,UrvasiComplexRajahmundry,Telugu,11:00,SecondCl,75₹,142,0
+Gudivada,BommarilluCinemas,Telugu,21:30,BalconyPlatinumGate,112₹,88,0
+Gudivada,BommarilluCinemas,Telugu,21:30,ChairDiamondGate,112₹,138,138
+Gudivada,BommarilluCinemas,Telugu,21:30,ThirdClassGoldenGate,90₹,53,53
