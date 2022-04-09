@@ -1,0 +1,12 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Nagpur,InoxJaswantTuliMallKampteeRoad,Hindi,09:00,Club,150₹,240,0
+Nagpur,InoxJaswantTuliMallKampteeRoad,Hindi,09:00,Executive,130₹,68,0
+Pune,CinepolisSeasonsMall,Hindi,10:00,Premium,170₹,22,10
+Pune,CinepolisSeasonsMall,Hindi,10:00,Normal,150₹,17,0
+Pune,CinepolisSeasonsMall,Hindi,10:00,Executive,150₹,49,3
+Nagpur,PvrEmpressCityMallNagpur,Hindi,13:00,Prime,190₹,166,52
+Nagpur,PvrEmpressCityMallNagpur,Hindi,13:00,Classic,140₹,56,0
+Pune,RahulTalkies70MmShivajiNagar,Hindi,16:00,GoldClass,100₹,152,0
+Pune,RahulTalkies70MmShivajiNagar,Hindi,16:00,SilverClass,100₹,120,0
+Nagpur,InoxJaswantTuliMallKampteeRoad,Hindi,19:15,Club,200₹,240,40
+Nagpur,InoxJaswantTuliMallKampteeRoad,Hindi,19:15,Executive,160₹,68,27
