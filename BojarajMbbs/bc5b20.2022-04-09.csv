@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bangalore,CinepolisForumShantiniketan,Tulu,17:55,Vip,400₹,10,0
+Bangalore,CinepolisForumShantiniketan,Tulu,17:55,Premium,220₹,32,0
+Bangalore,CinepolisForumShantiniketan,Tulu,17:55,Executive,200₹,56,2
+Bangalore,CinepolisForumShantiniketan,Tulu,17:55,Normal,180₹,24,0
+Bangalore,InoxForumNeighbourhoodMallWhiteField,Tulu,18:55,Silver,250₹,69,0
+Bangalore,InoxForumNeighbourhoodMallWhiteField,Tulu,18:55,Premiere,240₹,78,0
