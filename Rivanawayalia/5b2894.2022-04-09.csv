@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Nagpur,AlankarCinemaGorepeth,Marathi,10:00,Balcony,100₹,100,0
+Nagpur,AlankarCinemaGorepeth,Marathi,10:00,FirstBalcony,70₹,100,0
+Mumbai,CarnivalMoviestarGoregaonW,Marathi,11:45,GoldOffline,130₹,46,10
+Mumbai,CarnivalMoviestarGoregaonW,Marathi,11:45,SilverOffline,100₹,24,0
+Latur,RegalCinemaLatur,Marathi,12:00,Balcony,80₹,150,0
+Latur,RegalCinemaLatur,Marathi,12:00,FirstClass,60₹,322,0
+Ahmednagar,AshaSquareMultiplexAhmednagar,Marathi,15:00,GoldenClass,150₹,100,0
+Mumbai,MovietimeHubMallGoregaonE,Marathi,18:00,Gold,160₹,196,19
