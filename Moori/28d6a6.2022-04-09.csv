@@ -1,0 +1,14 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kochi,SaritaCinemasKochi,Malayalam,09:40,BlueCircle,150₹,227,218
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmos,Malayalam,11:00,PlatinumRecliner,300₹,13,0
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmos,Malayalam,11:00,Gold,150₹,225,0
+Malappuram,MallikaPlexMalappuram,Malayalam,11:30,Executive,140₹,54,54
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmos,Malayalam,14:30,PlatinumRecliner,300₹,13,0
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmos,Malayalam,14:30,Gold,150₹,225,0
+Manjeri,LadderCinemasManjeri,Malayalam,15:00,Executive,150₹,74,0
+Koothattukulam,VCinemasKoothattukulam,Malayalam,18:15,Gold,290₹,6,0
+Koothattukulam,VCinemasKoothattukulam,Malayalam,18:15,Silver,140₹,159,0
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmos,Malayalam,18:15,PlatinumRecliner,300₹,13,0
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmos,Malayalam,18:15,Gold,150₹,225,0
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmos,Malayalam,21:30,PlatinumRecliner,300₹,13,0
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmos,Malayalam,21:30,Gold,150₹,225,0
