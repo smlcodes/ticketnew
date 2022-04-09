@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Rajahmundry,UrvasiComplexRajahmundry,Telugu,14:30,LowerBalcony,112₹,277,80
+Rajahmundry,UrvasiComplexRajahmundry,Telugu,14:30,UpperBalcony,112₹,246,0
+Rajahmundry,UrvasiComplexRajahmundry,Telugu,14:30,SecondCl,75₹,142,0
+Eluru,VMaxEluru,Telugu,14:30,Recliner,250₹,25,19
+Eluru,VMaxEluru,Telugu,14:30,FristClass,150₹,173,82
+Eluru,VMaxEluru,Telugu,14:30,LowClass,50₹,46,1
+Hyderabad,PvrKukatpallyHyderabad,Telugu,16:35,Recliner,250₹,12,11
+Hyderabad,PvrKukatpallyHyderabad,Telugu,16:35,Classic,150₹,232,207
+Hyderabad,PlatinumCinemasGachibowli,Telugu,17:35,PlatinumPremiumRecliner,350₹,18,18
+Hyderabad,PlatinumCinemasGachibowli,Telugu,17:35,PlatinumRecliners,350₹,16,16
+Eluru,VMaxEluru,Telugu,18:30,Recliner,250₹,25,17
+Eluru,VMaxEluru,Telugu,18:30,FristClass,150₹,173,80
+Eluru,VMaxEluru,Telugu,18:30,LowClass,50₹,46,1
+Eluru,VMaxEluru,Telugu,21:30,Recliner,250₹,25,21
+Eluru,VMaxEluru,Telugu,21:30,FristClass,150₹,173,86
+Eluru,VMaxEluru,Telugu,21:30,LowClass,50₹,46,2
