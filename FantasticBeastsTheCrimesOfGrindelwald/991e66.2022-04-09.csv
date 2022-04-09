@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Sonipat,MaxxCinemaSonipat,Hindi,10:00,Gold,300₹,14,0
+Sonipat,MaxxCinemaSonipat,Hindi,10:00,Premur,99₹,197,13
+Amalapuram,SriVenkataramanaACDtsAmalapuram,Telugu,11:15,ReservedClass,110₹,378,252
+Amalapuram,SriVenkataramanaACDtsAmalapuram,Telugu,14:15,ReservedClass,110₹,378,252
+Kolkata,AjantaCinema,Hindi,14:35,Recliner,250₹,13,4
+Kolkata,AjantaCinema,Hindi,14:35,Balcony,150₹,213,95
+Sonipat,MaxxCinemaSonipat,Hindi,15:45,Gold,250₹,14,0
+Sonipat,MaxxCinemaSonipat,Hindi,15:45,Premur,120₹,197,13
+Amalapuram,SriVenkataramanaACDtsAmalapuram,Telugu,18:15,ReservedClass,110₹,378,252
+Amalapuram,SriVenkataramanaACDtsAmalapuram,Telugu,21:15,ReservedClass,110₹,378,252
+Sonipat,MaxxCinemaSonipat,Hindi,21:30,Gold,250₹,14,0
+Sonipat,MaxxCinemaSonipat,Hindi,21:30,Premur,120₹,197,13
