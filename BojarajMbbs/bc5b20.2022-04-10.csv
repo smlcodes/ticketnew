@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bangalore,CinepolisRoyalMeenakshiMall,Tulu,15:55,Normal,200₹,24,0
+Bangalore,CinepolisRoyalMeenakshiMall,Tulu,15:55,Premium,200₹,28,16
+Bangalore,CinepolisRoyalMeenakshiMall,Tulu,15:55,Executive,200₹,42,12
+Bangalore,InoxForumNeighbourhoodMallWhiteField,Tulu,18:55,Silver,250₹,69,9
+Bangalore,InoxForumNeighbourhoodMallWhiteField,Tulu,18:55,Premiere,240₹,78,0
