@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kanpur,JugulPalaceCinemaKrishnaNagar,Hindi,08:15,Balcony,110₹,20,0
+Indore,PvrTreasureIslandMallSouthTukoganj,Hindi,09:30,Prime,130₹,69,22
+Indore,PvrTreasureIslandMallSouthTukoganj,Hindi,09:30,Classic,110₹,28,0
+Noida,PvrLogixCityCentreNoida,Hindi,10:15,Classic,300₹,99,4
+Kanpur,JugulPalaceCinemaKrishnaNagar,Hindi,11:00,Balcony,110₹,20,0
+Kanpur,JugulPalaceCinemaKrishnaNagar,Hindi,13:30,Balcony,110₹,20,4
+Kanpur,JugulPalaceCinemaKrishnaNagar,Hindi,16:00,Balcony,110₹,20,0
+Kanpur,JugulPalaceCinemaKrishnaNagar,Hindi,18:30,Balcony,110₹,20,0
