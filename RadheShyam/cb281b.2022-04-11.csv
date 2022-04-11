@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Visakhapatnam,SriKanthiTheatreDtsVisakhapatnam,Telugu,11:00,Premium,60₹,362,0
+Visakhapatnam,SriKanthiTheatreDtsVisakhapatnam,Telugu,11:00,NonPremium,40₹,247,247
+Visakhapatnam,SriKanthiTheatreDtsVisakhapatnam,Telugu,14:30,Premium,60₹,362,0
+Visakhapatnam,SriKanthiTheatreDtsVisakhapatnam,Telugu,14:30,NonPremium,40₹,247,247
+Gudivada,BommarilluCinemas,Telugu,18:30,BalconyPlatinumGate,112₹,88,18
+Gudivada,BommarilluCinemas,Telugu,18:30,ChairDiamondGate,112₹,138,138
+Gudivada,BommarilluCinemas,Telugu,18:30,ThirdClassGoldenGate,90₹,53,53
+Visakhapatnam,SriKanthiTheatreDtsVisakhapatnam,Telugu,18:30,Premium,60₹,362,0
+Visakhapatnam,SriKanthiTheatreDtsVisakhapatnam,Telugu,18:30,NonPremium,40₹,247,247
+Gudivada,BommarilluCinemas,Telugu,21:30,BalconyPlatinumGate,112₹,88,18
+Gudivada,BommarilluCinemas,Telugu,21:30,ChairDiamondGate,112₹,138,138
+Gudivada,BommarilluCinemas,Telugu,21:30,ThirdClassGoldenGate,90₹,53,53
+Visakhapatnam,SriKanthiTheatreDtsVisakhapatnam,Telugu,21:30,Premium,60₹,362,0
+Visakhapatnam,SriKanthiTheatreDtsVisakhapatnam,Telugu,21:30,NonPremium,40₹,247,247
