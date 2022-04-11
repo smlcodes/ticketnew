@@ -1,0 +1,13 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bellary,RaghavendraTheatre2KACKcRoad,Telugu,10:30,Diamond,150₹,150,45
+Bellary,RaghavendraTheatre2KACKcRoad,Telugu,10:30,Gold,100₹,453,312
+Bellary,RaghavendraTheatre2KACKcRoad,Telugu,13:30,Diamond,150₹,150,45
+Bellary,RaghavendraTheatre2KACKcRoad,Telugu,13:30,Gold,100₹,453,312
+Bellary,RaghavendraTheatre2KACKcRoad,Telugu,16:30,Diamond,150₹,150,45
+Bellary,RaghavendraTheatre2KACKcRoad,Telugu,16:30,Gold,100₹,453,312
+Kankipadu,SriRamaChandraTheatreKankipadu,Telugu,18:30,Premium,100₹,133,0
+Kankipadu,SriRamaChandraTheatreKankipadu,Telugu,18:30,NonPremium,78₹,48,36
+Bellary,RaghavendraTheatre2KACKcRoad,Telugu,19:30,Diamond,150₹,150,45
+Bellary,RaghavendraTheatre2KACKcRoad,Telugu,19:30,Gold,100₹,453,312
+Kankipadu,SriRamaChandraTheatreKankipadu,Telugu,21:30,Premium,100₹,133,0
+Kankipadu,SriRamaChandraTheatreKankipadu,Telugu,21:30,NonPremium,78₹,48,36
