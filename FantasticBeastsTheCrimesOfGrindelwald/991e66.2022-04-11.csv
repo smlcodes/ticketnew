@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Amalapuram,SriVenkataramanaACDtsAmalapuram,Telugu,11:15,ReservedClass,110₹,378,252
+Amalapuram,SriVenkataramanaACDtsAmalapuram,Telugu,14:15,ReservedClass,110₹,378,252
+Kolkata,AjantaCinema,Hindi,14:35,Recliner,250₹,13,4
+Kolkata,AjantaCinema,Hindi,14:35,Balcony,150₹,213,95
+Amalapuram,SriVenkataramanaACDtsAmalapuram,Telugu,18:15,ReservedClass,110₹,378,252
+Amalapuram,SriVenkataramanaACDtsAmalapuram,Telugu,21:15,ReservedClass,110₹,378,252
