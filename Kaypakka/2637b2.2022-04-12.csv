@@ -1,0 +1,12 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmos,Malayalam,11:00,DiamondSofa,200₹,4,0
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmos,Malayalam,11:00,Gold,150₹,173,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,12:30,Silver,190₹,103,6
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,12:30,ExecutiveOffline,160₹,72,0
+Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,12:30,NormalOffline,100₹,18,0
+Trivandrum,CarnivalGreenfieldCinemaKaryavattom,Malayalam,13:00,ExecutiveOffline,140₹,119,25
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmos,Malayalam,14:30,DiamondSofa,200₹,4,0
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmos,Malayalam,14:30,Gold,150₹,173,0
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmos,Malayalam,21:30,DiamondSofa,200₹,4,0
+Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmos,Malayalam,21:30,Gold,150₹,173,0
+Thalayolaparambu,CarnivalThalayolaparambu,Malayalam,21:30,Gold,110₹,144,6
