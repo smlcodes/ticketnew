@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bangalore,InoxShreeGarudaSwagathMallJayanagar,Kannada,09:55,Club,140₹,45,0
+Bangalore,InoxShreeGarudaSwagathMallJayanagar,Kannada,09:55,Executive,130₹,134,0
+Sirsi,NatarajMovieHallSirsi,Kannada,10:00,Balcony,150₹,160,116
+Bangalore,InoxMantriSquareMalleshwaram,Kannada,10:40,Club,140₹,209,6
+Bangalore,PvrVegaBannerghattaRoad,Kannada,13:10,Classic,150₹,118,0
+Bangalore,PvrMsrElementsMallTanisandhraMainRoad,Kannada,16:05,Recliner,250₹,11,0
+Bangalore,PvrMsrElementsMallTanisandhraMainRoad,Kannada,16:05,Prime,170₹,19,0
+Bangalore,PvrMsrElementsMallTanisandhraMainRoad,Kannada,16:05,Classic,150₹,80,0
