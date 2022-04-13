@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Nagpur,InoxJaswantTuliMallKampteeRoad,Hindi,11:00,Club,90₹,232,6
+Nagpur,InoxJaswantTuliMallKampteeRoad,Hindi,11:00,Executive,90₹,49,0
+Nagpur,InoxJaswantTuliMallKampteeRoad,Hindi,15:30,Club,140₹,240,11
+Nagpur,InoxJaswantTuliMallKampteeRoad,Hindi,15:30,Executive,112₹,68,0
+Pune,RahulTalkies70MmShivajiNagar,Hindi,16:00,GoldClass,100₹,185,0
+Pune,RahulTalkies70MmShivajiNagar,Hindi,16:00,SilverClass,100₹,120,0
