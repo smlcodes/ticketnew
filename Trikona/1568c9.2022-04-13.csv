@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Davanagere,MovietimeSsGardeniaMallDavanagere,Kannada,10:00,Gold,200₹,79,2
+Davanagere,MovietimeSsGardeniaMallDavanagere,Kannada,10:00,Premier,180₹,180,0
+Mudhol,ApsonaTheatreMudhol,Kannada,12:00,Balcony,100₹,70,40
+Bangalore,InoxShreeGarudaSwagathMallJayanagar,Kannada,12:20,Club,140₹,45,3
+Bangalore,InoxShreeGarudaSwagathMallJayanagar,Kannada,12:20,Executive,130₹,134,2
+Mudhol,ApsonaTheatreMudhol,Kannada,15:00,Balcony,100₹,70,40
+Mudhol,ApsonaTheatreMudhol,Kannada,18:00,Balcony,100₹,70,40
+Mudhol,ApsonaTheatreMudhol,Kannada,21:00,Balcony,100₹,70,40
