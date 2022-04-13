@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kanpur,JugulPalaceCinemaKrishnaNagar,Hindi,08:15,Balcony,110₹,20,0
+Noida,PvrLogixCityCentreNoida,Hindi,10:15,Classic,190₹,99,3
+Kanpur,JugulPalaceCinemaKrishnaNagar,Hindi,11:00,Balcony,110₹,20,0
+Kanpur,JugulPalaceCinemaKrishnaNagar,Hindi,13:30,Balcony,110₹,20,0
+Jetpur,FunCinemaBalajiCineplex,Hindi,15:30,Box,250₹,100,0
+Jetpur,FunCinemaBalajiCineplex,Hindi,15:30,Executive,160₹,100,0
+Jetpur,FunCinemaBalajiCineplex,Hindi,15:30,Upper,140₹,100,0
+Kanpur,JugulPalaceCinemaKrishnaNagar,Hindi,16:00,Balcony,110₹,20,0
+Kanpur,JugulPalaceCinemaKrishnaNagar,Hindi,18:30,Balcony,110₹,20,5
+Jetpur,FunCinemaBalajiCineplex,Hindi,18:30,Box,250₹,100,0
+Jetpur,FunCinemaBalajiCineplex,Hindi,18:30,Executive,160₹,100,0
+Jetpur,FunCinemaBalajiCineplex,Hindi,18:30,Upper,140₹,100,0
+Jetpur,FunCinemaBalajiCineplex,Hindi,21:30,Box,250₹,100,0
+Jetpur,FunCinemaBalajiCineplex,Hindi,21:30,Executive,200₹,100,0
+Jetpur,FunCinemaBalajiCineplex,Hindi,21:30,Upper,180₹,100,0
