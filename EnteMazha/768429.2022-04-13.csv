@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kochi,SaritaCinemasKochi,Malayalam,12:00,Saphire,150₹,42,42
+Kochi,SaritaCinemasKochi,Malayalam,12:00,EmeraldCircle,150₹,370,342
+Kochi,SaritaCinemasKochi,Malayalam,12:00,Ruby,150₹,821,821
+Kakkattil,AjanthaCinemasKakkattil,Malayalam,13:30,Executive,110₹,199,0
+Kochi,SaritaCinemasKochi,Malayalam,15:00,Saphire,150₹,42,42
+Kochi,SaritaCinemasKochi,Malayalam,15:00,EmeraldCircle,150₹,370,342
+Kochi,SaritaCinemasKochi,Malayalam,15:00,Ruby,150₹,821,821
+Kakkattil,AjanthaCinemasKakkattil,Malayalam,16:30,Executive,110₹,199,0
+Kochi,SaritaCinemasKochi,Malayalam,18:00,Saphire,150₹,42,42
+Kochi,SaritaCinemasKochi,Malayalam,18:00,EmeraldCircle,150₹,370,342
+Kochi,SaritaCinemasKochi,Malayalam,18:00,Ruby,150₹,821,821
+Kakkattil,AjanthaCinemasKakkattil,Malayalam,19:30,Executive,110₹,199,0
+Kochi,SaritaCinemasKochi,Malayalam,21:00,Saphire,150₹,42,42
+Kochi,SaritaCinemasKochi,Malayalam,21:00,EmeraldCircle,150₹,370,342
+Kochi,SaritaCinemasKochi,Malayalam,21:00,Ruby,150₹,821,821
