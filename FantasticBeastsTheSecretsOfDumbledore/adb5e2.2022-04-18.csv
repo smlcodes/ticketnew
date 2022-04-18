@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+DelhiNcr,PvrSelectCityWalkGoldSaket,English,09:10,DboxPlatinum,600₹,14,0
+DelhiNcr,PvrSelectCityWalkGoldSaket,English,09:10,Platinum,500₹,24,0
+Noida,PvrLogixCityCentre4DxNoida,Hindi,10:30,Classic,375₹,92,11
+DelhiNcr,PvrSelectCityWalkSaket,English,12:45,DboxRecliner,800₹,8,3
+DelhiNcr,PvrSelectCityWalkSaket,English,12:45,Prime,300₹,47,18
+DelhiNcr,PvrSelectCityWalkSaket,English,12:45,ClassicNormal,250₹,104,8
+Mumbai,CinepolisSeawoodsLT,Hindi,13:55,Normal,400₹,96,14
+Mumbai,PvrIconInfinitiAndheriW,English,16:30,DboxRecliner,500₹,11,3
+Mumbai,PvrIconInfinitiAndheriW,English,16:30,DboxPrime,270₹,32,4
+Mumbai,PvrIconInfinitiAndheriW,English,16:30,Prime,170₹,126,12
+Mumbai,PvrIconInfinitiAndheriW,English,16:30,Classic,120₹,42,2
+DelhiNcr,PvrSelectCityWalkSaket,English,19:35,DboxRecliner,800₹,8,8
+DelhiNcr,PvrSelectCityWalkSaket,English,19:35,Prime,300₹,47,40
+DelhiNcr,PvrSelectCityWalkSaket,English,19:35,ClassicNormal,250₹,112,12
+Mumbai,CinepolisSeawoodsLT,Hindi,22:40,Normal,400₹,96,19
