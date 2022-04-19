@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Ahmedabad,TimeCinemaAhmedabadCgSquareMall,English,08:55,Standard180,180₹,108,8
+Mumbai,InoxAtriaMallWorli,English,10:00,Insignia,330₹,26,0
+DelhiNcr,PvrPromenadeVasantKunj,English,10:00,Prime,350₹,44,10
+DelhiNcr,PvrPromenadeVasantKunj,English,10:00,Classic,320₹,50,0
+DelhiNcr,PvrPromenadeVasantKunj,English,10:00,Prime,380₹,34,0
+DelhiNcr,PvrPromenadeVasantKunj,English,10:00,Classic,350₹,50,0
+Gurgaon,PvrAmbienceGoldGurgaon,English,11:05,Platinum,500₹,28,2
+Gurgaon,PvrAmbienceGoldGurgaon,English,11:05,PlatinumSuperior,500₹,8,2
+Chandigarh,Pvr4DxElanteChandigarh,English,11:05,Classic,350₹,92,2
+Mumbai,InoxMegaplexInorbitMall,English,13:20,Club,280₹,16,0
+Mumbai,InoxMegaplexInorbitMall,English,13:20,Royal,280₹,59,9
+DelhiNcr,PvrDirectorsCutAmbienceVasantKunj,English,14:05,Platinum,700₹,19,0
+DelhiNcr,PvrDirectorsCutAmbienceVasantKunj,English,14:05,PlatinumSuperior,700₹,6,2
+Hyderabad,Pvr4DxIrrumManzilHyderabad,English,14:15,4Dx,350₹,96,19
+Hyderabad,Pvr4DxKukatpallyHyderabad,English,16:20,4DxClassic,350₹,108,9
