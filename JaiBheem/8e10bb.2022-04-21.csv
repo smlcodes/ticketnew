@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Sardulgarh,GoldenCinemasSardulgarh,Hindi,13:30,Platinum,300₹,13,7
+Sardulgarh,GoldenCinemasSardulgarh,Hindi,13:30,Royal,250₹,16,9
+Sardulgarh,GoldenCinemasSardulgarh,Hindi,13:30,Gold,200₹,56,42
+Sardulgarh,GoldenCinemasSardulgarh,Hindi,13:30,Silver,170₹,64,48
+Sardulgarh,GoldenCinemasSardulgarh,Hindi,13:30,NormalClass,150₹,32,16
+Mansa,SamratCinemaMansa,Hindi,19:30,Box1,100₹,36,0
+Mansa,SamratCinemaMansa,Hindi,19:30,Balconey,70₹,72,0
