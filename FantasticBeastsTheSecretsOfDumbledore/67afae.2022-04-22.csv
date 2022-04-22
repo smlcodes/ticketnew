@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PvrDiamondPlazaJassore,Hindi,09:35,Recliner,420₹,12,12
+Kolkata,PvrDiamondPlazaJassore,Hindi,09:35,Prime,230₹,11,11
+Kolkata,PvrDiamondPlazaJassore,Hindi,09:35,Classic,170₹,80,80
+Ahmedabad,PvrArvedTranscube,Hindi,11:45,Classic,140₹,39,0
+Ahmedabad,PvrArvedTranscube,Hindi,11:45,Prime,140₹,96,17
+Raipur,CinemaxCityCenterPandri,Hindi,13:30,Recliner,380₹,12,6
+Raipur,CinemaxCityCenterPandri,Hindi,13:30,Prime,160₹,140,42
+Raipur,CinemaxCityCenterPandri,Hindi,13:30,Classic,140₹,24,0
