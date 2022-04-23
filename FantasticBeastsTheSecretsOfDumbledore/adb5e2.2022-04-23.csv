@@ -1,0 +1,4 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+DelhiNcr,PvrSelectCityWalkSaket,English,15:00,DboxRecliner,"1,100₹",8,8
+DelhiNcr,PvrSelectCityWalkSaket,English,15:00,Prime,450₹,47,43
+DelhiNcr,PvrSelectCityWalkSaket,English,15:00,ClassicNormal,350₹,104,77
