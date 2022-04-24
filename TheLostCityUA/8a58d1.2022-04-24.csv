@@ -1,0 +1,8 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,InoxMegaplexInorbitMall,English,11:50,Club,240₹,16,4
+Mumbai,InoxMegaplexInorbitMall,English,11:50,Royal,240₹,59,30
+Mumbai,InoxAtriaMallWorli,English,13:20,Insignia,830₹,30,24
+Gurgaon,PvrAmbienceGoldGurgaon,English,18:05,PlatinumSuperior,"1,200₹",8,0
+Gurgaon,PvrAmbienceGoldGurgaon,English,18:05,Platinum,"1,000₹",28,4
+Gurgaon,PvrAmbienceGoldGurgaon,English,18:05,PlatinumSuperior,"1,200₹",8,0
+Gurgaon,PvrAmbienceGoldGurgaon,English,18:05,Platinum,"1,000₹",28,15
