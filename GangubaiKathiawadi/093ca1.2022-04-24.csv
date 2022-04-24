@@ -1,0 +1,6 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,InoxAtriaMallWorli,Hindi,16:35,Insignia,"1,080₹",26,20
+Mumbai,InoxRCityGhatkoparW,Hindi,17:30,Insignia,700₹,42,22
+Mumbai,PaytmImaxInoxRCityGhatkoparW,Hindi,17:30,Insignia,700₹,42,22
+Noida,PvrLogixCityCentreNoida,Hindi,22:20,Classic,300₹,76,24
+Mumbai,InoxMegaplexInorbitMall,Hindi,22:55,Kiddles,300₹,53,10
