@@ -1,0 +1,5 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Nagpur,PvrEmpressCityMallNagpur,Hindi,15:30,Prime,240₹,95,53
+Nagpur,PvrEmpressCityMallNagpur,Hindi,15:30,Classic,200₹,26,6
+Nagpur,PvrEmpressCityMallNagpur,Hindi,15:40,Prime,240₹,95,15
+Nagpur,PvrEmpressCityMallNagpur,Hindi,15:40,Classic,200₹,26,0
