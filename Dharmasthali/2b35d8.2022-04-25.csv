@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Srikakulam,MithraMovieMaxMaruthiTheatreSrikakulam,Telugu,11:00,Premium,147₹,264,71
+Srikakulam,MithraMovieMaxMaruthiTheatreSrikakulam,Telugu,11:00,NonPremium,100₹,95,0
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,11:30,Premium,145₹,192,7
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,11:30,NonPremium,100₹,95,8
+Srikakulam,MithraMovieMaxMaruthiTheatreSrikakulam,Telugu,14:30,Premium,147₹,264,71
+Srikakulam,MithraMovieMaxMaruthiTheatreSrikakulam,Telugu,14:30,NonPremium,100₹,95,0
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,14:30,Premium,145₹,192,2
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,14:30,NonPremium,100₹,95,5
+Srikakulam,MithraMovieMaxMaruthiTheatreSrikakulam,Telugu,18:30,Premium,147₹,264,71
+Srikakulam,MithraMovieMaxMaruthiTheatreSrikakulam,Telugu,18:30,NonPremium,100₹,95,0
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,18:30,Premium,145₹,192,1
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,18:30,NonPremium,100₹,95,4
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,21:30,Premium,145₹,192,0
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,21:30,NonPremium,100₹,95,0
+Srikakulam,MithraMovieMaxMaruthiTheatreSrikakulam,Telugu,21:45,Premium,147₹,264,71
+Srikakulam,MithraMovieMaxMaruthiTheatreSrikakulam,Telugu,21:45,NonPremium,100₹,95,0
