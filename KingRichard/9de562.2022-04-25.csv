@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,PvrIconInfinitiGoldAndheriW,English,14:00,Luxe,600₹,51,3
+Mumbai,PvrIconInfinitiGoldAndheriW,English,14:00,LuxeSuperior,600₹,33,0
+Mumbai,InoxMegaplexInorbitMall,English,16:35,Insignia,400₹,33,6
+Mumbai,InoxAtriaMallWorli,English,16:45,Insignia,700₹,27,4
+Mumbai,InoxLaserplexCr2NarimanPoint,English,19:00,Insignia,700₹,70,4
+Gurgaon,PvrAmbienceGoldGurgaon,English,19:55,PlatinumSuperior,700₹,16,0
+Gurgaon,PvrAmbienceGoldGurgaon,English,19:55,Platinum,600₹,28,3
+Mumbai,MetroInoxCinemaMGRoad,English,22:50,Kiddles,300₹,36,5
