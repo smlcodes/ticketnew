@@ -1,0 +1,9 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mandapeta,SatyasriTheatres2KACDtsMandapeta,Telugu,11:15,FirstClass,110₹,376,84
+Mandapeta,SatyasriTheatres2KACDtsMandapeta,Telugu,14:15,FirstClass,110₹,376,84
+Anantapur,GowriCinemaAnantapur,Telugu,14:30,Platinum,148₹,280,34
+Anantapur,GowriCinemaAnantapur,Telugu,14:30,Gold,112₹,98,0
+Mandapeta,SatyasriTheatres2KACDtsMandapeta,Telugu,18:15,FirstClass,110₹,376,84
+Mandapeta,SatyasriTheatres2KACDtsMandapeta,Telugu,21:15,FirstClass,110₹,376,84
+Anantapur,GowriCinemaAnantapur,Telugu,21:30,Platinum,148₹,280,34
+Anantapur,GowriCinemaAnantapur,Telugu,21:30,Gold,112₹,98,0
