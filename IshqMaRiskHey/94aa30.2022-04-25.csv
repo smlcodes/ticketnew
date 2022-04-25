@@ -1,0 +1,15 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Durg,FunCinemasApsaraTalkies,Chhattisghari,12:00,Balcony,80₹,100,0
+Durg,FunCinemasApsaraTalkies,Chhattisghari,12:00,Reserve,50₹,100,0
+Korba,CinemoodMultiplexDolbyAtmosSoundCityC,Chhattisghari,12:15,Platinum,200₹,100,0
+Korba,CinemoodMultiplexDolbyAtmosSoundCityC,Chhattisghari,12:15,Diamond,150₹,100,0
+Korba,CinemoodMultiplexDolbyAtmosSoundCityC,Chhattisghari,12:15,Gold,100₹,100,0
+Korba,CinemoodMultiplexDolbyAtmosSoundCityC,Chhattisghari,12:15,Silver,50₹,100,0
+Durg,FunCinemasApsaraTalkies,Chhattisghari,15:00,Balcony,80₹,100,0
+Durg,FunCinemasApsaraTalkies,Chhattisghari,15:00,Reserve,50₹,100,0
+Raipur,CinemaxCityCenterPandri,Chhattisghari,17:00,Prime,112₹,145,55
+Raipur,CinemaxCityCenterPandri,Chhattisghari,17:00,Classic,100₹,26,3
+Durg,FunCinemasApsaraTalkies,Chhattisghari,18:00,Balcony,80₹,100,0
+Durg,FunCinemasApsaraTalkies,Chhattisghari,18:00,Reserve,50₹,100,0
+Durg,FunCinemasApsaraTalkies,Chhattisghari,21:00,Balcony,80₹,100,0
+Durg,FunCinemasApsaraTalkies,Chhattisghari,21:00,Reserve,50₹,100,0
