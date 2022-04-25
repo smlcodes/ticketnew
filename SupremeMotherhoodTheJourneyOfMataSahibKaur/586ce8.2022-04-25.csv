@@ -1,0 +1,7 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,09:30,Classic,80₹,70,70
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,09:30,Prime,80₹,100,100
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,09:30,PrimePlus,80₹,81,81
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,17:45,PrimePlus,140₹,63,13
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,17:45,Prime,120₹,100,4
+Nanded,PvrTreasureBazaarMallNanded,Punjabi,17:45,Classic,100₹,70,7
