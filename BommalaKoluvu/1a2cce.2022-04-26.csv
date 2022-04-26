@@ -1,0 +1,17 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Bellary,RrCinemasBellary,Telugu,11:00,Gold,150₹,86,40
+Bellary,RrCinemasBellary,Telugu,11:00,Silver,100₹,242,133
+Anantapur,GowriCinemaAnantapur,Telugu,11:30,Platinum,148₹,280,34
+Anantapur,GowriCinemaAnantapur,Telugu,11:30,Gold,112₹,98,0
+Bellary,RrCinemasBellary,Telugu,14:00,Gold,150₹,86,40
+Bellary,RrCinemasBellary,Telugu,14:00,Silver,100₹,242,132
+Bellary,RrCinemasBellary,Telugu,17:00,Gold,150₹,86,40
+Bellary,RrCinemasBellary,Telugu,17:00,Silver,100₹,242,132
+Hyderabad,PvrKukatpallyHyderabad,Telugu,17:00,Recliner,350₹,9,1
+Hyderabad,PvrKukatpallyHyderabad,Telugu,17:00,Classic,200₹,135,3
+Anantapur,GowriCinemaAnantapur,Telugu,18:30,Platinum,148₹,280,34
+Anantapur,GowriCinemaAnantapur,Telugu,18:30,Gold,112₹,98,0
+Bellary,RrCinemasBellary,Telugu,20:00,Gold,150₹,86,40
+Bellary,RrCinemasBellary,Telugu,20:00,Silver,100₹,242,132
+Hyderabad,PvrIrrumManzilKhairatabad,Telugu,20:30,Recliner,350₹,10,2
+Hyderabad,PvrIrrumManzilKhairatabad,Telugu,20:30,Classic,200₹,94,18
