@@ -1,0 +1,12 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,11:30,Premium,145₹,192,2
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,11:30,NonPremium,100₹,95,7
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,14:30,Premium,145₹,192,6
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,14:30,NonPremium,100₹,95,12
+Rajahmundry,UrvasiComplexRajahmundry,Telugu,14:30,UpperBalcony,112₹,195,30
+Rajahmundry,UrvasiComplexRajahmundry,Telugu,14:30,LowerBalcony,112₹,254,60
+Rajahmundry,UrvasiComplexRajahmundry,Telugu,14:30,SecondCl,75₹,108,108
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,18:30,Premium,145₹,192,0
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,18:30,NonPremium,100₹,95,13
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,21:30,Premium,145₹,192,0
+Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,21:30,NonPremium,100₹,95,5
