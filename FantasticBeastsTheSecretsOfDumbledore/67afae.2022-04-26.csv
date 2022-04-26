@@ -1,0 +1,16 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Kolkata,PvrDiamondPlazaJassore,Hindi,09:35,Recliner,350₹,12,0
+Kolkata,PvrDiamondPlazaJassore,Hindi,09:35,Prime,180₹,11,0
+Kolkata,PvrDiamondPlazaJassore,Hindi,09:35,Classic,130₹,80,0
+Vadodara,PvrTransCubeVadodara,Hindi,11:45,Recliner,250₹,8,1
+Vadodara,PvrTransCubeVadodara,Hindi,11:45,Classic,140₹,42,0
+Vadodara,PvrTransCubeVadodara,Hindi,11:45,Prime,140₹,99,1
+Surat,CinepolisImperialSquareMall,Hindi,12:45,Premium,170₹,33,0
+Surat,CinepolisImperialSquareMall,Hindi,12:45,Normal,150₹,22,0
+Surat,CinepolisImperialSquareMall,Hindi,12:45,Executive,150₹,67,0
+Raipur,CinemaxCityCenterPandri,Hindi,13:30,Recliner,300₹,12,12
+Raipur,CinemaxCityCenterPandri,Hindi,13:30,Prime,112₹,140,53
+Raipur,CinemaxCityCenterPandri,Hindi,13:30,Classic,90₹,24,2
+Vadodara,PvrTransCubeVadodara,Hindi,23:00,Recliner,400₹,8,0
+Vadodara,PvrTransCubeVadodara,Hindi,23:00,Classic,170₹,42,0
+Vadodara,PvrTransCubeVadodara,Hindi,23:00,Prime,170₹,99,18
