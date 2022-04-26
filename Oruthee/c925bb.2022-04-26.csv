@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Thrissur,InoxSobhaCityMall,Malayalam,10:50,RoyalRecliner,200₹,10,2
+Thrissur,InoxSobhaCityMall,Malayalam,10:50,Club,130₹,66,0
+Thrissur,InoxSobhaCityMall,Malayalam,10:50,Royal,130₹,13,9
+Thrissur,InoxSobhaCityMall,Malayalam,10:50,Executive,100₹,22,0
+Ponnani,AiswaryaMoviesAC4KDolby3DPonnani,Malayalam,18:30,Platinum,110₹,158,28
+Thrissur,InoxSobhaCityMall,Malayalam,19:20,RoyalRecliner,290₹,10,2
+Thrissur,InoxSobhaCityMall,Malayalam,19:20,Club,170₹,66,9
+Thrissur,InoxSobhaCityMall,Malayalam,19:20,Royal,170₹,13,7
+Thrissur,InoxSobhaCityMall,Malayalam,19:20,Executive,130₹,22,0
