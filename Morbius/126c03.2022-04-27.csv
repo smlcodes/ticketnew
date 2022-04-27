@@ -1,0 +1,10 @@
+City,Name,Language,Time,Type,Price,Capacity,Booked
+Mumbai,InoxMegaplexInorbitMall,English,10:00,Insignia,300₹,42,2
+Tiruvuru,SriVenkateswaraPicturePalaceTiruvuru,Telugu,11:10,Premium,100₹,317,20
+Tiruvuru,SriVenkateswaraPicturePalaceTiruvuru,Telugu,11:10,NonPremium,80₹,94,75
+Tiruvuru,SriVenkateswaraPicturePalaceTiruvuru,Telugu,14:10,Premium,100₹,317,20
+Tiruvuru,SriVenkateswaraPicturePalaceTiruvuru,Telugu,14:10,NonPremium,80₹,94,75
+Tiruvuru,SriVenkateswaraPicturePalaceTiruvuru,Telugu,18:10,Premium,100₹,317,20
+Tiruvuru,SriVenkateswaraPicturePalaceTiruvuru,Telugu,18:10,NonPremium,80₹,94,75
+Tiruvuru,SriVenkateswaraPicturePalaceTiruvuru,Telugu,21:10,Premium,100₹,317,20
+Tiruvuru,SriVenkateswaraPicturePalaceTiruvuru,Telugu,21:10,NonPremium,80₹,94,75
