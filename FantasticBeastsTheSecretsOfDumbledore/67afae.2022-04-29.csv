@@ -1,0 +1,11 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Vadodara,PvrTransCubeVadodara,Hindi,09:15,Recliner,250₹,8,0
+Gujarat,Vadodara,PvrTransCubeVadodara,Hindi,09:15,Classic,140₹,39,0
+Gujarat,Vadodara,PvrTransCubeVadodara,Hindi,09:15,Prime,140₹,90,2
+Rajasthan,Jaipur,InoxGtCentralMallMalviyaNagar,Hindi,09:20,Kiddles,160₹,34,0
+Jharkhand,Ranchi,PvrNuclessMallRanchi,Hindi,10:00,PrimePlus,270₹,18,0
+Jharkhand,Ranchi,PvrNuclessMallRanchi,Hindi,10:00,Prime,220₹,47,4
+Jharkhand,Ranchi,PvrNuclessMallRanchi,Hindi,10:00,Classic,200₹,28,0
+Jharkhand,Ranchi,PvrNuclessMallRanchi,Hindi,10:00,ClassicPlus,200₹,114,2
+Gujarat,Ahmedabad,PvrArvedTranscube,Hindi,12:15,Classic,140₹,30,0
+Gujarat,Ahmedabad,PvrArvedTranscube,Hindi,12:15,Prime,140₹,107,16
