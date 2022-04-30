@@ -1,0 +1,16 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Coimbatore,FunCinemaRepublicMall,Tamil,10:00,Executive,190₹,162,25
+TamilNadu,Coimbatore,FunCinemaRepublicMall,Tamil,10:00,Normal,60₹,19,19
+TamilNadu,Chennai,UdhayamComplex,Tamil,11:45,FirstClass,112₹,430,103
+TamilNadu,Chennai,UdhayamComplex,Tamil,11:45,SecondClass,105₹,86,0
+TamilNadu,Chennai,UdhayamComplex,Tamil,11:45,ThirdClass,50₹,65,2
+TamilNadu,Chennai,PvrAmpaSkywalkMallAminjikarai,Tamil,12:00,Prime,190₹,130,4
+TamilNadu,Chennai,PvrAmpaSkywalkMallAminjikarai,Tamil,12:00,Classic,60₹,17,0
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHills,Tamil,12:40,Prime,190₹,81,10
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHills,Tamil,12:40,Classic,60₹,16,13
+TamilNadu,Chennai,Devicineplex,Tamil,13:00,Quartz,152₹,242,0
+TamilNadu,Chennai,Devicineplex,Tamil,13:00,Zircon,60₹,27,27
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,Tamil,22:20,Prime,190₹,98,13
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,Tamil,22:20,Classic,60₹,11,0
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,Tamil,22:20,Prime,190₹,98,13
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,Tamil,22:20,Classic,60₹,11,0
