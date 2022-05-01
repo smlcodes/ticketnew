@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Chennai,UdhayamComplex,Tamil,15:15,FirstClass,112₹,430,111
+TamilNadu,Chennai,UdhayamComplex,Tamil,15:15,SecondClass,105₹,86,3
+TamilNadu,Chennai,UdhayamComplex,Tamil,15:15,ThirdClass,50₹,65,21
