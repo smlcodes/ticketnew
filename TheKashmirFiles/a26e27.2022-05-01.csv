@@ -1,0 +1,9 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+WestBengal,Kolkata,InoxSwabhumiMaulanaAzadSarani,Hindi,09:40,Royal,150₹,16,14
+WestBengal,Kolkata,InoxSwabhumiMaulanaAzadSarani,Hindi,09:40,Club,112₹,134,2
+WestBengal,Kolkata,InoxSwabhumiMaulanaAzadSarani,Hindi,09:40,Executive,112₹,32,0
+Karnataka,Bangalore,PvrForumMallKoramangala,Hindi,12:20,Recliner,434₹,12,11
+Karnataka,Bangalore,PvrForumMallKoramangala,Hindi,12:20,Classic,221₹,166,162
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,Hindi,13:10,PlatinumSuperior,"1,108₹",16,2
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,Hindi,13:10,Platinum,923₹,28,8
+UttarPradesh,Noida,PvrLogixCityCentreNoida,Hindi,13:15,Classic,345₹,94,82
