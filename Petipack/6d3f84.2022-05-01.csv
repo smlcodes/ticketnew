@@ -1,0 +1,12 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Vadodara,CinemarcVip,Gujarathi,09:00,Royal,90₹,19,19
+Gujarat,Vadodara,CinemarcVip,Gujarathi,09:00,Gold,90₹,20,20
+Gujarat,Vadodara,CinemarcVip,Gujarathi,09:00,Silver,90₹,87,87
+Gujarat,Vadodara,CinemarcVip,Gujarathi,09:00,Premium,90₹,13,13
+Gujarat,Vadodara,CinemarcVip,Gujarathi,10:25,Royal,90₹,19,19
+Gujarat,Vadodara,CinemarcVip,Gujarathi,10:25,Gold,90₹,20,20
+Gujarat,Vadodara,CinemarcVip,Gujarathi,10:25,Silver,90₹,87,87
+Gujarat,Vadodara,CinemarcVip,Gujarathi,10:25,Premium,90₹,13,13
+Gujarat,Ahmedabad,CinepolisAlphaOneMall,Gujarathi,16:20,Premium,170₹,60,59
+Gujarat,Ahmedabad,CinepolisAlphaOneMall,Gujarathi,16:20,Normal,150₹,36,35
+Gujarat,Ahmedabad,CinepolisAlphaOneMall,Gujarathi,16:20,Executive,150₹,78,77
