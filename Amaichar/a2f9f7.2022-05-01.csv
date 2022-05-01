@@ -1,0 +1,8 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Chennai,UdhayamComplex,Tamil,11:45,FirstClass,112₹,430,111
+TamilNadu,Chennai,UdhayamComplex,Tamil,11:45,SecondClass,105₹,86,0
+TamilNadu,Chennai,UdhayamComplex,Tamil,11:45,ThirdClass,50₹,65,4
+TamilNadu,Chennai,PvrAmpaSkywalkMallAminjikarai,Tamil,12:00,Prime,190₹,118,8
+TamilNadu,Chennai,PvrAmpaSkywalkMallAminjikarai,Tamil,12:00,Classic,60₹,17,4
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHills,Tamil,12:40,Prime,190₹,81,12
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHills,Tamil,12:40,Classic,60₹,16,13
