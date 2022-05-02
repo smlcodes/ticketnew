@@ -1,0 +1,7 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Chennai,PvrAmpaSkywalkMallAminjikarai,Tamil,12:00,Prime,190₹,118,0
+TamilNadu,Chennai,PvrAmpaSkywalkMallAminjikarai,Tamil,12:00,Classic,60₹,17,12
+TamilNadu,Chennai,PvrAmpaSkywalkMallAminjikarai,Tamil,12:00,Prime,190₹,118,0
+TamilNadu,Chennai,PvrAmpaSkywalkMallAminjikarai,Tamil,12:00,Classic,60₹,17,3
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHills,Tamil,12:40,Prime,165₹,81,10
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHills,Tamil,12:40,Classic,60₹,16,14
