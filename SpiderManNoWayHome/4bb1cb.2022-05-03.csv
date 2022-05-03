@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+UttarPradesh,Noida,PvrLogixCityCentrePlayHouseNoida,English,09:30,3DClassic,240₹,38,3
+Telangana,Hyderabad,PvrPlayHouseNextGalleriaMallPanjagutt,English,13:05,Classic,200₹,54,49
+UttarPradesh,Noida,PvrLogixCityCentrePlayHouseNoida,English,16:25,3DClassic,315₹,49,47
+UttarPradesh,Noida,PvrLogixCityCentrePlayHouseNoida,English,22:20,3DClassic,315₹,38,4
