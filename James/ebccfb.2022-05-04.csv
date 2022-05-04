@@ -1,0 +1,10 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,12:30,Recliner,250₹,16,2
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,12:30,Prime,170₹,90,5
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,12:30,Classic,150₹,108,2
+Karnataka,Hubli,SujathaTheatreHubli,Kannada,14:30,Balcony,120₹,289,90
+Karnataka,Hubli,SujathaTheatreHubli,Kannada,14:30,DCircle,100₹,558,139
+Karnataka,Hubli,SujathaTheatreHubli,Kannada,17:30,Balcony,120₹,289,90
+Karnataka,Hubli,SujathaTheatreHubli,Kannada,17:30,DCircle,100₹,558,138
+Karnataka,Hubli,SujathaTheatreHubli,Kannada,20:30,Balcony,120₹,289,90
+Karnataka,Hubli,SujathaTheatreHubli,Kannada,20:30,DCircle,100₹,558,138
