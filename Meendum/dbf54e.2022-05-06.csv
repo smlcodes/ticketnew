@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Rajasthan,Jaipur,CinepolisWorldTradePark,Tamil,12:25,Premium,280₹,31,14
+Rajasthan,Jaipur,CinepolisWorldTradePark,Tamil,12:25,Executive,260₹,114,0
+Rajasthan,Jaipur,CinepolisWorldTradePark,Tamil,12:25,Normal,240₹,46,0
