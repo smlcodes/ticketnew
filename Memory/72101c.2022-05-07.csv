@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,13:25,PlatinumSuperior,"1,300₹",16,0
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,13:25,Platinum,"1,100₹",28,3
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,16:00,Classic,345₹,88,6
