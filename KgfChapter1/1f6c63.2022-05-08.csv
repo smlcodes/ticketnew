@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Telangana,Hyderabad,CinepolisDslVirtueMall,Telugu,10:00,Vip,350₹,14,10
+Telangana,Hyderabad,CinepolisDslVirtueMall,Telugu,10:00,Normal,295₹,35,0
+Telangana,Hyderabad,CinepolisDslVirtueMall,Telugu,10:00,Executive,295₹,142,21
+Telangana,Hyderabad,CinepolisDslVirtueMall,Telugu,13:20,Vip,350₹,14,14
+Telangana,Hyderabad,CinepolisDslVirtueMall,Telugu,13:20,Normal,295₹,35,0
+Telangana,Hyderabad,CinepolisDslVirtueMall,Telugu,13:20,Executive,295₹,144,88
+Telangana,Hyderabad,CinepolisDslVirtueMall,Telugu,19:15,Vip,350₹,14,14
+Telangana,Hyderabad,CinepolisDslVirtueMall,Telugu,19:15,Normal,295₹,35,0
+Telangana,Hyderabad,CinepolisDslVirtueMall,Telugu,19:15,Executive,295₹,142,133
+Telangana,Hyderabad,CinepolisDslVirtueMall,Telugu,22:40,Vip,350₹,14,13
+Telangana,Hyderabad,CinepolisDslVirtueMall,Telugu,22:40,Normal,295₹,35,0
+Telangana,Hyderabad,CinepolisDslVirtueMall,Telugu,22:40,Executive,295₹,142,46
