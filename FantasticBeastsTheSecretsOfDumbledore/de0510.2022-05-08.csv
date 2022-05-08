@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxLaserplexCr2NarimanPoint,English,09:15,Insignia,300₹,70,14
+Maharashtra,Mumbai,PvrDynamicJuhu,English,10:10,Lounger,220₹,12,2
+Maharashtra,Mumbai,PvrDynamicJuhu,English,10:10,Prime,200₹,264,74
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,English,10:40,Kiddles,200₹,36,27
+Maharashtra,Pune,CinepolisSeasonsMall,English,12:40,Premium,200₹,34,32
+Maharashtra,Pune,CinepolisSeasonsMall,English,12:40,Normal,180₹,29,0
+Maharashtra,Pune,CinepolisSeasonsMall,English,12:40,Executive,180₹,79,61
+Maharashtra,Pune,InoxBundGarden,English,12:55,Royale,380₹,32,24
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,13:20,Classic,345₹,87,71
+Maharashtra,Mumbai,InoxAtriaMallWorli,English,15:25,Insignia,"1,080₹",27,19
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,18:40,Insignia,780₹,30,25
+UttarPradesh,Noida,PvrLogixCityCentrePlayHouseNoida,English,21:30,Classic,400₹,38,10
