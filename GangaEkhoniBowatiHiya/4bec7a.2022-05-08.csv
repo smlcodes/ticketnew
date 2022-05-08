@@ -1,0 +1,10 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Assam,Dibrugarh,GalleriaCinemaDibrugarh,Assamese,17:25,Business,340₹,17,6
+Assam,Dibrugarh,GalleriaCinemaDibrugarh,Assamese,17:25,Platinum,280₹,22,18
+Assam,Dibrugarh,GalleriaCinemaDibrugarh,Assamese,17:25,Executive,240₹,150,14
+Assam,Dibrugarh,GalleriaCinemaDibrugarh,Assamese,17:25,Gold,190₹,85,31
+Assam,Dibrugarh,GalleriaCinemaDibrugarh,Assamese,17:25,Silver,100₹,50,6
+Assam,Tinsukia,GalleriaCinemasAtcMallTinsukia,Assamese,17:30,Business,290₹,14,8
+Assam,Tinsukia,GalleriaCinemasAtcMallTinsukia,Assamese,17:30,Platinum,240₹,192,21
+Assam,Tinsukia,GalleriaCinemasAtcMallTinsukia,Assamese,17:30,Gold,190₹,51,12
+Assam,Tinsukia,GalleriaCinemasAtcMallTinsukia,Assamese,17:30,Silver,100₹,34,0
