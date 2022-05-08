@@ -1,0 +1,15 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Maharashtra,Thane,MaxusCinemasMaxusMallBhayandar,Marathi,12:45,Sofa,199₹,100,0
+Maharashtra,Thane,MaxusCinemasMaxusMallBhayandar,Marathi,12:45,PremiumPlus,149₹,100,0
+Maharashtra,Thane,MaxusCinemasMaxusMallBhayandar,Marathi,12:45,Premium,112₹,100,0
+Maharashtra,Pune,CinepolisSeasonsMall,Marathi,13:15,Premium,200₹,40,33
+Maharashtra,Pune,CinepolisSeasonsMall,Marathi,13:15,Normal,180₹,23,0
+Maharashtra,Pune,CinepolisSeasonsMall,Marathi,13:15,Executive,180₹,52,40
+Maharashtra,Ahmednagar,AshaSquareMultiplexAhmednagar,Marathi,15:00,GoldenClass,150₹,100,0
+Maharashtra,Pune,InoxJaiGaneshVisionMallAkurdi,Marathi,19:20,Silver,210₹,46,41
+Maharashtra,Pune,InoxJaiGaneshVisionMallAkurdi,Marathi,19:20,Premiere,180₹,89,28
+Maharashtra,Parbhani,MahaveerTalkiesParbhani,Marathi,21:05,Balcony,70₹,149,0
+Maharashtra,Parbhani,MahaveerTalkiesParbhani,Marathi,21:05,DressCircle,50₹,208,0
+Maharashtra,Parbhani,MahaveerTalkiesParbhani,Marathi,21:05,UpperStall,50₹,272,0
+Maharashtra,Pune,GunjanCinemaNhavare,Marathi,21:30,Gold,100₹,54,2
+Maharashtra,Pune,GunjanCinemaNhavare,Marathi,21:30,Silver,100₹,18,0
