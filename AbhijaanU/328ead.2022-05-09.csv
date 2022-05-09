@@ -1,0 +1,10 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+WestBengal,Kolkata,CarnivalSaltLake,Bengali,10:50,Silver,89₹,190,3
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,12:20,Recliner,350₹,12,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,12:20,Prime,180₹,11,3
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,12:20,Classic,130₹,189,6
+WestBengal,Kolkata,CinepolisLakeMall,Bengali,12:55,Premium,190₹,22,14
+WestBengal,Kolkata,CinepolisLakeMall,Bengali,12:55,Executive,170₹,54,2
+WestBengal,Kolkata,CinepolisLakeMall,Bengali,12:55,Normal,150₹,22,0
+WestBengal,Kolkata,InoxSouthCityMall,Bengali,19:50,Silver,220₹,156,8
+WestBengal,Kolkata,InoxSouthCityMall,Bengali,19:50,Premier,200₹,34,0
