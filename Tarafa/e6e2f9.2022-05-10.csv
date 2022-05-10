@@ -1,0 +1,11 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Maharashtra,Junnar,ShevantaCinemaJunnar,Marathi,10:55,Gold,89₹,100,0
+Maharashtra,Mumbai,MaxusCinemasKurla,Marathi,11:15,Royal,150₹,100,0
+Maharashtra,Ahmednagar,AshaSquareMultiplexAhmednagar,Marathi,12:00,GoldenClass,150₹,100,0
+Maharashtra,Islampur,ShreeMankeshwarChitramandirIslampur,Marathi,12:00,Stall,60₹,354,0
+Maharashtra,Islampur,ShreeMankeshwarChitramandirIslampur,Marathi,12:00,First,60₹,114,0
+Maharashtra,Khopoli,GoldCinemaKhopoli,Marathi,12:30,Gold,130₹,100,0
+Maharashtra,Mumbai,FunsquareCinemaSanpadaNaviMumbai,Marathi,15:00,Gold,130₹,58,18
+Maharashtra,Ahmednagar,EylexShaniSingnapurAhmednagar,Marathi,15:00,Platinum,150₹,76,67
+Maharashtra,Rahuri,DnyaneshwarChitraMandirRahuri,Marathi,21:15,Balcony,90₹,100,0
+Maharashtra,Rahuri,DnyaneshwarChitraMandirRahuri,Marathi,21:15,DressCircule,60₹,100,0
