@@ -1,0 +1,11 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHills,Tamil,11:35,Prime,190₹,81,10
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHills,Tamil,11:35,Classic,60₹,16,14
+TamilNadu,Chennai,CinepolisBsrMall,Tamil,15:50,Executive,190₹,117,0
+TamilNadu,Chennai,CinepolisBsrMall,Tamil,15:50,Normal,60₹,17,1
+TamilNadu,Vellore,PvrVelocitySilkMillGandhiNagar,Tamil,16:00,Prime,165₹,125,1
+TamilNadu,Vellore,PvrVelocitySilkMillGandhiNagar,Tamil,16:00,Classic,60₹,18,18
+TamilNadu,Chennai,PvrAmpaSkywalkMallAminjikarai,Tamil,16:10,Prime,190₹,116,2
+TamilNadu,Chennai,PvrAmpaSkywalkMallAminjikarai,Tamil,16:10,Classic,60₹,17,0
+TamilNadu,Madurai,InoxVishaalDeMalMadurai,Tamil,19:10,Club,178₹,124,12
+TamilNadu,Madurai,InoxVishaalDeMalMadurai,Tamil,19:10,Executive,60₹,12,4
