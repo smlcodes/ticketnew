@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,CinepolisAlphaOneMall,Gujarathi,19:15,Premium,240₹,53,9
+Gujarat,Ahmedabad,CinepolisAlphaOneMall,Gujarathi,19:15,Executive,220₹,45,5
+Gujarat,Ahmedabad,CinepolisAlphaOneMall,Gujarathi,19:15,Normal,200₹,37,0
