@@ -1,0 +1,12 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,10:00,Platinum,400₹,28,0
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,10:00,PlatinumSuperior,400₹,8,0
+Maharashtra,Pune,CinepolisSeasonsMall,English,12:15,Premium,200₹,30,5
+Maharashtra,Pune,CinepolisSeasonsMall,English,12:15,Normal,180₹,29,0
+Maharashtra,Pune,CinepolisSeasonsMall,English,12:15,Executive,180₹,79,2
+Maharashtra,Pune,InoxBundGarden,English,12:50,Royale,250₹,32,6
+Maharashtra,Pune,PvrIconPavillionMallShivajinagar,English,13:15,Recliner,500₹,14,1
+Maharashtra,Pune,PvrIconPavillionMallShivajinagar,English,13:15,Classic,250₹,40,0
+Maharashtra,Pune,PvrIconPavillionMallShivajinagar,English,13:15,Prime,250₹,189,40
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,13:20,Classic,215₹,87,9
+UttarPradesh,Noida,PvrLogixCityCentrePlayHouseNoida,English,23:20,Classic,275₹,49,6
