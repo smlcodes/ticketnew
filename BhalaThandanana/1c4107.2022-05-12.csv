@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+AndhraPradesh,Kankipadu,SriRamaChandraTheatreKankipadu,Telugu,18:20,Premium,100₹,133,0
+AndhraPradesh,Kankipadu,SriRamaChandraTheatreKankipadu,Telugu,18:20,NonPremium,78₹,48,36
+AndhraPradesh,Kankipadu,SriRamaChandraTheatreKankipadu,Telugu,21:20,Premium,100₹,133,0
+AndhraPradesh,Kankipadu,SriRamaChandraTheatreKankipadu,Telugu,21:20,NonPremium,78₹,48,36
