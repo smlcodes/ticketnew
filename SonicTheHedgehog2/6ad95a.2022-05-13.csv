@@ -1,0 +1,9 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,PvrArvedTranscube,English,09:30,Classic,150₹,39,0
+Gujarat,Ahmedabad,PvrArvedTranscube,English,09:30,Prime,150₹,96,13
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,11:55,Kiddles,140₹,53,17
+UttarPradesh,Noida,PvrLogixCityCentrePlayHouseNoida,English,14:10,Classic,290₹,38,15
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,English,15:20,Kiddles,360₹,36,5
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,16:40,PlatinumSuperior,"1,300₹",16,0
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,16:40,Platinum,"1,100₹",28,2
+Telangana,Hyderabad,PvrPlayHouseNextGalleriaMallPanjagutt,English,17:00,Classic,200₹,54,54
