@@ -1,0 +1,17 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Mangalore,CinepolisCityCentreMall,Tulu,13:15,Normal,180₹,28,0
+Karnataka,Mangalore,CinepolisCityCentreMall,Tulu,13:15,Premium,180₹,58,24
+Karnataka,Mangalore,CinepolisCityCentreMall,Tulu,13:15,Executive,180₹,133,4
+Karnataka,Mangalore,PvrForumFizaMallPandeshwar,Tulu,15:35,Recliner,350₹,11,0
+Karnataka,Mangalore,PvrForumFizaMallPandeshwar,Tulu,15:35,Classic,180₹,96,0
+Karnataka,Mangalore,PvrForumFizaMallPandeshwar,Tulu,15:35,Prime,180₹,49,20
+Karnataka,Mangalore,PvrForumFizaMallPandeshwar,Tulu,18:00,Recliner,350₹,12,3
+Karnataka,Mangalore,PvrForumFizaMallPandeshwar,Tulu,18:00,Classic,180₹,126,0
+Karnataka,Mangalore,PvrForumFizaMallPandeshwar,Tulu,18:00,Prime,180₹,32,6
+Karnataka,Mangalore,CinepolisCityCentreMall,Tulu,19:00,Normal,180₹,28,0
+Karnataka,Mangalore,CinepolisCityCentreMall,Tulu,19:00,Premium,180₹,58,29
+Karnataka,Mangalore,CinepolisCityCentreMall,Tulu,19:00,Executive,180₹,133,0
+Karnataka,Mangalore,PvrForumFizaMallPandeshwar,Tulu,21:45,Classic,180₹,79,19
+Maharashtra,Pune,PvrMarketCityVimanNagar,Tulu,21:45,PrimePlus,290₹,10,0
+Maharashtra,Pune,PvrMarketCityVimanNagar,Tulu,21:45,Classic,240₹,52,0
+Maharashtra,Pune,PvrMarketCityVimanNagar,Tulu,21:45,Prime,240₹,119,0
