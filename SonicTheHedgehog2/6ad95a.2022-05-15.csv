@@ -1,0 +1,9 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,PvrArvedTranscube,English,09:30,Classic,150₹,39,0
+Gujarat,Ahmedabad,PvrArvedTranscube,English,09:30,Prime,150₹,96,31
+UttarPradesh,Noida,PvrLogixCityCentrePlayHouseNoida,English,14:10,Classic,375₹,49,48
+Rajasthan,Jaipur,InoxGtCentralMallMalviyaNagar,English,16:15,Executive,200₹,18,0
+Rajasthan,Jaipur,InoxGtCentralMallMalviyaNagar,English,16:15,Royale,200₹,40,8
+Telangana,Hyderabad,PvrPlayHouseNextGalleriaMallPanjagutt,English,16:25,Classic,200₹,54,54
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,16:40,Platinum,700₹,28,27
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,16:40,PlatinumSuperior,700₹,16,7
