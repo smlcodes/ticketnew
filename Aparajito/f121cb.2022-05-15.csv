@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+WestBengal,Kolkata,AjantaCinema,Bengali,16:10,Balcony,150₹,106,105
+Tripura,Agartala,RupasiCinemaAgartala,Bengali,17:10,Recliners,350₹,16,0
+Tripura,Agartala,RupasiCinemaAgartala,Bengali,17:10,GoldClass,150₹,205,114
