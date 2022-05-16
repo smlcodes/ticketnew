@@ -1,0 +1,10 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxLaserplexCr2NarimanPoint,English,10:00,Insignia,300₹,70,7
+Maharashtra,Mumbai,PvrDynamicJuhu,English,10:15,Classic,140₹,40,0
+Maharashtra,Mumbai,PvrDynamicJuhu,English,10:15,Prime,140₹,72,16
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,English,12:35,Insignia,420₹,42,6
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,15:10,Insignia,400₹,34,1
+Maharashtra,Mumbai,InoxAtriaMallWorli,English,16:00,Insignia,700₹,30,15
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,19:20,PlatinumSuperior,800₹,8,4
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,19:20,Platinum,600₹,28,4
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,23:00,Classic,245₹,87,8
