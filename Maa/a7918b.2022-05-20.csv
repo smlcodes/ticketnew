@@ -1,0 +1,15 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Punjab,Amritsar,PvrSctAmritsar,Punjabi,14:30,Recliner,400₹,11,0
+Punjab,Amritsar,PvrSctAmritsar,Punjabi,14:30,Prime,200₹,45,1
+Punjab,Amritsar,PvrSctAmritsar,Punjabi,14:30,Classic,190₹,103,2
+Chandigarh,Chandigarh,PvrElanteMallChandigarh,Punjabi,16:15,Recliner,650₹,13,0
+Chandigarh,Chandigarh,PvrElanteMallChandigarh,Punjabi,16:15,Classic,230₹,138,13
+Punjab,Ludhiana,PvrSilverArcMallGurdevNagar,Punjabi,17:05,Prime,280₹,15,8
+Punjab,Ludhiana,PvrSilverArcMallGurdevNagar,Punjabi,17:05,Classic,240₹,106,11
+Punjab,Amritsar,InoxTriliumMallCircularRoad,Punjabi,17:25,Normal,170₹,155,33
+Punjab,Bathinda,FunCinemaMittalCityMall,Punjabi,17:30,Premium,300₹,54,14
+Punjab,Bathinda,FunCinemaMittalCityMall,Punjabi,17:30,Executive,290₹,60,2
+Punjab,Bathinda,FunCinemaMittalCityMall,Punjabi,17:30,Normal,280₹,60,0
+Punjab,Amritsar,CinepolisMallOfAmritsar,Punjabi,17:30,Vip,350₹,11,0
+Punjab,Amritsar,CinepolisMallOfAmritsar,Punjabi,17:30,Executive,210₹,39,38
+Punjab,Amritsar,CinepolisMallOfAmritsar,Punjabi,17:30,Normal,200₹,39,11
