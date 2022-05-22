@@ -1,0 +1,10 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Maharashtra,Mumbai,InoxNeelyogSquareMallGhatkoparE,Hindi,10:00,Executive,110₹,40,0
+Maharashtra,Mumbai,InoxNeelyogSquareMallGhatkoparE,Hindi,10:00,Premier,110₹,157,137
+Maharashtra,Mumbai,InoxNeelyogSquareMallGhatkoparE,Hindi,10:00,Silver,110₹,81,81
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,Hindi,17:15,Recliner,250₹,12,6
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,Hindi,17:15,PrimePlus,160₹,39,32
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,Hindi,17:15,Prime,130₹,156,64
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,Hindi,17:15,Classic,110₹,52,0
+Gujarat,Anand,RajshivalayCinemasAnand,Hindi,19:00,Gold,110₹,80,0
+Gujarat,Anand,RajshivalayCinemasAnand,Hindi,19:00,Platinum,110₹,163,0
