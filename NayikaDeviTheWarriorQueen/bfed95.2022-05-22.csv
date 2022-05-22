@@ -1,0 +1,9 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarathi,09:45,Recliner,280₹,24,5
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarathi,09:45,Prime,140₹,76,18
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarathi,09:45,ClassicPlus,130₹,38,0
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarathi,09:45,Classic,120₹,38,0
+Gujarat,Ahmedabad,MirajCityPulseManiNagar,Gujarathi,14:15,Gold,180₹,24,2
+Gujarat,Ahmedabad,CinepolisAlphaOneMall,Gujarathi,22:05,Premium,300₹,50,11
+Gujarat,Ahmedabad,CinepolisAlphaOneMall,Gujarathi,22:05,Executive,250₹,78,18
+Gujarat,Ahmedabad,CinepolisAlphaOneMall,Gujarathi,22:05,Normal,220₹,36,22
