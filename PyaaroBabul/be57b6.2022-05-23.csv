@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Rajasthan,Jodhpur,CarnivalNasraniSardarpura,Rajasthani,12:05,LoungeOffline,350₹,13,0
+Rajasthan,Jodhpur,CarnivalNasraniSardarpura,Rajasthani,12:05,PlatinumOffline,250₹,14,0
+Rajasthan,Jodhpur,CarnivalNasraniSardarpura,Rajasthani,12:05,GoldOffline,140₹,137,5
