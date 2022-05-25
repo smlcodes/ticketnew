@@ -1,0 +1,8 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,10:05,PremiumOffline,250₹,50,50
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,10:05,ExecutiveOffline,160₹,102,20
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,10:05,NormalOffline,100₹,17,0
+Kerala,Alappuzha,RaibanCineHouseAC2K71Dolby,Malayalam,11:30,Balcony,125₹,206,100
+Kerala,Kochi,SaritaCinemasKochi,Malayalam,12:00,BlueCircle,150₹,227,218
+Kerala,Karunagappally,CarnivalHJComplexLalajiJunction,Malayalam,14:20,ClassicOffline,100₹,194,20
+Kerala,Trivandrum,CarnivalGreenfieldCinemaKaryavattom,Malayalam,16:15,ExecutiveOffline,160₹,145,0
