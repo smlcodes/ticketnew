@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Trivandrum,CarnivalGreenfieldCinemaKaryavattom,Malayalam,11:00,ExecutiveOffline,100₹,132,0
+Kerala,Thrissur,RamdasThrissur,Malayalam,12:00,PlatinumCircle,125₹,294,39
+Kerala,Thrissur,RamdasThrissur,Malayalam,12:00,GoldenCircle,100₹,320,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,13:30,Recliner,350₹,14,4
+Kerala,Kochi,PvrLuluKochi,Malayalam,13:30,Prime,190₹,125,30
+Kerala,Kochi,PvrLuluKochi,Malayalam,13:30,ClassicPlus,160₹,108,6
+Kerala,Kochi,PvrLuluKochi,Malayalam,13:30,Classic,140₹,54,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,15:40,PremiumLounge,250₹,65,10
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:30,RoyalRecliner,290₹,10,8
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:30,Club,170₹,66,4
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:30,Royal,170₹,13,4
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:30,Executive,130₹,22,0
