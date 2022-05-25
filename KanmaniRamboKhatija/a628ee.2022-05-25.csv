@@ -1,0 +1,17 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+AndhraPradesh,Visakhapatnam,JotheeTheatreVishakhapatnam,Telugu,11:00,ClasicCircle,145₹,586,0
+AndhraPradesh,Visakhapatnam,JotheeTheatreVishakhapatnam,Telugu,11:00,JanathaCircle,100₹,197,4
+AndhraPradesh,Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,11:30,Premium,145₹,229,52
+AndhraPradesh,Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,11:30,NonPremium,100₹,106,0
+AndhraPradesh,Visakhapatnam,JotheeTheatreVishakhapatnam,Telugu,14:30,ClasicCircle,145₹,586,3
+AndhraPradesh,Visakhapatnam,JotheeTheatreVishakhapatnam,Telugu,14:30,JanathaCircle,100₹,197,0
+AndhraPradesh,Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,14:30,Premium,145₹,229,51
+AndhraPradesh,Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,14:30,NonPremium,100₹,106,4
+AndhraPradesh,Visakhapatnam,JotheeTheatreVishakhapatnam,Telugu,18:30,ClasicCircle,145₹,586,0
+AndhraPradesh,Visakhapatnam,JotheeTheatreVishakhapatnam,Telugu,18:30,JanathaCircle,100₹,197,0
+AndhraPradesh,Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,18:30,Premium,145₹,229,229
+AndhraPradesh,Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,18:30,NonPremium,100₹,106,106
+AndhraPradesh,Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,21:30,Premium,145₹,229,229
+AndhraPradesh,Visakhapatnam,RamachandraMaxDolbyAtmosGajuwaka,Telugu,21:30,NonPremium,100₹,106,106
+AndhraPradesh,Visakhapatnam,JotheeTheatreVishakhapatnam,Telugu,21:45,ClasicCircle,145₹,586,0
+AndhraPradesh,Visakhapatnam,JotheeTheatreVishakhapatnam,Telugu,21:45,JanathaCircle,100₹,197,0
