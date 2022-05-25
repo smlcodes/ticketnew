@@ -1,0 +1,7 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,Hindi,17:15,Recliner,250₹,12,0
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,Hindi,17:15,PrimePlus,160₹,39,17
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,Hindi,17:15,Prime,130₹,156,0
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,Hindi,17:15,Classic,110₹,52,0
+Gujarat,Anand,RajshivalayCinemasAnand,Hindi,19:00,Gold,110₹,80,0
+Gujarat,Anand,RajshivalayCinemasAnand,Hindi,19:00,Platinum,110₹,163,0
