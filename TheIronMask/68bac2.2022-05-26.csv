@@ -1,0 +1,9 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+AndhraPradesh,Srikakulam,MithraMovieMaxMaruthiTheatreSrikakulam,Telugu,11:00,Premium,147₹,264,71
+AndhraPradesh,Srikakulam,MithraMovieMaxMaruthiTheatreSrikakulam,Telugu,11:00,NonPremium,100₹,95,0
+AndhraPradesh,Srikakulam,MithraMovieMaxMaruthiTheatreSrikakulam,Telugu,14:30,Premium,147₹,264,71
+AndhraPradesh,Srikakulam,MithraMovieMaxMaruthiTheatreSrikakulam,Telugu,14:30,NonPremium,100₹,95,0
+AndhraPradesh,Srikakulam,MithraMovieMaxMaruthiTheatreSrikakulam,Telugu,18:30,Premium,147₹,264,71
+AndhraPradesh,Srikakulam,MithraMovieMaxMaruthiTheatreSrikakulam,Telugu,18:30,NonPremium,100₹,95,0
+AndhraPradesh,Srikakulam,MithraMovieMaxMaruthiTheatreSrikakulam,Telugu,21:45,Premium,147₹,264,71
+AndhraPradesh,Srikakulam,MithraMovieMaxMaruthiTheatreSrikakulam,Telugu,21:45,NonPremium,100₹,95,0
