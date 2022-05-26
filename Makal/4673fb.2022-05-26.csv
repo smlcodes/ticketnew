@@ -1,0 +1,14 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Payyanur,SumangaliCinemasPayyanur,Malayalam,10:30,PlatinumCircle,130₹,161,0
+Kerala,Cheruvathur,PakkanarCinemasCheruvathur,Malayalam,13:30,Executive,100₹,322,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,16:10,Recliner,350₹,10,5
+Kerala,Kochi,PvrLuluKochi,Malayalam,16:10,Prime,190₹,68,32
+Kerala,Kochi,PvrLuluKochi,Malayalam,16:10,ClassicPlus,160₹,91,12
+Kerala,Kochi,PvrLuluKochi,Malayalam,16:10,Classic,140₹,39,0
+Kerala,Payyanur,SumangaliCinemasPayyanur,Malayalam,16:30,PlatinumCircle,130₹,161,0
+Kerala,Cheruvathur,PakkanarCinemasCheruvathur,Malayalam,16:30,Executive,100₹,322,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:00,RoyalRecliner,290₹,10,8
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:00,Club,170₹,66,36
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:00,Royal,170₹,13,12
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:00,Executive,130₹,22,0
+Kerala,Payyanur,SumangaliCinemasPayyanur,Malayalam,19:30,PlatinumCircle,130₹,161,0
