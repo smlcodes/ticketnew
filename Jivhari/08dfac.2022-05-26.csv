@@ -1,0 +1,10 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Maharashtra,Aurangabad,MohanNovaCinemazSarafaRoad,Marathi,11:45,Platinum,120₹,58,0
+Maharashtra,Aurangabad,MohanNovaCinemazSarafaRoad,Marathi,11:45,Gold,120₹,57,0
+Maharashtra,Aurangabad,MohanNovaCinemazSarafaRoad,Marathi,11:45,Silver,120₹,57,1
+Maharashtra,Mumbai,FunsquareCinemaSanpadaNaviMumbai,Marathi,12:00,Gold,130₹,58,18
+Maharashtra,Pune,VikasCinemaManchar,Marathi,18:00,1stClass,100₹,156,0
+Maharashtra,Pune,VikasCinemaManchar,Marathi,18:00,2ndClass,80₹,196,0
+Maharashtra,Junnar,ShevantaCinemaJunnar,Marathi,18:30,Gold,89₹,100,0
+Maharashtra,Rahuri,VitthaMadhavPicturePalace,Marathi,18:30,FirstClass,60₹,100,0
+Maharashtra,Rahuri,VitthaMadhavPicturePalace,Marathi,18:30,SecondClass,50₹,100,0
