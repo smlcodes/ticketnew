@@ -1,0 +1,16 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Thanjavur,GvComplexThanjavur,Tamil,11:15,I,120₹,138,12
+TamilNadu,Kadayam,UdhayamComplex,Tamil,11:45,FirstClass,112₹,70,50
+TamilNadu,Kadayam,UdhayamComplex,Tamil,11:45,SecondClass,105₹,394,50
+TamilNadu,Kadayam,UdhayamComplex,Tamil,11:45,ThirdClass,50₹,51,0
+TamilNadu,Kadayam,C3LaurelMallRgbLaser,Tamil,11:45,Platinum,150₹,169,23
+TamilNadu,Kadayam,C3LaurelMallRgbLaser,Tamil,11:45,Silver,150₹,54,0
+TamilNadu,Kadayam,Devicineplex,Tamil,13:00,Quartz,152₹,242,20
+TamilNadu,Kadayam,Devicineplex,Tamil,13:00,Zircon,60₹,27,27
+TamilNadu,Thanjavur,GvComplexThanjavur,Tamil,14:15,I,120₹,138,12
+TamilNadu,Kadayam,InoxChandraMetroMallVirugambakkam,Tamil,16:15,Silver,152₹,120,52
+TamilNadu,Kadayam,InoxChandraMetroMallVirugambakkam,Tamil,16:15,Premiere,60₹,15,0
+TamilNadu,Kadayam,InoxTheMarinaMallOmr,Tamil,16:15,Club,190₹,126,30
+TamilNadu,Kadayam,InoxTheMarinaMallOmr,Tamil,16:15,Executive,60₹,16,0
+TamilNadu,Thanjavur,GvComplexThanjavur,Tamil,18:15,I,120₹,138,12
+TamilNadu,Thanjavur,GvComplexThanjavur,Tamil,22:00,I,120₹,138,12
