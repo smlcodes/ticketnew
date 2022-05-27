@@ -1,0 +1,16 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+WestBengal,Kolkata,AjantaCinema,Bengali,13:00,Recliner,200₹,13,13
+WestBengal,Kolkata,AjantaCinema,Bengali,13:00,Balcony,150₹,213,160
+Tripura,Agartala,RupasiCinemaAgartala,Bengali,14:15,Recliners,350₹,16,0
+Tripura,Agartala,RupasiCinemaAgartala,Bengali,14:15,GoldClass,150₹,205,66
+WestBengal,Kolkata,RupMandirCinemaKolkata,Bengali,14:30,Platinum,100₹,48,6
+WestBengal,Kolkata,RupMandirCinemaKolkata,Bengali,14:30,Gold,80₹,102,52
+WestBengal,CoochBehar,NewCinemaCoochBehar,Bengali,15:45,Balcony,80₹,101,59
+WestBengal,Kolkata,BasusreeCinema,Bengali,16:30,Balcony,100₹,320,218
+WestBengal,Kolkata,BasusreeCinema,Bengali,16:30,RearStall,70₹,700,571
+WestBengal,Kolkata,AjantaCinema,Bengali,18:15,Recliner,200₹,13,13
+WestBengal,Kolkata,AjantaCinema,Bengali,18:15,Balcony,150₹,213,172
+WestBengal,Kolkata,BasusreeCinema,Bengali,19:00,Balcony,100₹,320,208
+WestBengal,Kolkata,BasusreeCinema,Bengali,19:00,RearStall,70₹,700,565
+WestBengal,Malda,RupkothaCinemaHallMalda,Bengali,19:30,SpecialAc,130₹,82,42
+WestBengal,Malda,RupkothaCinemaHallMalda,Bengali,19:30,DressCircle,60₹,99,45
