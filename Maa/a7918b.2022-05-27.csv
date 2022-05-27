@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Punjab,Amritsar,PvrSctPlayHouseAmritsar,Punjabi,10:05,Classic,140₹,12,12
+Punjab,Amritsar,PvrSctPlayHouseAmritsar,Punjabi,10:05,Prime,140₹,40,40
+Chandigarh,Chandigarh,PvrElanteMallChandigarh,Punjabi,17:45,Recliner,650₹,13,0
+Chandigarh,Chandigarh,PvrElanteMallChandigarh,Punjabi,17:45,Classic,230₹,138,0
