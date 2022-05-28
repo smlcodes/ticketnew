@@ -1,0 +1,9 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+AndhraPradesh,Kakinada,DeviMultiplexKakinada,Telugu,11:15,FirstClass,112₹,214,22
+AndhraPradesh,Kakinada,DeviMultiplexKakinada,Telugu,11:15,SecondClass,75₹,60,0
+AndhraPradesh,Bhimavaram,AvgCinemasGeethaMultiplex4KDolbyAtmos,Telugu,11:40,Gold,150₹,224,36
+AndhraPradesh,Guntur,HollywoodBollywoodTheaters,Telugu,11:45,Reserved,145₹,183,1
+AndhraPradesh,Guntur,HollywoodBollywoodTheaters,Telugu,11:45,SecondClass,80₹,101,1
+AndhraPradesh,Guntur,HollywoodBollywoodTheaters,Telugu,15:00,Reserved,145₹,183,55
+AndhraPradesh,Guntur,HollywoodBollywoodTheaters,Telugu,15:00,SecondClass,80₹,101,42
+AndhraPradesh,Bhimavaram,AvgCinemasGeethaMultiplex4KDolbyAtmos,Telugu,18:35,Gold,150₹,224,11
