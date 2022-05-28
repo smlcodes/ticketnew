@@ -1,0 +1,16 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Chennai,PvrAmpaSkywalkMallAminjikarai,Tamil,10:45,Prime,190₹,130,50
+TamilNadu,Chennai,PvrAmpaSkywalkMallAminjikarai,Tamil,10:45,Classic,60₹,17,15
+TamilNadu,Thanjavur,GvComplexThanjavur,Tamil,11:15,I,120₹,138,12
+TamilNadu,Chennai,UdhayamComplex,Tamil,11:45,FirstClass,112₹,70,50
+TamilNadu,Chennai,UdhayamComplex,Tamil,11:45,SecondClass,105₹,394,50
+TamilNadu,Chennai,UdhayamComplex,Tamil,11:45,ThirdClass,50₹,51,5
+TamilNadu,Chennai,Devicineplex,Tamil,13:00,Quartz,152₹,242,20
+TamilNadu,Chennai,Devicineplex,Tamil,13:00,Zircon,60₹,27,0
+TamilNadu,Thanjavur,GvComplexThanjavur,Tamil,14:15,I,120₹,138,12
+TamilNadu,Chennai,InoxChandraMetroMallVirugambakkam,Tamil,16:15,Silver,152₹,120,52
+TamilNadu,Chennai,InoxChandraMetroMallVirugambakkam,Tamil,16:15,Premiere,60₹,15,1
+TamilNadu,Chennai,InoxTheMarinaMallOmr,Tamil,16:15,Club,190₹,126,34
+TamilNadu,Chennai,InoxTheMarinaMallOmr,Tamil,16:15,Executive,60₹,16,12
+TamilNadu,Thanjavur,GvComplexThanjavur,Tamil,18:15,I,120₹,138,12
+TamilNadu,Thanjavur,GvComplexThanjavur,Tamil,22:00,I,120₹,138,12
