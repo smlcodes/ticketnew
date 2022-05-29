@@ -1,0 +1,12 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+WestBengal,Kolkata,MinarCinemaACDolbyKolkata,Bengali,12:00,Balcony,120₹,211,97
+WestBengal,Kolkata,BijoliCinemaKolkata,Bengali,12:00,Balcony,120₹,188,109
+WestBengal,Kolkata,BijoliCinemaKolkata,Bengali,12:00,RearStall,80₹,614,1
+WestBengal,Berachampa,BanirupaCinemaBerachampa,Bengali,12:00,UpperStall,50₹,25,0
+WestBengal,Berachampa,BanirupaCinemaBerachampa,Bengali,12:00,LowerStall,40₹,25,0
+WestBengal,Kolkata,ChhabigharCinemaBaithakkhana,Bengali,14:00,Balcony,100₹,144,91
+WestBengal,Kolkata,ChhabigharCinemaBaithakkhana,Bengali,14:00,RearStall,80₹,502,152
+WestBengal,Berachampa,BanirupaCinemaBerachampa,Bengali,14:45,UpperStall,50₹,25,0
+WestBengal,Berachampa,BanirupaCinemaBerachampa,Bengali,14:45,LowerStall,40₹,25,0
+WestBengal,Berachampa,BanirupaCinemaBerachampa,Bengali,17:30,UpperStall,50₹,25,0
+WestBengal,Berachampa,BanirupaCinemaBerachampa,Bengali,17:30,LowerStall,40₹,25,0
