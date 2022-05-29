@@ -1,0 +1,6 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Maharashtra,Mumbai,MovietimeHubMallGoregaonE,Marathi,12:00,Gold,130₹,196,54
+Maharashtra,Dhule,ManoharCinemaDhule,Marathi,12:15,Balcony,150₹,85,10
+Maharashtra,Dhule,ManoharCinemaDhule,Marathi,12:15,Platinum,112₹,166,7
+Maharashtra,Dhule,ManoharCinemaDhule,Marathi,12:15,Gold,100₹,231,18
+Maharashtra,Dhule,ManoharCinemaDhule,Marathi,12:15,Silver,90₹,179,1
