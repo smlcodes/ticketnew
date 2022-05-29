@@ -1,0 +1,7 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,TimeCinemaAhmedabadCgSquareMall,Hindi,08:45,Standard170,170₹,108,8
+Gujarat,Ahmedabad,TimeCinemaAhmedabadCgSquareMall,Hindi,10:30,Infinity1000,"1,000₹",12,0
+Gujarat,Ahmedabad,TimeCinemaAhmedabadCgSquareMall,Hindi,16:00,Standard220,220₹,108,8
+Maharashtra,Mumbai,MovietimeHubMallGoregaonE,Hindi,17:05,Mhraja,200₹,44,44
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,Hindi,20:05,Insignia,750₹,33,10
+Gujarat,Ahmedabad,TimeCinemaAhmedabadCgSquareMall,Hindi,20:30,Standard280,280₹,108,8
