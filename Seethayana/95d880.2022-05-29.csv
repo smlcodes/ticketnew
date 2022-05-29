@@ -1,0 +1,10 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Mysore,PvrGarudaMallAlbertVictorRoad,Kannada,10:05,Classic,130₹,102,0
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,16:15,Recliner,420₹,16,0
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,16:15,Prime,260₹,90,0
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,16:15,Classic,240₹,108,0
+Karnataka,Bangalore,InoxGarudaYelahankaBangalore,Kannada,16:30,Club,250₹,111,0
+Karnataka,Bangalore,InoxGarudaYelahankaBangalore,Kannada,16:30,Executive,240₹,60,0
+Karnataka,Bangalore,InoxMantriSquareMalleshwaram,Kannada,16:40,Club,250₹,209,0
+Karnataka,Bangalore,VinayakaMultiplexACDts71MysoreRoad,Kannada,16:45,Gold,100₹,410,243
+Karnataka,Bangalore,VinayakaMultiplexACDts71MysoreRoad,Kannada,19:45,Gold,100₹,410,243
