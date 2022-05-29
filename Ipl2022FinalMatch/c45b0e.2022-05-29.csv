@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Surat,SkyCinemaSurat,Hindi,20:00,Recliner,220₹,12,0
+Gujarat,Surat,SkyCinemaSurat,Hindi,20:00,RoyalSofa,180₹,26,26
+Gujarat,Surat,SkyCinemaSurat,Hindi,20:00,Executive,150₹,38,3
+Gujarat,Surat,SkyCinemaSurat,Hindi,20:00,Upper,120₹,65,6
