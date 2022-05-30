@@ -1,0 +1,16 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Chhattisgarh,Durg,FunCinemasApsaraTalkies,Chhattisghari,17:30,Balcony,80₹,165,0
+Chhattisgarh,Durg,FunCinemasApsaraTalkies,Chhattisghari,17:30,Reserve,50₹,580,0
+Chhattisgarh,Durg,FunCinemasApsaraTalkies,Chhattisghari,18:00,Balcony,80₹,165,0
+Chhattisgarh,Durg,FunCinemasApsaraTalkies,Chhattisghari,18:00,Reserve,50₹,580,0
+Chhattisgarh,Raipur,CinemaxCityCenterPandri,Chhattisghari,18:15,Recliner,300₹,12,6
+Chhattisgarh,Raipur,CinemaxCityCenterPandri,Chhattisghari,18:15,Prime,112₹,140,32
+Chhattisgarh,Raipur,CinemaxCityCenterPandri,Chhattisghari,18:15,Classic,90₹,24,0
+Chhattisgarh,Raipur,InoxAmbujaCityCentreMowa,Chhattisghari,18:45,RoyalRecliner,200₹,14,0
+Chhattisgarh,Raipur,InoxAmbujaCityCentreMowa,Chhattisghari,18:45,Club,100₹,132,0
+Chhattisgarh,Raipur,InoxAmbujaCityCentreMowa,Chhattisghari,18:45,Royal,100₹,28,0
+Chhattisgarh,Raipur,InoxAmbujaCityCentreMowa,Chhattisghari,18:45,Executive,90₹,28,0
+Chhattisgarh,Durg,FunCinemasApsaraTalkies,Chhattisghari,20:30,Balcony,80₹,165,0
+Chhattisgarh,Durg,FunCinemasApsaraTalkies,Chhattisghari,20:30,Reserve,50₹,580,0
+Chhattisgarh,Durg,FunCinemasApsaraTalkies,Chhattisghari,21:00,Balcony,80₹,165,0
+Chhattisgarh,Durg,FunCinemasApsaraTalkies,Chhattisghari,21:00,Reserve,50₹,580,0
