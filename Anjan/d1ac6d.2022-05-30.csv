@@ -1,0 +1,16 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Bangalore,AbinayTheatre2KMajestic,Kannada,13:30,Balcony,150₹,369,312
+Karnataka,Bangalore,AbinayTheatre2KMajestic,Kannada,13:30,MiniBalcony,120₹,146,146
+Karnataka,Bangalore,AbinayTheatre2KMajestic,Kannada,13:30,Second,100₹,480,424
+Karnataka,Hubli,SujathaTheatreHubli,Kannada,14:30,Balcony,120₹,289,90
+Karnataka,Hubli,SujathaTheatreHubli,Kannada,14:30,DCircle,100₹,558,138
+Karnataka,Bangalore,BhoomikaTheatre2KMajestic,Kannada,16:00,Balcony,150₹,318,262
+Karnataka,Bangalore,BhoomikaTheatre2KMajestic,Kannada,16:00,Middle,120₹,576,512
+Karnataka,Vijayapura,AlankarTheatreVijayapura,Kannada,20:30,Balcony,150₹,275,150
+Karnataka,Vijayapura,AlankarTheatreVijayapura,Kannada,20:30,DressCircle,150₹,40,40
+Karnataka,Vijayapura,AlankarTheatreVijayapura,Kannada,21:00,Balcony,150₹,275,150
+Karnataka,Vijayapura,AlankarTheatreVijayapura,Kannada,21:00,DressCircle,150₹,40,40
+Karnataka,Bangalore,BhoomikaTheatre2KMajestic,Kannada,21:45,Balcony,150₹,318,262
+Karnataka,Bangalore,BhoomikaTheatre2KMajestic,Kannada,21:45,Middle,120₹,576,512
+Karnataka,Vijayapura,AlankarTheatreVijayapura,Kannada,23:30,Balcony,150₹,275,150
+Karnataka,Vijayapura,AlankarTheatreVijayapura,Kannada,23:30,DressCircle,150₹,40,40
