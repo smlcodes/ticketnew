@@ -1,0 +1,17 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Tirunelveli,ArunagiriTheatreTirunelveli,Tamil,11:30,ACBoxA,130₹,35,0
+TamilNadu,Tirunelveli,ArunagiriTheatreTirunelveli,Tamil,11:30,ACBoxB,130₹,30,30
+TamilNadu,Tirunelveli,ArunagiriTheatreTirunelveli,Tamil,11:30,FirstClassNonAC,100₹,534,0
+TamilNadu,Tirunelveli,ArunagiriTheatreTirunelveli,Tamil,14:30,ACBoxA,130₹,35,0
+TamilNadu,Tirunelveli,ArunagiriTheatreTirunelveli,Tamil,14:30,ACBoxB,130₹,30,30
+TamilNadu,Tirunelveli,ArunagiriTheatreTirunelveli,Tamil,14:30,FirstClassNonAC,100₹,534,0
+TamilNadu,Kadayam,CinepolisBsrMall,Tamil,16:00,Executive,190₹,117,0
+TamilNadu,Kadayam,CinepolisBsrMall,Tamil,16:00,Normal,60₹,17,2
+TamilNadu,Kadayam,PvrAmpaSkywalkMallAminjikarai,Tamil,16:10,Prime,179₹,116,2
+TamilNadu,Kadayam,PvrAmpaSkywalkMallAminjikarai,Tamil,16:10,Classic,60₹,17,8
+TamilNadu,Tirunelveli,ArunagiriTheatreTirunelveli,Tamil,18:30,ACBoxA,130₹,35,0
+TamilNadu,Tirunelveli,ArunagiriTheatreTirunelveli,Tamil,18:30,ACBoxB,130₹,30,30
+TamilNadu,Tirunelveli,ArunagiriTheatreTirunelveli,Tamil,18:30,FirstClassNonAC,100₹,534,0
+TamilNadu,Tirunelveli,ArunagiriTheatreTirunelveli,Tamil,22:30,ACBoxA,130₹,35,0
+TamilNadu,Tirunelveli,ArunagiriTheatreTirunelveli,Tamil,22:30,ACBoxB,130₹,30,30
+TamilNadu,Tirunelveli,ArunagiriTheatreTirunelveli,Tamil,22:30,FirstClassNonAC,100₹,534,0
