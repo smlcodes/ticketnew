@@ -1,0 +1,9 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Odisha,Cuttack,InoxSgblSquareMallCuttack,Odiya,15:25,RoyalRecliner,260₹,8,0
+Odisha,Cuttack,InoxSgblSquareMallCuttack,Odiya,15:25,Club,160₹,88,0
+Odisha,Cuttack,InoxSgblSquareMallCuttack,Odiya,15:25,Executive,160₹,28,0
+Odisha,Cuttack,InoxSgblSquareMallCuttack,Odiya,15:25,Royal,160₹,62,1
+Odisha,Bhubaneswar,CinepolisEsplanade,Odiya,19:50,Vip,400₹,11,0
+Odisha,Bhubaneswar,CinepolisEsplanade,Odiya,19:50,Premium,140₹,51,12
+Odisha,Bhubaneswar,CinepolisEsplanade,Odiya,19:50,Executive,130₹,42,2
+Odisha,Bhubaneswar,CinepolisEsplanade,Odiya,19:50,Normal,120₹,28,0
