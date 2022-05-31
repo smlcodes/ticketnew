@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Bangalore,AbinayTheatre2KMajestic,Kannada,19:00,Balcony,150₹,369,312
+Karnataka,Bangalore,AbinayTheatre2KMajestic,Kannada,19:00,MiniBalcony,120₹,146,146
+Karnataka,Bangalore,AbinayTheatre2KMajestic,Kannada,19:00,Second,100₹,480,424
