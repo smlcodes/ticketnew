@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Manjeri,LadderCinemasManjeri,Malayalam,11:30,Executive,150₹,74,0
+Kerala,Kattanam,GanamTheatreComplexACKattanam,Malayalam,13:00,FirstClass,110₹,129,129
+Kerala,Trivandrum,CarnivalGreenfieldCinemaKaryavattom,Malayalam,13:40,ExecutiveOffline,140₹,145,30
+Kerala,Perinthalmanna,VismayaCinemasPerinthalmanna,Malayalam,19:00,Platinum,100₹,111,5
