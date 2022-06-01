@@ -1,0 +1,9 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,Hindi,16:20,Recliner,250₹,10,10
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,Hindi,16:20,PrimePlus,160₹,48,17
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,Hindi,16:20,Prime,130₹,195,0
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,Hindi,16:20,Classic,110₹,46,0
+Andaman,PortBlair,DiviyumTalkies,Hindi,17:10,Gold,170₹,86,27
+Andaman,PortBlair,DiviyumTalkies,Hindi,17:10,Silver,170₹,22,0
+Andaman,PortBlair,DiviyumTalkies,Hindi,19:45,Gold,170₹,88,42
+Andaman,PortBlair,DiviyumTalkies,Hindi,19:45,Silver,170₹,22,0
