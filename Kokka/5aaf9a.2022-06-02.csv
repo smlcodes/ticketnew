@@ -1,0 +1,7 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,11:30,Prime,200₹,38,2
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,11:30,Classic,170₹,84,2
+Chandigarh,Chandigarh,PvrElanteMallChandigarh,Punjabi,12:45,Recliner,550₹,26,2
+Chandigarh,Chandigarh,PvrElanteMallChandigarh,Punjabi,12:45,Classic,180₹,157,15
+Delhi,DelhiNcr,PvrPacificSubhashNagar,Punjabi,16:25,Prime,380₹,88,6
+Delhi,DelhiNcr,PvrPacificSubhashNagar,Punjabi,16:25,Classic,340₹,52,0
