@@ -1,0 +1,3 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+WestBengal,Kolkata,IndiraCinemaKolkata,Gujarathi,11:00,Box,110₹,30,0
+WestBengal,Kolkata,IndiraCinemaKolkata,Gujarathi,11:00,Balcony,100₹,280,133
