@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,15:55,Recliner,420₹,14,13
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,15:55,Prime,260₹,100,70
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,15:55,Classic,240₹,128,19
+Karnataka,Bangalore,CinepolisSjrSpectrum,Kannada,16:00,Vip,350₹,12,3
+Karnataka,Bangalore,CinepolisSjrSpectrum,Kannada,16:00,Normal,180₹,30,0
+Karnataka,Bangalore,CinepolisSjrSpectrum,Kannada,16:00,Premium,180₹,44,43
+Karnataka,Bangalore,CinepolisSjrSpectrum,Kannada,16:00,Executive,180₹,63,39
+Karnataka,Bangalore,CinepolisEtaNammaMall,Kannada,16:00,Normal,180₹,10,0
+Karnataka,Bangalore,CinepolisEtaNammaMall,Kannada,16:00,Premium,180₹,47,31
+Karnataka,Bangalore,CinepolisEtaNammaMall,Kannada,16:00,Executive,180₹,82,35
+Karnataka,Bangalore,InoxMantriSquareMalleshwaram,Kannada,19:50,Royal,400₹,9,6
+Karnataka,Bangalore,InoxMantriSquareMalleshwaram,Kannada,19:50,Club,270₹,295,26
