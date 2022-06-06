@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Bangalore,PvrVegaBannerghattaRoad,Kannada,11:00,Recliner,220₹,9,0
+Karnataka,Bangalore,PvrVegaBannerghattaRoad,Kannada,11:00,Classic,112₹,73,0
+Karnataka,Bangalore,PvrVegaBannerghattaRoad,Kannada,11:00,Recliner,220₹,9,1
+Karnataka,Bangalore,PvrVegaBannerghattaRoad,Kannada,11:00,Classic,112₹,73,5
