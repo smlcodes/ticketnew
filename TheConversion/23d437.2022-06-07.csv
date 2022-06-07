@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,Hindi,15:55,Recliner,250₹,27,27
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,Hindi,15:55,PrimePlus,160₹,52,15
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,Hindi,15:55,Prime,130₹,156,0
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,Hindi,15:55,Classic,110₹,52,0
