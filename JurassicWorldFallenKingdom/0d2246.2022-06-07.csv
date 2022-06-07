@@ -1,0 +1,14 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrIconOberoiPlayHouseGoregaonE,English,15:15,Recliner,310₹,26,0
+Maharashtra,Mumbai,PvrIconOberoiPlayHouseGoregaonE,English,15:15,Prime,190₹,96,15
+Maharashtra,Mumbai,PvrIconOberoiPlayHouseGoregaonE,English,15:15,Classic,110₹,22,0
+Gujarat,Surat,PvrRahulRajPlayHouseDumasRoad,English,15:30,Recliner,300₹,20,5
+Gujarat,Surat,PvrRahulRajPlayHouseDumasRoad,English,15:30,Prime,180₹,111,11
+Gujarat,Surat,PvrRahulRajPlayHouseDumasRoad,English,15:30,Classic,180₹,26,0
+Gujarat,Surat,PvrRahulRajPlayHouseDumasRoad,English,15:30,ClassicPlus,180₹,12,0
+Punjab,Amritsar,PvrSctPlayHouseAmritsar,English,15:50,Classic,160₹,12,0
+Punjab,Amritsar,PvrSctPlayHouseAmritsar,English,15:50,Prime,160₹,40,0
+Karnataka,Bangalore,PvrVegaPlayHouseBannerghattaRoad,English,16:35,3DClassic,152₹,62,9
+UttarPradesh,Noida,PvrLogixCityCentrePlayHouseNoida,English,19:55,Classic,315₹,38,0
+Karnataka,Bangalore,PvrPlayHousePhoenixMarketcityMallWhit,English,21:00,3DClassic,190₹,120,0
+Karnataka,Bangalore,PvrPlayHousePhoenixMarketcityMallWhit,English,21:00,3DRecliner,190₹,8,1
