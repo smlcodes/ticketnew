@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Mangalore,CinepolisCityCentreMall,Tulu,15:50,Vip,200₹,17,0
+Karnataka,Mangalore,CinepolisCityCentreMall,Tulu,15:50,Platinum,150₹,50,1
+Karnataka,Mangalore,PvrForumFizaMallPandeshwar,Tulu,19:10,Classic,150₹,71,17
