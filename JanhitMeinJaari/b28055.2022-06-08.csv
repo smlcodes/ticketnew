@@ -1,0 +1,9 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Vadodara,CinepolisInorbitMall,Hindi,15:15,Normal,100₹,24,0
+Gujarat,Vadodara,CinepolisInorbitMall,Hindi,15:15,Premium,100₹,26,0
+Gujarat,Vadodara,CinepolisInorbitMall,Hindi,15:15,Executive,100₹,96,0
+Maharashtra,Pune,InoxAmanoraMallHadapsar,Hindi,16:15,Club,140₹,109,109
+Maharashtra,Pune,InoxAmanoraMallHadapsar,Hindi,16:15,Executive,140₹,21,21
+Maharashtra,Pune,InoxAmanoraMallHadapsar,Hindi,16:15,Royale,140₹,2,2
+Chandigarh,Chandigarh,FunCinemasRepublicMall,Hindi,16:35,Executive,140₹,136,0
+Chandigarh,Chandigarh,FunCinemasRepublicMall,Hindi,16:35,Normal,130₹,60,0
