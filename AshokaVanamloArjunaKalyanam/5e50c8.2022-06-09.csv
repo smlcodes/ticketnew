@@ -1,0 +1,15 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+AndhraPradesh,Anakapalle,SvcSriSatyaACDtsAnakapalle,Telugu,11:00,Premium,147₹,344,84
+AndhraPradesh,Anakapalle,SvcSriSatyaACDtsAnakapalle,Telugu,11:00,NonPemium,100₹,128,128
+AndhraPradesh,Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,11:30,Reclinear,295₹,23,23
+AndhraPradesh,Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,11:30,FirstClass,112₹,377,4
+AndhraPradesh,Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,11:30,SecondClass,75₹,135,0
+AndhraPradesh,Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,14:30,Reclinear,295₹,23,23
+AndhraPradesh,Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,14:30,FirstClass,112₹,377,0
+AndhraPradesh,Kakinada,SriTirumalaTheatre2KACDtsKakinada,Telugu,14:30,SecondClass,75₹,135,0
+AndhraPradesh,Anakapalle,SvcSriSatyaACDtsAnakapalle,Telugu,14:30,Premium,147₹,344,84
+AndhraPradesh,Anakapalle,SvcSriSatyaACDtsAnakapalle,Telugu,14:30,NonPemium,100₹,128,128
+AndhraPradesh,Anakapalle,SvcSriSatyaACDtsAnakapalle,Telugu,18:30,Premium,147₹,344,84
+AndhraPradesh,Anakapalle,SvcSriSatyaACDtsAnakapalle,Telugu,18:30,NonPemium,100₹,128,128
+AndhraPradesh,Anakapalle,SvcSriSatyaACDtsAnakapalle,Telugu,21:30,Premium,147₹,344,84
+AndhraPradesh,Anakapalle,SvcSriSatyaACDtsAnakapalle,Telugu,21:30,NonPemium,100₹,128,128
