@@ -1,0 +1,6 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+UttarPradesh,Noida,PvrLogixCityCentrePlayHouseNoida,English,09:30,Classic,200₹,49,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,09:45,Kiddles,130₹,53,8
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,English,10:40,Kiddles,140₹,36,0
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,English,10:40,Kiddles,140₹,36,7
+Telangana,Hyderabad,PvrPlayHouseNextGalleriaMallPanjagutt,English,11:20,Classic,200₹,54,31
