@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+AndhraPradesh,Srikakulam,KinneraComplexSrikakulam,Telugu,18:30,Premium,147₹,253,32
+AndhraPradesh,Srikakulam,KinneraComplexSrikakulam,Telugu,18:30,NonPremium,100₹,148,1
+AndhraPradesh,Srikakulam,KinneraComplexSrikakulam,Telugu,21:45,Premium,147₹,253,32
+AndhraPradesh,Srikakulam,KinneraComplexSrikakulam,Telugu,21:45,NonPremium,100₹,148,0
