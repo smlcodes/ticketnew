@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Bangalore,CinepolisRoyalMeenakshiMall,Kannada,16:25,Premium,236₹,17,2
+Karnataka,Bangalore,CinepolisRoyalMeenakshiMall,Kannada,16:25,Executive,220₹,69,4
+Karnataka,Bangalore,CinepolisRoyalMeenakshiMall,Kannada,16:25,Normal,200₹,26,0
