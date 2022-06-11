@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrMarketCityKurlaW,English,10:00,Prime,190₹,143,39
+Maharashtra,Mumbai,PvrMarketCityKurlaW,English,10:00,Classic,170₹,80,3
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,10:15,Kiddles,140₹,53,13
+Maharashtra,Mumbai,PvrIconOberoiGoregaonE,English,10:30,Recliner,250₹,34,0
+Maharashtra,Mumbai,PvrIconOberoiGoregaonE,English,10:30,Prime,130₹,156,37
+Maharashtra,Mumbai,PvrIconOberoiGoregaonE,English,10:30,Classic,110₹,47,0
+Karnataka,Bangalore,PvrVegaPlayHouseBannerghattaRoad,English,10:50,Classic,190₹,62,58
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,11:30,Classic,350₹,49,43
+UttarPradesh,Noida,PvrLogixCityCentrePlayHouseNoida,English,11:30,Classic,350₹,49,43
+Karnataka,Bangalore,PvrPlayHousePhoenixMarketcityMallWhit,English,17:00,Recliner,400₹,8,6
+Karnataka,Bangalore,PvrPlayHousePhoenixMarketcityMallWhit,English,17:00,Classic,220₹,120,93
+Karnataka,Bangalore,PvrPlayHouseForumMallKoramangala,English,20:05,Classic,240₹,103,87
