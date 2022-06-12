@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,TimeCinemaAhmedabadCgSquareMall,Gujarathi,18:45,Standard,240₹,108,8
+Gujarat,Ahmedabad,RevolutionMultiplexAhmedabad,Gujarathi,21:20,PlatinumClass,180₹,15,0
+Gujarat,Ahmedabad,RevolutionMultiplexAhmedabad,Gujarathi,21:20,GoldenClass,160₹,40,0
+Gujarat,Ahmedabad,RevolutionMultiplexAhmedabad,Gujarathi,21:20,SilverClass,140₹,20,0
