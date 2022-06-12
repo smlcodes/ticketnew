@@ -1,0 +1,17 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,English,10:00,Royale,190₹,81,25
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,English,10:00,Club,170₹,129,15
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,English,10:00,Executive,140₹,30,0
+Maharashtra,Mumbai,PvrMarketCityKurlaW,English,10:00,Prime,190₹,143,10
+Maharashtra,Mumbai,PvrMarketCityKurlaW,English,10:00,Classic,170₹,80,3
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,10:15,Kiddles,150₹,53,42
+Maharashtra,Mumbai,PvrIconOberoiGoregaonE,English,10:30,Recliner,250₹,34,9
+Maharashtra,Mumbai,PvrIconOberoiGoregaonE,English,10:30,Prime,130₹,156,47
+Maharashtra,Mumbai,PvrIconOberoiGoregaonE,English,10:30,Classic,110₹,47,0
+Karnataka,Bangalore,PvrVegaPlayHouseBannerghattaRoad,English,10:50,Classic,200₹,62,60
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,English,14:45,Kiddles,390₹,36,36
+Karnataka,Bangalore,PvrPlayHousePhoenixMarketcityMallWhit,English,17:00,Recliner,420₹,8,7
+Karnataka,Bangalore,PvrPlayHousePhoenixMarketcityMallWhit,English,17:00,Classic,240₹,120,104
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,19:55,Classic,400₹,45,40
+UttarPradesh,Noida,PvrLogixCityCentrePlayHouseNoida,English,19:55,Classic,400₹,47,42
+Karnataka,Bangalore,PvrPlayHouseForumMallKoramangala,English,20:05,Classic,260₹,103,49
