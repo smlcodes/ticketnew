@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Kochi,PvrLuluKochi,Malayalam,13:10,Recliner,350₹,10,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,13:10,Prime,200₹,68,9
+Kerala,Kochi,PvrLuluKochi,Malayalam,13:10,ClassicPlus,180₹,91,5
+Kerala,Kochi,PvrLuluKochi,Malayalam,13:10,Classic,140₹,39,0
+Kerala,Palakkad,RavirajComplexACKozhinjampara,Malayalam,14:00,Balcony,250₹,15,8
+Kerala,Palakkad,RavirajComplexACKozhinjampara,Malayalam,14:00,FirstClass,110₹,215,88
+Kerala,Palakkad,RavirajComplexACKozhinjampara,Malayalam,18:00,Balcony,250₹,15,8
+Kerala,Palakkad,RavirajComplexACKozhinjampara,Malayalam,18:00,FirstClass,110₹,215,88
+Kerala,Kurumassery,KripaMoviesAC71PxdKurumassery,Malayalam,18:15,GoldCircle,110₹,250,50
+Kerala,Palakkad,RavirajComplexACKozhinjampara,Malayalam,21:00,Balcony,250₹,15,8
+Kerala,Palakkad,RavirajComplexACKozhinjampara,Malayalam,21:00,FirstClass,110₹,215,88
+Kerala,Kurumassery,KripaMoviesAC71PxdKurumassery,Malayalam,21:30,GoldCircle,110₹,250,50
