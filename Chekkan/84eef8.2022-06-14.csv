@@ -1,0 +1,11 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,10:45,SilverOffline,150₹,147,16
+Kerala,Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,10:45,ExecutiveOffline,100₹,26,0
+Kerala,Palakkad,RavirajComplexACKozhinjampara,Malayalam,11:00,Balcony,250₹,15,8
+Kerala,Palakkad,RavirajComplexACKozhinjampara,Malayalam,11:00,FirstClass,110₹,215,88
+Kerala,Kochi,SaritaCinemasKochi,Malayalam,12:00,Deluxe,150₹,555,531
+Kerala,Kochi,SaritaCinemasKochi,Malayalam,12:00,RoseCircle,150₹,115,115
+Kerala,Trivandrum,CarnivalGreenfieldCinemaKaryavattom,Malayalam,15:05,ExecutiveOffline,160₹,119,25
+Kerala,Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,16:00,SilverOffline,150₹,147,16
+Kerala,Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,16:00,ExecutiveOffline,100₹,26,0
+Kerala,Karunagappally,CarnivalHJComplexLalajiJunction,Malayalam,16:45,ClassicOffline,110₹,118,0
