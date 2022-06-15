@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+WestBengal,Malda,TpmcCinemaMalda,EnglishIMAX,05:00,Executive,0₹,222,143
+WestBengal,Malda,TpmcCinemaMalda,EnglishIMAX,05:00,Corporate,0₹,538,100
+WestBengal,Malda,TpmcCinemaMalda,EnglishIMAX,05:00,Budget,0₹,95,32
+WestBengal,Malda,TpmcCinemaMalda,English4DX,15:00,Executive,0₹,222,143
+WestBengal,Malda,TpmcCinemaMalda,English4DX,15:00,Corporate,0₹,538,100
+WestBengal,Malda,TpmcCinemaMalda,English4DX,15:00,Budget,0₹,95,32
+WestBengal,Malda,TpmcCinemaMalda,English,18:30,Executive,0₹,222,145
+WestBengal,Malda,TpmcCinemaMalda,English,18:30,Corporate,0₹,538,100
+WestBengal,Malda,TpmcCinemaMalda,English,18:30,Budget,0₹,95,32
+WestBengal,Malda,TpmcCinemaMalda,EnglishDBOX,22:00,Executive,0₹,222,145
+WestBengal,Malda,TpmcCinemaMalda,EnglishDBOX,22:00,Corporate,0₹,538,100
+WestBengal,Malda,TpmcCinemaMalda,EnglishDBOX,22:00,Budget,0₹,95,32
