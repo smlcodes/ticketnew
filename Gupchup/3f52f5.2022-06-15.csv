@@ -1,0 +1,11 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Odisha,Balasore,MovieExOtRoad,Oriya,11:00,Executive,250₹,13,0
+Odisha,Balasore,MovieExOtRoad,Oriya,11:00,Prime,160₹,109,0
+Odisha,Balasore,MovieExOtRoad,Oriya,11:00,Standard,120₹,45,0
+Odisha,Cuttack,InoxSgblSquareMallCuttack,Oriya,15:50,RoyalRecliner,330₹,8,2
+Odisha,Cuttack,InoxSgblSquareMallCuttack,Oriya,15:50,Royal,230₹,62,15
+Odisha,Cuttack,InoxSgblSquareMallCuttack,Oriya,15:50,Club,210₹,88,4
+Odisha,Cuttack,InoxSgblSquareMallCuttack,Oriya,15:50,Executive,160₹,28,0
+Odisha,Bhubaneswar,InoxDnRegaliaMallPatrapada,Oriya,16:20,Royal,280₹,73,48
+Odisha,Bhubaneswar,InoxDnRegaliaMallPatrapada,Oriya,16:20,Club,250₹,40,23
+Odisha,Bhubaneswar,InoxDnRegaliaMallPatrapada,Oriya,16:20,Executive,220₹,20,6
