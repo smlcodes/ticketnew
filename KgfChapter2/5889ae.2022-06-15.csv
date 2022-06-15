@@ -1,0 +1,9 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Mangalore,PvrForumFizaMallPandeshwar,Kannada,11:55,Classic,150₹,79,0
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,12:20,Recliner,250₹,14,1
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,12:20,Prime,170₹,80,7
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,12:20,Classic,150₹,128,4
+Karnataka,Bangalore,PvrForumMallKoramangala,Kannada,15:30,Recliner,300₹,12,1
+Karnataka,Bangalore,PvrForumMallKoramangala,Kannada,15:30,Classic,160₹,166,16
+Karnataka,Bangalore,PvrVegaBannerghattaRoad,Kannada,15:50,Classic,150₹,107,8
+Karnataka,Bangalore,PvrMsrElementsMallTanisandhraMainRoad,Kannada,18:45,Classic,170₹,95,12
