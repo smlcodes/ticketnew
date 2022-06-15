@@ -1,0 +1,9 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Thiruvalla,ChilankaTheatreACDts2KThiruvalla,Malayalam,10:30,Balcony,130₹,277,50
+Kerala,Thiruvalla,ChilankaTheatreACDts2KThiruvalla,Malayalam,14:00,Balcony,130₹,277,50
+Kerala,Thiruvalla,ChilankaTheatreACDts2KThiruvalla,Malayalam,17:30,Balcony,130₹,277,58
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:40,RoyalRecliner,290₹,10,1
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:40,Club,170₹,66,4
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:40,Royal,170₹,13,9
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,19:40,Executive,130₹,22,0
+Kerala,Thiruvalla,ChilankaTheatreACDts2KThiruvalla,Malayalam,21:00,Balcony,130₹,277,50
