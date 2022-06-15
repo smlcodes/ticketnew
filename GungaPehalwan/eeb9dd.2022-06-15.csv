@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Punjab,Mullanpur,4GNovaCinemazMullanpurMandiRoad,Punjabi,12:10,Platinum,160₹,100,0
+Punjab,Mullanpur,4GNovaCinemazMullanpurMandiRoad,Punjabi,12:10,Gold,110₹,100,0
+Punjab,Mullanpur,4GNovaCinemazMullanpurMandiRoad,Punjabi,12:10,Silver,110₹,100,0
+Punjab,Hoshiarpur,SwarnTheatreHoshiarpur,Punjabi,15:15,Box2,130₹,9,9
+Punjab,Hoshiarpur,SwarnTheatreHoshiarpur,Punjabi,15:15,GoldC,130₹,129,0
+Punjab,Hoshiarpur,SwarnTheatreHoshiarpur,Punjabi,15:15,SilverC,130₹,60,0
+Punjab,Nakodar,KcAnandMiniplexNakodar,Punjabi,17:30,Gold,230₹,100,0
+Punjab,Nakodar,KcAnandMiniplexNakodar,Punjabi,17:30,Silver,200₹,100,0
+Punjab,Hoshiarpur,SwarnTheatreHoshiarpur,Punjabi,18:00,Box2,130₹,9,9
+Punjab,Hoshiarpur,SwarnTheatreHoshiarpur,Punjabi,18:00,GoldC,130₹,129,0
+Punjab,Hoshiarpur,SwarnTheatreHoshiarpur,Punjabi,18:00,SilverC,130₹,60,0
+Punjab,Moga,NeelamNovaCinemazMoga,Punjabi,21:30,Gold,200₹,122,0
