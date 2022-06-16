@@ -1,0 +1,9 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+WestBengal,Malda,TpmcCinemaMalda,Tamil,01:00,Corporate,0₹,156,26
+WestBengal,Malda,TpmcCinemaMalda,Tamil,01:00,DriveInCircle,0₹,600,0
+WestBengal,Malda,TpmcCinemaMalda,Tamil,04:30,Corporate,0₹,156,26
+WestBengal,Malda,TpmcCinemaMalda,Tamil,04:30,DriveInCircle,0₹,600,0
+WestBengal,Malda,TpmcCinemaMalda,Tamil,15:00,Corporate,0₹,156,27
+WestBengal,Malda,TpmcCinemaMalda,Tamil,15:00,DriveInCircle,0₹,600,0
+WestBengal,Malda,TpmcCinemaMalda,Tamil,18:30,Corporate,0₹,156,26
+WestBengal,Malda,TpmcCinemaMalda,Tamil,18:30,DriveInCircle,0₹,600,0
