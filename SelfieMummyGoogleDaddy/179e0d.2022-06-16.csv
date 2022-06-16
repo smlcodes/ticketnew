@@ -1,0 +1,7 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,10:45,Recliner,220₹,16,10
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,10:45,Prime,150₹,90,11
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,10:45,Classic,112₹,108,2
+Karnataka,Bangalore,CinepolisEtaNammaMall,Kannada,13:10,Normal,130₹,10,0
+Karnataka,Bangalore,CinepolisEtaNammaMall,Kannada,13:10,Premium,130₹,33,2
+Karnataka,Bangalore,CinepolisEtaNammaMall,Kannada,13:10,Executive,130₹,82,0
