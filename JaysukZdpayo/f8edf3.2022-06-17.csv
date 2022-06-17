@@ -1,0 +1,14 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Vadodara,PvrTransCubeVadodara,Gujarathi,10:00,Recliner,300₹,8,0
+Gujarat,Vadodara,PvrTransCubeVadodara,Gujarathi,10:00,Classic,110₹,34,0
+Gujarat,Vadodara,PvrTransCubeVadodara,Gujarathi,10:00,Prime,110₹,100,16
+Gujarat,Ahmedabad,PvrArvedTranscube,Gujarathi,10:30,Prime,120₹,100,13
+Gujarat,Ahmedabad,PvrArvedTranscube,Gujarathi,10:30,Classic,110₹,33,0
+Gujarat,Gandhinagar,InoxR21Gandhinagar,Gujarathi,11:50,Ebony,140₹,35,0
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,Gujarathi,12:30,Kiddles,230₹,36,0
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarathi,12:40,Recliner,300₹,24,5
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarathi,12:40,Prime,160₹,87,11
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarathi,12:40,ClassicPlus,140₹,30,0
+Gujarat,Surat,PvrRahulRajMallDumasRoad,Gujarathi,12:40,Classic,130₹,30,0
+Gujarat,Ahmedabad,MirajCityPulseManiNagar,Gujarathi,13:30,Gold,160₹,24,0
+Maharashtra,Mumbai,CarnivalAnnexMallBorivali,Gujarathi,16:05,Sofa,180₹,133,4
