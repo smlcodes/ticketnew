@@ -1,0 +1,11 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Payyanur,AradhanaArchanaMovieHousePayyanur,Malayalam,16:30,Balcony,110₹,144,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:50,RoyalRecliner,350₹,10,5
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:50,Club,190₹,63,2
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:50,Royal,190₹,16,2
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,16:50,Executive,130₹,22,0
+Kerala,Payyanur,AradhanaArchanaMovieHousePayyanur,Malayalam,19:30,Balcony,110₹,144,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,22:10,Recliner,350₹,10,6
+Kerala,Kochi,PvrLuluKochi,Malayalam,22:10,Prime,200₹,68,20
+Kerala,Kochi,PvrLuluKochi,Malayalam,22:10,ClassicPlus,180₹,91,17
+Kerala,Kochi,PvrLuluKochi,Malayalam,22:10,Classic,140₹,39,0
