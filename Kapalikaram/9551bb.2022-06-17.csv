@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Doddaballapur,UdhayamComplex,Tamil,12:00,FirstClass,112₹,213,11
+Karnataka,Doddaballapur,UdhayamComplex,Tamil,12:00,SecondClass,105₹,70,0
+Karnataka,Doddaballapur,UdhayamComplex,Tamil,12:00,ThirdClass,50₹,32,0
