@@ -1,0 +1,14 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrDynamicJuhu,English,12:30,Prime,260₹,72,19
+Maharashtra,Mumbai,PvrDynamicJuhu,English,12:30,Classic,230₹,40,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,14:00,Insignia,450₹,34,11
+Maharashtra,Mumbai,InoxLaserplexCr2NarimanPoint,English,16:00,Insignia,950₹,70,8
+Delhi,DelhiNcr,PvrPromenadeVasantKunj,English,17:15,Prime,450₹,29,24
+Delhi,DelhiNcr,PvrPromenadeVasantKunj,English,17:15,Classic,420₹,135,9
+Maharashtra,Mumbai,InoxAtriaMallWorli,English,19:10,Insignia,"1,100₹",26,15
+Haryana,Gurgaon,PvrAmbienceGurgaon,English,19:15,Prime,500₹,68,17
+Haryana,Gurgaon,PvrAmbienceGurgaon,English,19:15,ClassicNormal,400₹,84,6
+Delhi,DelhiNcr,PvrDirectorsCutAmbienceVasantKunj,English,20:05,PlatinumSuperior,"1,500₹",6,3
+Delhi,DelhiNcr,PvrDirectorsCutAmbienceVasantKunj,English,20:05,Platinum,"1,300₹",19,3
+Delhi,DelhiNcr,PvrSelectCityWalkGoldSaket,English,20:45,Platinum,500₹,24,9
+Delhi,DelhiNcr,PvrSelectCityWalkGoldSaket,English,20:45,PlatinumSuperior,500₹,16,15
