@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Kadayam,UdhayamComplex,Tamil,22:30,FirstClass,112₹,213,40
+TamilNadu,Kadayam,UdhayamComplex,Tamil,22:30,SecondClass,105₹,70,0
+TamilNadu,Kadayam,UdhayamComplex,Tamil,22:30,ThirdClass,50₹,32,0
