@@ -1,0 +1,14 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Surat,InoxRajImperialVarachhaRoad,Gujarathi,08:35,Imperial,240₹,5,5
+Gujarat,Surat,InoxRajImperialVarachhaRoad,Gujarathi,08:35,Platinum,112₹,20,6
+Gujarat,Surat,InoxRajImperialVarachhaRoad,Gujarathi,08:35,Gold,90₹,23,2
+Gujarat,Surat,InoxRajImperialVarachhaRoad,Gujarathi,08:35,Silver,70₹,10,0
+Maharashtra,Mumbai,CarnivalMoviestarGoregaonW,Gujarathi,12:00,SilverOffline,100₹,24,0
+Maharashtra,Mumbai,CarnivalMoviestarGoregaonW,Gujarathi,12:00,GoldOffline,100₹,46,5
+Gujarat,Vadodara,CinepolisInorbitMall,Gujarathi,13:45,Normal,170₹,24,0
+Gujarat,Vadodara,CinepolisInorbitMall,Gujarathi,13:45,Premium,170₹,26,8
+Gujarat,Vadodara,CinepolisInorbitMall,Gujarathi,13:45,Executive,170₹,96,0
+Gujarat,Nadiad,InoxOpalOneMallNadiad,Gujarathi,14:05,RoyalRecliners,190₹,15,0
+Gujarat,Nadiad,InoxOpalOneMallNadiad,Gujarathi,14:05,Royal,112₹,28,0
+Gujarat,Nadiad,InoxOpalOneMallNadiad,Gujarathi,14:05,Club,100₹,51,0
+Gujarat,Nadiad,InoxOpalOneMallNadiad,Gujarathi,14:05,Executive,90₹,34,0
