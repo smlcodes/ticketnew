@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,RevolutionMultiplexAhmedabad,Hindi,15:15,PlatinumClass,180₹,15,7
+Gujarat,Ahmedabad,RevolutionMultiplexAhmedabad,Hindi,15:15,GoldenClass,160₹,40,20
+Gujarat,Ahmedabad,RevolutionMultiplexAhmedabad,Hindi,15:15,SilverClass,140₹,20,4
