@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Kochi,SaritaCinemasKochi,Malayalam,10:00,BlueCircle,150₹,227,218
+Kerala,Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmos,Malayalam,14:30,DiamondSofa,200₹,4,0
+Kerala,Trivandrum,SriKalidasMPlex4KRgbLaserDolbyAtmos,Malayalam,14:30,Gold,150₹,170,0
