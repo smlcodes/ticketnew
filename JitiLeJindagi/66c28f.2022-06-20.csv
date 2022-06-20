@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,RevolutionMultiplexAhmedabad,Gujarathi,21:00,PlatinumClass,112₹,15,0
+Gujarat,Ahmedabad,RevolutionMultiplexAhmedabad,Gujarathi,21:00,GoldenClass,112₹,40,39
+Gujarat,Ahmedabad,RevolutionMultiplexAhmedabad,Gujarathi,21:00,SilverClass,112₹,20,19
