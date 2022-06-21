@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+UttarPradesh,Gorakhpur,AdCinemas,Hindi,18:40,Platinum,190₹,52,18
+UttarPradesh,Gorakhpur,AdCinemas,Hindi,18:40,Diamond,170₹,23,2
+UttarPradesh,Gorakhpur,AdCinemas,Hindi,18:40,Gold,150₹,20,0
