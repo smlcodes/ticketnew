@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Chikhli,CinemagicCinemaNagpure,Hindi,12:00,RoyalSofa,150₹,5,5
+Gujarat,Chikhli,CinemagicCinemaNagpure,Hindi,12:00,Gold,100₹,181,90
+Gujarat,Chikhli,CinemagicCinemaNagpure,Hindi,12:00,Silver,70₹,27,14
+Gujarat,Chikhli,CinemagicCinemaNagpure,Hindi,15:00,RoyalSofa,150₹,5,5
+Gujarat,Chikhli,CinemagicCinemaNagpure,Hindi,15:00,Gold,100₹,181,90
+Gujarat,Chikhli,CinemagicCinemaNagpure,Hindi,15:00,Silver,70₹,27,14
+Gujarat,Chikhli,CinemagicCinemaNagpure,Hindi,18:00,RoyalSofa,150₹,5,5
+Gujarat,Chikhli,CinemagicCinemaNagpure,Hindi,18:00,Gold,100₹,181,90
+Gujarat,Chikhli,CinemagicCinemaNagpure,Hindi,18:00,Silver,70₹,27,14
+Gujarat,Chikhli,CinemagicCinemaNagpure,Hindi,21:00,RoyalSofa,150₹,5,5
+Gujarat,Chikhli,CinemagicCinemaNagpure,Hindi,21:00,Gold,100₹,181,90
+Gujarat,Chikhli,CinemagicCinemaNagpure,Hindi,21:00,Silver,70₹,27,14
