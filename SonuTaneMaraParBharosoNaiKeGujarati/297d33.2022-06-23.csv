@@ -1,0 +1,7 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Surat,InoxRajImperialVarachhaRoad,Gujarathi,08:35,Imperial,240₹,5,5
+Gujarat,Surat,InoxRajImperialVarachhaRoad,Gujarathi,08:35,Platinum,112₹,20,0
+Gujarat,Surat,InoxRajImperialVarachhaRoad,Gujarathi,08:35,Gold,90₹,23,0
+Gujarat,Surat,InoxRajImperialVarachhaRoad,Gujarathi,08:35,Silver,70₹,10,0
+Maharashtra,Mumbai,CarnivalMoviestarGoregaonW,Gujarathi,13:30,SilverOffline,70₹,24,0
+Maharashtra,Mumbai,CarnivalMoviestarGoregaonW,Gujarathi,13:30,GoldOffline,70₹,46,4
