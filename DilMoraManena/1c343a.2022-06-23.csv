@@ -1,0 +1,9 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Odisha,Berhampur,ShaktiCinemasBerhampur,Oriya,11:45,Balcony,100₹,247,222
+Odisha,Berhampur,ShaktiCinemasBerhampur,Oriya,11:45,RearStall,70₹,301,277
+Odisha,Berhampur,ShaktiCinemasBerhampur,Oriya,14:45,Balcony,100₹,247,222
+Odisha,Berhampur,ShaktiCinemasBerhampur,Oriya,14:45,RearStall,70₹,301,277
+Odisha,Berhampur,ShaktiCinemasBerhampur,Oriya,17:50,Balcony,100₹,247,222
+Odisha,Berhampur,ShaktiCinemasBerhampur,Oriya,17:50,RearStall,70₹,301,277
+Odisha,Berhampur,ShaktiCinemasBerhampur,Oriya,20:50,Balcony,100₹,247,222
+Odisha,Berhampur,ShaktiCinemasBerhampur,Oriya,20:50,RearStall,70₹,301,277
