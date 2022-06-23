@@ -1,0 +1,6 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Cumbum,DevaBalaSakthiBalaCinemasACDolbyAtmosCumbum,Tamil,10:30,Premium,150₹,40,0
+TamilNadu,Cumbum,DevaBalaSakthiBalaCinemasACDolbyAtmosCumbum,Tamil,10:30,Platinum,100₹,114,0
+TamilNadu,Cumbum,DevaBalaSakthiBalaCinemasACDolbyAtmosCumbum,Tamil,10:30,Gold,100₹,190,0
+TamilNadu,Chennai,C3LaurelMallRgbLaser,Tamil,11:45,Platinum,150₹,169,23
+TamilNadu,Chennai,C3LaurelMallRgbLaser,Tamil,11:45,Silver,150₹,54,0
