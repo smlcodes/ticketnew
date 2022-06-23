@@ -1,0 +1,15 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Telangana,Hyderabad,Santosh70MmAbids,Telugu,11:30,Balcony,150₹,318,232
+Telangana,Hyderabad,Santosh70MmAbids,Telugu,11:30,Silver,100₹,342,228
+Telangana,Hyderabad,Santosh70MmAbids,Telugu,11:30,Bronze,70₹,152,152
+Telangana,Hyderabad,YakuthMahalYakutpuraHyderabad,Telugu,12:30,Balcony,110₹,196,24
+Telangana,Hyderabad,YakuthMahalYakutpuraHyderabad,Telugu,12:30,DressCircle,80₹,192,24
+Telangana,Hyderabad,Santosh70MmAbids,Telugu,14:30,Balcony,150₹,318,232
+Telangana,Hyderabad,Santosh70MmAbids,Telugu,14:30,Silver,100₹,342,228
+Telangana,Hyderabad,Santosh70MmAbids,Telugu,14:30,Bronze,70₹,152,152
+Telangana,Hyderabad,YakuthMahalYakutpuraHyderabad,Telugu,15:30,Balcony,110₹,196,24
+Telangana,Hyderabad,YakuthMahalYakutpuraHyderabad,Telugu,15:30,DressCircle,80₹,192,24
+Telangana,Hyderabad,YakuthMahalYakutpuraHyderabad,Telugu,18:30,Balcony,110₹,196,24
+Telangana,Hyderabad,YakuthMahalYakutpuraHyderabad,Telugu,18:30,DressCircle,80₹,192,24
+Telangana,Hyderabad,YakuthMahalYakutpuraHyderabad,Telugu,21:30,Balcony,110₹,196,24
+Telangana,Hyderabad,YakuthMahalYakutpuraHyderabad,Telugu,21:30,DressCircle,80₹,192,24
