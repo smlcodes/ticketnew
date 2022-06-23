@@ -1,0 +1,10 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Payyanur,AradhanaArchanaMovieHousePayyanur,Malayalam,10:30,Royal,100₹,532,0
+Kerala,Kollengode,GowriMovieHouse2KDolby71Kollengode,Malayalam,11:00,FirstClass,100₹,129,0
+Kerala,Payyanur,AradhanaArchanaMovieHousePayyanur,Malayalam,13:30,Royal,100₹,532,0
+Kerala,Kochi,SaritaCinemasKochi,Malayalam,15:00,BlueCircle,150₹,227,218
+Kerala,Karunagappally,CarnivalHJComplexLalajiJunction,Malayalam,15:00,ClassicOffline,100₹,194,0
+Kerala,Kollengode,GowriMovieHouse2KDolby71Kollengode,Malayalam,16:00,FirstClass,100₹,129,0
+Kerala,Trivandrum,CarnivalGreenfieldCinemaKaryavattom,Malayalam,16:10,ExecutiveOffline,160₹,132,3
+Kerala,Payyanur,AradhanaArchanaMovieHousePayyanur,Malayalam,16:30,Royal,100₹,532,0
+Kerala,Payyanur,AradhanaArchanaMovieHousePayyanur,Malayalam,19:30,Royal,100₹,532,0
