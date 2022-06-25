@@ -1,0 +1,17 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+AndhraPradesh,Cheepurupalli,AnuragAndAmogTheatresCheepuripalli,Telugu,10:30,Premium,150₹,318,72
+AndhraPradesh,Cheepurupalli,AnuragAndAmogTheatresCheepuripalli,Telugu,10:30,NonPremium,100₹,124,0
+AndhraPradesh,Visakhapatnam,ArunaPicturePalaceACDtsVisakhapatnam,Telugu,11:30,Premium,112₹,402,168
+AndhraPradesh,Visakhapatnam,ArunaPicturePalaceACDtsVisakhapatnam,Telugu,11:30,NonPremium,78₹,140,113
+AndhraPradesh,Cheepurupalli,AnuragAndAmogTheatresCheepuripalli,Telugu,14:30,Premium,150₹,318,74
+AndhraPradesh,Cheepurupalli,AnuragAndAmogTheatresCheepuripalli,Telugu,14:30,NonPremium,100₹,124,0
+AndhraPradesh,Visakhapatnam,ArunaPicturePalaceACDtsVisakhapatnam,Telugu,14:30,Premium,112₹,402,166
+AndhraPradesh,Visakhapatnam,ArunaPicturePalaceACDtsVisakhapatnam,Telugu,14:30,NonPremium,78₹,140,110
+AndhraPradesh,Visakhapatnam,ArunaPicturePalaceACDtsVisakhapatnam,Telugu,18:15,Premium,112₹,402,166
+AndhraPradesh,Visakhapatnam,ArunaPicturePalaceACDtsVisakhapatnam,Telugu,18:15,NonPremium,78₹,140,110
+AndhraPradesh,Cheepurupalli,AnuragAndAmogTheatresCheepuripalli,Telugu,18:30,Premium,150₹,318,72
+AndhraPradesh,Cheepurupalli,AnuragAndAmogTheatresCheepuripalli,Telugu,18:30,NonPremium,100₹,124,0
+AndhraPradesh,Visakhapatnam,ArunaPicturePalaceACDtsVisakhapatnam,Telugu,21:30,Premium,112₹,402,166
+AndhraPradesh,Visakhapatnam,ArunaPicturePalaceACDtsVisakhapatnam,Telugu,21:30,NonPremium,78₹,140,110
+AndhraPradesh,Cheepurupalli,AnuragAndAmogTheatresCheepuripalli,Telugu,21:30,Premium,150₹,318,72
+AndhraPradesh,Cheepurupalli,AnuragAndAmogTheatresCheepuripalli,Telugu,21:30,NonPremium,100₹,124,0
