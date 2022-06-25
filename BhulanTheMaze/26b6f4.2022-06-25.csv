@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Chhattisgarh,Raipur,InoxCityMall36GERoad,Chhattisghari,12:30,Platinum,138₹,37,0
+Chhattisgarh,Raipur,InoxCityMall36GERoad,Chhattisghari,12:30,Gold,104₹,216,2
+Chhattisgarh,Raipur,InoxCityMall36GERoad,Chhattisghari,12:30,Club,85₹,36,0
+Chhattisgarh,Raipur,InoxAmbujaCityCentreMowa,Chhattisghari,13:00,RoyalRecliner,184₹,15,0
+Chhattisgarh,Raipur,InoxAmbujaCityCentreMowa,Chhattisghari,13:00,Royal,94₹,32,0
+Chhattisgarh,Raipur,InoxAmbujaCityCentreMowa,Chhattisghari,13:00,Club,85₹,150,2
+Chhattisgarh,Raipur,InoxAmbujaCityCentreMowa,Chhattisghari,13:00,Executive,85₹,32,0
+Chhattisgarh,Raipur,PvrMagnetoTheMallRaipur,Chhattisghari,13:15,Recliner,137₹,22,7
+Chhattisgarh,Raipur,PvrMagnetoTheMallRaipur,Chhattisghari,13:15,Prime,93₹,192,23
+Chhattisgarh,Raipur,PvrMagnetoTheMallRaipur,Chhattisghari,13:15,Classic,93₹,38,0
+Chhattisgarh,Bhilai,MirajCinemasBhilai,Chhattisghari,18:15,Special,120₹,42,0
+Chhattisgarh,Bhilai,MirajCinemasBhilai,Chhattisghari,18:15,Executive,120₹,109,13
