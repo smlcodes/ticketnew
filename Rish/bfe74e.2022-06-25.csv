@@ -1,0 +1,10 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+WestBengal,Kolkata,PvrAvaniRiverSideMall,Bengali,14:00,Prime,290₹,11,0
+WestBengal,Kolkata,PvrAvaniRiverSideMall,Bengali,14:00,Classic,210₹,200,0
+UttarPradesh,Noida,PvrLogixCityCentreNoida,Bengali,16:25,Classic,345₹,76,0
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Bengali,16:30,Classic,200₹,144,17
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,17:25,Recliner,460₹,12,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,17:25,Prime,290₹,11,5
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,17:25,Classic,240₹,80,14
+Karnataka,Bangalore,PvrPhoenixMarketcityMallWhitefieldRoad,Bengali,21:15,Recliner,470₹,12,0
+Karnataka,Bangalore,PvrPhoenixMarketcityMallWhitefieldRoad,Bengali,21:15,Classic,260₹,119,0
