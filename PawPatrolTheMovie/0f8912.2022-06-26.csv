@@ -1,0 +1,6 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,English,09:10,Royale,160₹,42,2
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,English,09:10,Club,140₹,143,7
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,English,09:10,Executive,112₹,34,0
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,English,14:35,Kiddles,370₹,36,29
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,18:00,Kiddles,330₹,53,51
