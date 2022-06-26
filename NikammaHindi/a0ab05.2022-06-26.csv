@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Bihar,Muzaffarpur,FunCinemaAmarjyoti,Hindi,12:00,Balcony,120₹,217,0
+Maharashtra,Mumbai,CarnivalMoviestarGoregaonW,Hindi,12:50,GoldOffline,130₹,46,2
+Maharashtra,Mumbai,CarnivalMoviestarGoregaonW,Hindi,12:50,SilverOffline,110₹,24,0
