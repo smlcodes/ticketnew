@@ -1,0 +1,7 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+MadhyaPradesh,Bhopal,PvrAuraMallBhopal,Hindi,16:30,Recliner,260₹,11,0
+MadhyaPradesh,Bhopal,PvrAuraMallBhopal,Hindi,16:30,Classic,130₹,63,0
+MadhyaPradesh,Bhopal,PvrAuraMallBhopal,Hindi,16:30,Prime,130₹,228,36
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Hindi,16:40,Classic,200₹,152,32
+Delhi,DelhiNcr,PvrPromenadeVasantKunj,Hindi,17:25,Prime,199₹,44,17
+Delhi,DelhiNcr,PvrPromenadeVasantKunj,Hindi,17:25,Classic,149₹,50,10
