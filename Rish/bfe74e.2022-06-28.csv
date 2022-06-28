@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Bengali,16:30,Classic,200₹,144,144
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,17:25,Recliner,149₹,12,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,17:25,Classic,99₹,100,10
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,17:25,Prime,99₹,11,1
