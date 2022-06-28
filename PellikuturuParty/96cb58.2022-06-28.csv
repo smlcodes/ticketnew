@@ -1,0 +1,16 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+AndhraPradesh,Guntur,JleCinemasGuntur,Telugu,11:30,Elite,295₹,17,0
+AndhraPradesh,Guntur,JleCinemasGuntur,Telugu,11:30,Gold,177₹,123,4
+Karnataka,Bangalore,PvrMsrElementsMallTanisandhraMainRoad,Telugu,13:40,Classic,150₹,95,0
+AndhraPradesh,Visakhapatnam,InoxVizagChitralayaaMall,Telugu,16:20,Executive,177₹,116,8
+Telangana,Hyderabad,PvrIrrumManzilKhairatabad,Telugu,16:30,Recliner,350₹,10,4
+Telangana,Hyderabad,PvrIrrumManzilKhairatabad,Telugu,16:30,Classic,200₹,158,1
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,Telugu,18:35,Prime,202₹,99,13
+TamilNadu,Chennai,PvrHeritageRslEcrChennai,Telugu,18:35,Classic,63₹,11,11
+Telangana,Hyderabad,PvrKukatpallyHyderabad,Telugu,19:50,Recliner,350₹,13,0
+Telangana,Hyderabad,PvrKukatpallyHyderabad,Telugu,19:50,Classic,200₹,246,59
+Telangana,Hyderabad,PvrPanjaguttaHyderabad,Telugu,20:10,Classic,200₹,141,14
+Telangana,Hyderabad,PvrInorbitCyberabad,Telugu,20:15,Classic,200₹,161,161
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHills,Telugu,21:50,Prime,202₹,81,10
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHills,Telugu,21:50,Classic,63₹,16,14
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Telugu,22:35,Classic,200₹,170,19
