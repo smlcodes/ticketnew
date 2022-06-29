@@ -1,0 +1,3 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+WestBengal,Kolkata,BijoliCinemaKolkata,Bengali,12:00,Balcony,100₹,188,107
+WestBengal,Kolkata,BijoliCinemaKolkata,Bengali,12:00,RearStall,80₹,614,0
