@@ -1,0 +1,16 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+UttarPradesh,Lucknow,CinepolisOneAwadhCenterMall,English,09:40,Vip,450₹,10,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCenterMall,English,09:40,Normal,180₹,25,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCenterMall,English,09:40,Premium,180₹,35,0
+UttarPradesh,Lucknow,CinepolisOneAwadhCenterMall,English,09:40,Executive,180₹,68,0
+Maharashtra,Pune,PvrMarketCityGoldVimanNagar,English,10:30,GoldPrime,350₹,22,0
+Maharashtra,Pune,PvrMarketCityGoldVimanNagar,English,10:30,GoldClassic,300₹,24,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,10:40,Insignia,370₹,40,0
+Delhi,DelhiNcr,PvrPromenadeVasantKunj,English,11:10,Prime,170₹,33,14
+Delhi,DelhiNcr,PvrPromenadeVasantKunj,English,11:10,Classic,139₹,96,2
+Karnataka,Bangalore,PvrVegaPlayHouseBannerghattaRoad,English,11:25,3DClassic,122₹,62,5
+Karnataka,Bangalore,PvrPlayHouseForumMallKoramangala,English,11:35,3DClassic,122₹,103,18
+Maharashtra,Pune,PvrMarketCityGoldVimanNagar,English,16:15,GoldPrime,400₹,22,7
+Maharashtra,Pune,PvrMarketCityGoldVimanNagar,English,16:15,GoldClassic,400₹,24,9
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,16:50,Classic,290₹,106,0
+Karnataka,Bangalore,PvrPlayHouseForumMallKoramangala,English,18:10,3DClassic,220₹,92,17
