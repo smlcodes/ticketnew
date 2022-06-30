@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Odisha,Berhampur,ShaktiCinemasBerhampur,Telugu,11:45,Balcony,100₹,247,222
+Odisha,Berhampur,ShaktiCinemasBerhampur,Telugu,11:45,RearStall,70₹,301,277
+Odisha,Berhampur,ShaktiCinemasBerhampur,Telugu,14:45,Balcony,100₹,247,222
+Odisha,Berhampur,ShaktiCinemasBerhampur,Telugu,14:45,RearStall,70₹,301,277
+Odisha,Berhampur,ShaktiCinemasBerhampur,Telugu,17:50,Balcony,100₹,247,222
+Odisha,Berhampur,ShaktiCinemasBerhampur,Telugu,17:50,RearStall,70₹,301,277
+AndhraPradesh,Visakhapatnam,ArunaPicturePalaceACDtsVisakhapatnam,Telugu,18:30,Premium,112₹,402,166
+AndhraPradesh,Visakhapatnam,ArunaPicturePalaceACDtsVisakhapatnam,Telugu,18:30,NonPremium,78₹,140,110
+Odisha,Berhampur,ShaktiCinemasBerhampur,Telugu,20:50,Balcony,100₹,247,222
+Odisha,Berhampur,ShaktiCinemasBerhampur,Telugu,20:50,RearStall,70₹,301,277
+AndhraPradesh,Visakhapatnam,ArunaPicturePalaceACDtsVisakhapatnam,Telugu,21:30,Premium,112₹,402,166
+AndhraPradesh,Visakhapatnam,ArunaPicturePalaceACDtsVisakhapatnam,Telugu,21:30,NonPremium,78₹,140,110
