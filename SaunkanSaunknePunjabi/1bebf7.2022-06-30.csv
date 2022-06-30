@@ -1,0 +1,9 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,13:30,Classic,99₹,105,0
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,13:30,Prime,99₹,42,0
+Rajasthan,ShriGanganagar,GoldCinemaSriganganagar,Punjabi,16:45,Box,300₹,3,0
+Rajasthan,ShriGanganagar,GoldCinemaSriganganagar,Punjabi,16:45,Gold,140₹,33,0
+Rajasthan,ShriGanganagar,GoldCinemaSriganganagar,Punjabi,16:45,Platinum,140₹,152,0
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,19:10,Classic,99₹,105,0
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,19:10,Prime,99₹,42,0
+Punjab,Ludhiana,PvrPavilionMallLudhiana,Punjabi,22:35,Classic,99₹,64,2
