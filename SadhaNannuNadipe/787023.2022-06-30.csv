@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+AndhraPradesh,Visakhapatnam,CinepolisSreekanyaCineglitz,Telugu,16:45,Normal,177₹,20,0
+AndhraPradesh,Visakhapatnam,CinepolisSreekanyaCineglitz,Telugu,16:45,Executive,177₹,149,13
+AndhraPradesh,Vijayawada,CinepolisPvpSquare,Telugu,17:10,Normal,177₹,224,23
