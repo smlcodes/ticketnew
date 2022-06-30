@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+MadhyaPradesh,Indore,InoxC21MallSheetalNagar,Hindi,11:10,Cl,300₹,33,0
+MadhyaPradesh,Indore,InoxC21MallSheetalNagar,Hindi,11:10,Ry,300₹,63,0
+MadhyaPradesh,Indore,InoxC21MallSheetalNagar,Hindi,15:20,Cl,400₹,33,0
+MadhyaPradesh,Indore,InoxC21MallSheetalNagar,Hindi,15:20,Ry,400₹,63,2
