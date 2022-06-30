@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+AndhraPradesh,Guntur,JleCinemasGuntur,Telugu,11:30,Elite,295₹,17,0
+AndhraPradesh,Guntur,JleCinemasGuntur,Telugu,11:30,Gold,177₹,123,3
+AndhraPradesh,Visakhapatnam,InoxVizagChitralayaaMall,Telugu,16:20,Executive,177₹,116,0
