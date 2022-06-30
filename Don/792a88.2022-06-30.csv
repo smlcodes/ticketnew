@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Chennai,CinepolisBsrMall,Tamil,18:30,Executive,152₹,117,6
+TamilNadu,Chennai,CinepolisBsrMall,Tamil,18:30,Normal,60₹,17,0
+TamilNadu,Chennai,CinepolisBsrMall,Tamil,18:30,Executive,152₹,117,6
+TamilNadu,Chennai,CinepolisBsrMall,Tamil,18:30,Normal,60₹,17,1
