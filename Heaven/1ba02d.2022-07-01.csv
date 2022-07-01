@@ -1,0 +1,6 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,10:00,GoldOffline,350₹,13,0
+Kerala,Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,10:00,SilverOffline,180₹,167,16
+Kerala,Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,10:00,ExecutiveOffline,100₹,13,0
+Kerala,Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,19:10,SilverOffline,180₹,147,16
+Kerala,Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,19:10,ExecutiveOffline,100₹,26,0
