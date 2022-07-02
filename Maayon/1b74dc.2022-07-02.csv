@@ -1,0 +1,15 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Angadipuram,PvrAmpaSkywalkMallAminjikarai,Tamil,12:15,Prime,190₹,118,21
+Kerala,Angadipuram,PvrAmpaSkywalkMallAminjikarai,Tamil,12:15,Classic,60₹,17,17
+Kerala,Angadipuram,PvrGrandGaladaPallavaram,Tamil,12:40,Prime,190₹,118,66
+Kerala,Angadipuram,PvrGrandGaladaPallavaram,Tamil,12:40,Classic,60₹,28,28
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,15:45,Club,190₹,159,39
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,15:45,Executive,60₹,21,17
+Kerala,Angadipuram,CinepolisBsrMall,Tamil,16:00,Executive,152₹,117,54
+Kerala,Angadipuram,CinepolisBsrMall,Tamil,16:00,Normal,60₹,17,17
+Kerala,Angadipuram,PvrSklsGalaxyMallRedHills,Tamil,19:05,Prime,179₹,81,12
+Kerala,Angadipuram,PvrSklsGalaxyMallRedHills,Tamil,19:05,Classic,60₹,16,16
+Kerala,Angadipuram,InoxTheMarinaMallOmr,Tamil,22:00,Club,190₹,126,3
+Kerala,Angadipuram,InoxTheMarinaMallOmr,Tamil,22:00,Executive,60₹,16,11
+Kerala,Angadipuram,PvrGrandMallVelachery,Tamil,22:20,Prime,190₹,130,28
+Kerala,Angadipuram,PvrGrandMallVelachery,Tamil,22:20,Classic,60₹,40,40
