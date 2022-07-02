@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Maharashtra,Parli,ShreeNathTalkiesParliVaijnath,Marathi,12:10,Shree,100₹,240,0
+Maharashtra,Mumbai,PlazaCinemaDadarW,Marathi,15:30,BoxSofa,400₹,25,2
+Maharashtra,Mumbai,PlazaCinemaDadarW,Marathi,15:30,Sofa,350₹,54,6
+Maharashtra,Mumbai,PlazaCinemaDadarW,Marathi,15:30,Platinum,180₹,208,33
+Maharashtra,Mumbai,PlazaCinemaDadarW,Marathi,15:30,Gold,150₹,161,37
+Maharashtra,Mumbai,PlazaCinemaDadarW,Marathi,15:30,Silver,130₹,184,3
+Maharashtra,Pune,CinepolisSeasonsMall,Marathi,18:50,Premium,220₹,40,8
+Maharashtra,Pune,CinepolisSeasonsMall,Marathi,18:50,Executive,220₹,52,7
+Maharashtra,Pune,CinepolisSeasonsMall,Marathi,18:50,Normal,200₹,23,0
+Maharashtra,Mumbai,CinepolisVivianaMall,Marathi,19:05,Premium,260₹,46,44
+Maharashtra,Mumbai,CinepolisVivianaMall,Marathi,19:05,Executive,240₹,104,48
+Maharashtra,Mumbai,CinepolisVivianaMall,Marathi,19:05,Normal,220₹,27,0
