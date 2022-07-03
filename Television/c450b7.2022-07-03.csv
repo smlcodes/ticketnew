@@ -1,0 +1,17 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Punjab,Moga,NeelamNovaCinemazMoga,Punjabi,09:40,Gold,160₹,122,0
+Chandigarh,Chandigarh,PvrElanteMallChandigarh,Punjabi,15:20,Recliner,650₹,26,6
+Chandigarh,Chandigarh,PvrElanteMallChandigarh,Punjabi,15:20,Classic,230₹,140,33
+Punjab,Sunam,CinePlazaSunam,Punjabi,16:05,SofaClass,280₹,13,0
+Punjab,Sunam,CinePlazaSunam,Punjabi,16:05,DiamondClass,180₹,117,29
+Punjab,Sunam,CinePlazaSunam,Punjabi,16:05,GoldClass,180₹,33,0
+Punjab,Ludhiana,PvrPavilionMallLudhiana,Punjabi,16:20,Prime,350₹,8,0
+Punjab,Ludhiana,PvrPavilionMallLudhiana,Punjabi,16:20,Classic,270₹,117,3
+Punjab,Bathinda,FunPlazaKotkapura,Punjabi,16:25,Royal,170₹,94,83
+Punjab,Sardulgarh,GoldenCinemasSardulgarh,Punjabi,17:20,Platinum,300₹,13,7
+Punjab,Sardulgarh,GoldenCinemasSardulgarh,Punjabi,17:20,Royal,250₹,16,9
+Punjab,Sardulgarh,GoldenCinemasSardulgarh,Punjabi,17:20,Gold,200₹,56,42
+Punjab,Sardulgarh,GoldenCinemasSardulgarh,Punjabi,17:20,Silver,170₹,64,48
+Punjab,Sardulgarh,GoldenCinemasSardulgarh,Punjabi,17:20,NormalClass,150₹,32,16
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,19:10,Prime,330₹,38,11
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,19:10,Classic,300₹,84,6
