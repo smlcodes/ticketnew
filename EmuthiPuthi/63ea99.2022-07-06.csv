@@ -1,0 +1,9 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Assam,Jorhat,InoxAbsMallJorhat,Assamese,14:00,Royal,300₹,14,0
+Assam,Jorhat,InoxAbsMallJorhat,Assamese,14:00,Club,210₹,55,3
+Assam,Jorhat,InoxAbsMallJorhat,Assamese,14:00,Executive,150₹,32,0
+Assam,Jorhat,InoxAbsMallJorhat,Assamese,14:00,Premier,100₹,32,0
+Assam,Guwahati,CinepolisCentralMall,Assamese,18:00,Vip,400₹,4,0
+Assam,Guwahati,CinepolisCentralMall,Assamese,18:00,Premium,200₹,42,22
+Assam,Guwahati,CinepolisCentralMall,Assamese,18:00,Executive,180₹,116,13
+Assam,Guwahati,CinepolisCentralMall,Assamese,18:00,Normal,160₹,24,0
