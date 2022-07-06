@@ -1,0 +1,6 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Mukkam,RoseCinePalaceMukkam,Malayalam,15:00,Executive,110₹,230,69
+Kerala,Kochi,PvrLuluKochi,Malayalam,19:20,Recliner,350₹,10,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,19:20,Prime,190₹,68,38
+Kerala,Kochi,PvrLuluKochi,Malayalam,19:20,ClassicPlus,160₹,91,13
+Kerala,Kochi,PvrLuluKochi,Malayalam,19:20,Classic,140₹,39,0
