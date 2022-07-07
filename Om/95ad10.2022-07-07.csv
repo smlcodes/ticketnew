@@ -1,0 +1,10 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Uttarakhand,Kotdwar,KayCinemasKotdwar,Hindi,10:15,Gold,200₹,60,18
+Uttarakhand,Kotdwar,KayCinemasKotdwar,Hindi,10:15,Silver,160₹,88,0
+Maharashtra,Pune,GunjanCineplexKaregaon,Hindi,12:00,Regular,100₹,105,1
+Gujarat,Veraval,SachiMultiplexVeraval,Hindi,15:30,Captain,150₹,68,20
+Gujarat,Veraval,SachiMultiplexVeraval,Hindi,15:30,Crew,150₹,60,0
+Maharashtra,Pune,GunjanCineplexKaregaon,Hindi,18:00,Regular,100₹,105,1
+Maharashtra,Pune,GunjanCineplexKaregaon,Hindi,21:00,Regular,100₹,105,1
+Gujarat,Veraval,SachiMultiplexVeraval,Hindi,21:50,Captain,150₹,68,20
+Gujarat,Veraval,SachiMultiplexVeraval,Hindi,21:50,Crew,150₹,60,0
