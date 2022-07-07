@@ -1,0 +1,9 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Odisha,Balasore,MovieExOtRoad,Oriya,11:30,Executive,250₹,13,0
+Odisha,Balasore,MovieExOtRoad,Oriya,11:30,Prime,160₹,109,0
+Odisha,Balasore,MovieExOtRoad,Oriya,11:30,Standard,120₹,45,0
+Odisha,Balasore,MovieExOtRoad,Oriya,14:30,Executive,250₹,13,0
+Odisha,Balasore,MovieExOtRoad,Oriya,14:30,Prime,160₹,109,0
+Odisha,Balasore,MovieExOtRoad,Oriya,14:30,Standard,120₹,45,0
+Odisha,Berhampur,ShaktiCinemasBerhampur,Oriya,21:00,Balcony,100₹,247,222
+Odisha,Berhampur,ShaktiCinemasBerhampur,Oriya,21:00,RearStall,70₹,301,277
