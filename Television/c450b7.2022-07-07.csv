@@ -1,0 +1,11 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Punjab,Moga,NeelamNovaCinemazMoga,Punjabi,09:40,Gold,160₹,122,0
+Punjab,Ludhiana,PvrPavilionMallLudhiana,Punjabi,10:15,Classic,140₹,64,0
+Punjab,Bathinda,FunPlazaKotkapura,Punjabi,16:25,Royal,170₹,94,83
+Punjab,Sardulgarh,GoldenCinemasSardulgarh,Punjabi,18:15,Platinum,300₹,10,5
+Punjab,Sardulgarh,GoldenCinemasSardulgarh,Punjabi,18:15,Royal,250₹,12,7
+Punjab,Sardulgarh,GoldenCinemasSardulgarh,Punjabi,18:15,Gold,200₹,36,24
+Punjab,Sardulgarh,GoldenCinemasSardulgarh,Punjabi,18:15,Silver,170₹,48,32
+Punjab,Sardulgarh,GoldenCinemasSardulgarh,Punjabi,18:15,NormalClass,150₹,32,16
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,18:45,Prime,210₹,38,0
+Punjab,Mohali,PvrVrPunjabMallMohali,Punjabi,18:45,Classic,180₹,84,0
