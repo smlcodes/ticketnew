@@ -1,0 +1,7 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Telangana,Hyderabad,PvrKukatpallyHyderabad,Telugu,10:45,Recliner,250₹,9,2
+Telangana,Hyderabad,PvrKukatpallyHyderabad,Telugu,10:45,Classic,150₹,135,17
+AndhraPradesh,Vijayawada,PvrRipplesVijayawada,Telugu,10:55,Recliner,295₹,13,0
+AndhraPradesh,Vijayawada,PvrRipplesVijayawada,Telugu,10:55,Classic,177₹,182,19
+AndhraPradesh,Guntur,JleCinemasGuntur,Telugu,16:25,Elite,295₹,17,0
+AndhraPradesh,Guntur,JleCinemasGuntur,Telugu,16:25,Gold,177₹,123,0
