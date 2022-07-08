@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Madurai,InoxVishaalDeMalMadurai,Tamil,12:40,Club,178₹,124,87
+TamilNadu,Madurai,InoxVishaalDeMalMadurai,Tamil,12:40,Executive,60₹,12,12
+Karnataka,Doddaballapur,InoxTheMarinaMallOmr,Tamil,22:30,Club,190₹,126,25
+Karnataka,Doddaballapur,InoxTheMarinaMallOmr,Tamil,22:30,Executive,60₹,16,0
