@@ -1,0 +1,10 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Chhattisgarh,Bhilai,MirajCinemasBhilai,Chhattisghari,15:15,Executive,170₹,93,2
+Chhattisgarh,Bhilai,MirajCinemasBhilai,Chhattisghari,15:15,Special,150₹,39,0
+Chhattisgarh,Raipur,CinemaxCityCenterPandri,Chhattisghari,17:00,Recliner,380₹,12,6
+Chhattisgarh,Raipur,CinemaxCityCenterPandri,Chhattisghari,17:00,Prime,160₹,140,45
+Chhattisgarh,Raipur,CinemaxCityCenterPandri,Chhattisghari,17:00,Classic,140₹,24,0
+Chhattisgarh,Raipur,InoxAmbujaCityCentreMowa,Chhattisghari,19:30,RoyalRecliner,200₹,16,4
+Chhattisgarh,Raipur,InoxAmbujaCityCentreMowa,Chhattisghari,19:30,Club,130₹,188,63
+Chhattisgarh,Raipur,InoxAmbujaCityCentreMowa,Chhattisghari,19:30,Executive,130₹,36,0
+Chhattisgarh,Raipur,InoxAmbujaCityCentreMowa,Chhattisghari,19:30,Royal,130₹,34,34
