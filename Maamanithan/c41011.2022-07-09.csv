@@ -1,0 +1,15 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,10:30,FirstClass,50₹,66,0
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,10:30,SecondClass,50₹,174,0
+TamilNadu,Kallakurichi,RajaTalkiesKallakurichi,Tamil,11:00,Gold,100₹,210,34
+TamilNadu,Kallakurichi,RajaTalkiesKallakurichi,Tamil,11:00,Silver,100₹,110,0
+TamilNadu,Kallakurichi,RajaTalkiesKallakurichi,Tamil,11:00,Bronze,100₹,58,0
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,14:15,FirstClass,50₹,66,0
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,14:15,SecondClass,50₹,174,0
+TamilNadu,Kallakurichi,RajaTalkiesKallakurichi,Tamil,14:30,Gold,100₹,210,3
+TamilNadu,Kallakurichi,RajaTalkiesKallakurichi,Tamil,14:30,Silver,100₹,110,0
+TamilNadu,Kallakurichi,RajaTalkiesKallakurichi,Tamil,14:30,Bronze,100₹,58,0
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,18:15,FirstClass,50₹,66,0
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,18:15,SecondClass,50₹,174,0
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,21:30,FirstClass,50₹,66,0
+TamilNadu,Krishnagiri,SriMuruganTheatreKrishnagiri,Tamil,21:30,SecondClass,50₹,174,0
