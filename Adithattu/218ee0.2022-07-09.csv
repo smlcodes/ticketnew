@@ -1,0 +1,16 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Kollam,CarnivalRpMallKollam,Malayalam,10:30,PremiumOffline,150₹,96,16
+Kerala,Kochi,PvrLuluKochi,Malayalam,11:00,Recliner,290₹,10,0
+Kerala,Kochi,PvrLuluKochi,Malayalam,11:00,Prime,160₹,68,5
+Kerala,Kochi,PvrLuluKochi,Malayalam,11:00,ClassicPlus,140₹,91,1
+Kerala,Kochi,PvrLuluKochi,Malayalam,11:00,Classic,110₹,39,0
+Kerala,Angamaly,CarnivalKsrtComplexSalemErnakulamHighway,Malayalam,12:00,GoldOffline,130₹,203,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,13:30,Silver,210₹,103,6
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,13:30,ExecutiveOffline,180₹,72,3
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,13:30,NormalOffline,100₹,18,0
+Kerala,Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,13:35,GoldOffline,350₹,13,0
+Kerala,Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,13:35,SilverOffline,180₹,167,16
+Kerala,Trivandrum,CarnivalArtechMallVanchyoor,Malayalam,13:35,ExecutiveOffline,100₹,13,0
+Kerala,Trivandrum,CarnivalGreenfieldCinemaKaryavattom,Malayalam,13:45,ExecutiveOffline,160₹,132,0
+Kerala,Thalayolaparambu,CarnivalThalayolaparambu,Malayalam,15:15,Gold,110₹,144,6
+Kerala,Kollam,CarnivalRpMallKollam,Malayalam,19:15,PremiumOffline,180₹,96,0
