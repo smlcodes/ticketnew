@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Payyanur,AradhanaArchanaMovieHousePayyanur,Tamil,10:30,FirstClass,110₹,230,0
+Kerala,Payyanur,AradhanaArchanaMovieHousePayyanur,Tamil,13:30,FirstClass,110₹,230,1
+Kerala,Payyanur,AradhanaArchanaMovieHousePayyanur,Tamil,16:30,FirstClass,110₹,230,0
+Kerala,Payyanur,AradhanaArchanaMovieHousePayyanur,Tamil,19:30,FirstClass,110₹,230,0
