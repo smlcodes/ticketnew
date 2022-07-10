@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+UttarPradesh,Lucknow,PvrPhoenixUnitedMallAlambagh,Hindi,10:30,Classic,99₹,104,3
+UttarPradesh,Lucknow,PvrPhoenixUnitedMallAlambagh,Hindi,10:30,Prime,99₹,7,3
+UttarPradesh,Lucknow,PvrPhoenixUnitedMallAlambagh,Hindi,10:30,Prime,190₹,7,6
+UttarPradesh,Lucknow,PvrPhoenixUnitedMallAlambagh,Hindi,10:30,Classic,150₹,104,23
