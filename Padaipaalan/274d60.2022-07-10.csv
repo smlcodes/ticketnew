@@ -1,0 +1,11 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Angadipuram,CinepolisBsrMall,Tamil,19:20,Executive,152₹,124,0
+Kerala,Angadipuram,CinepolisBsrMall,Tamil,19:20,Normal,60₹,17,16
+Kerala,Angadipuram,PvrHeritageRslEcrChennai,Tamil,22:00,Prime,190₹,99,25
+Kerala,Angadipuram,PvrHeritageRslEcrChennai,Tamil,22:00,Classic,60₹,11,11
+Kerala,Angadipuram,PvrSklsGalaxyMallRedHills,Tamil,22:10,Prime,190₹,81,24
+Kerala,Angadipuram,PvrSklsGalaxyMallRedHills,Tamil,22:10,Classic,60₹,16,16
+Kerala,Angadipuram,InoxChandraMetroMallVirugambakkam,Tamil,22:20,Silver,152₹,120,22
+Kerala,Angadipuram,InoxChandraMetroMallVirugambakkam,Tamil,22:20,Premiere,60₹,15,15
+Kerala,Angadipuram,PvrAmpaSkywalkMallAminjikarai,Tamil,22:40,Prime,190₹,116,8
+Kerala,Angadipuram,PvrAmpaSkywalkMallAminjikarai,Tamil,22:40,Classic,60₹,17,17
