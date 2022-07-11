@@ -1,0 +1,10 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Doddaballapur,UdhayamComplex,Tamil,11:45,FirstClass,112₹,430,0
+Karnataka,Doddaballapur,UdhayamComplex,Tamil,11:45,SecondClass,105₹,86,0
+Karnataka,Doddaballapur,UdhayamComplex,Tamil,11:45,ThirdClass,50₹,65,0
+Karnataka,Doddaballapur,PvrSklsGalaxyMallRedHills,Tamil,13:00,Prime,165₹,81,13
+Karnataka,Doddaballapur,PvrSklsGalaxyMallRedHills,Tamil,13:00,Classic,60₹,16,13
+Karnataka,Doddaballapur,PvrHeritageRslEcrChennai,Tamil,16:15,Prime,190₹,99,13
+Karnataka,Doddaballapur,PvrHeritageRslEcrChennai,Tamil,16:15,Classic,60₹,11,11
+Karnataka,Doddaballapur,PvrHeritageRslEcrChennai,Tamil,16:15,Prime,190₹,99,13
+Karnataka,Doddaballapur,PvrHeritageRslEcrChennai,Tamil,16:15,Classic,60₹,11,11
