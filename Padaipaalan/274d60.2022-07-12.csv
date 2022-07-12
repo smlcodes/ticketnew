@@ -1,0 +1,11 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Doddaballapur,PvrHeritageRslEcrChennai,Tamil,22:00,Prime,190₹,99,13
+Karnataka,Doddaballapur,PvrHeritageRslEcrChennai,Tamil,22:00,Classic,60₹,11,11
+Karnataka,Doddaballapur,PvrHeritageRslEcrChennai,Tamil,22:00,Prime,190₹,99,13
+Karnataka,Doddaballapur,PvrHeritageRslEcrChennai,Tamil,22:00,Classic,60₹,11,11
+Karnataka,Doddaballapur,PvrSklsGalaxyMallRedHills,Tamil,22:10,Prime,165₹,81,10
+Karnataka,Doddaballapur,PvrSklsGalaxyMallRedHills,Tamil,22:10,Classic,60₹,16,15
+Karnataka,Doddaballapur,CinepolisBsrMall,Tamil,22:15,Executive,152₹,124,0
+Karnataka,Doddaballapur,CinepolisBsrMall,Tamil,22:15,Normal,60₹,17,0
+Karnataka,Doddaballapur,PvrAmpaSkywalkMallAminjikarai,Tamil,22:40,Prime,190₹,116,2
+Karnataka,Doddaballapur,PvrAmpaSkywalkMallAminjikarai,Tamil,22:40,Classic,60₹,17,17
