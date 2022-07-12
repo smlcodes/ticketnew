@@ -1,0 +1,6 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,18:30,Recliner,300₹,12,0
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,18:30,Prime,190₹,99,0
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,18:30,Classic,170₹,108,0
+Karnataka,Bangalore,PvrVegaBannerghattaRoad,Kannada,19:10,Recliner,300₹,9,0
+Karnataka,Bangalore,PvrVegaBannerghattaRoad,Kannada,19:10,Classic,170₹,73,2
