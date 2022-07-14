@@ -1,0 +1,11 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Krishnagiri,SarojiniTheatreKaveripattinam,Tamil,10:30,Balcony,70₹,123,0
+TamilNadu,Krishnagiri,SarojiniTheatreKaveripattinam,Tamil,10:30,FirstClass,70₹,259,0
+TamilNadu,Krishnagiri,SarojiniTheatreKaveripattinam,Tamil,14:15,Balcony,70₹,123,0
+TamilNadu,Krishnagiri,SarojiniTheatreKaveripattinam,Tamil,14:15,FirstClass,70₹,259,0
+TamilNadu,Krishnagiri,SarojiniTheatreKaveripattinam,Tamil,18:15,Balcony,70₹,123,0
+TamilNadu,Krishnagiri,SarojiniTheatreKaveripattinam,Tamil,18:15,FirstClass,70₹,259,0
+TamilNadu,Madurai,InoxVishaalDeMalMadurai,Tamil,18:50,Club,178₹,136,60
+TamilNadu,Madurai,InoxVishaalDeMalMadurai,Tamil,18:50,Executive,60₹,12,0
+TamilNadu,Krishnagiri,SarojiniTheatreKaveripattinam,Tamil,21:30,Balcony,70₹,123,0
+TamilNadu,Krishnagiri,SarojiniTheatreKaveripattinam,Tamil,21:30,FirstClass,70₹,259,0
