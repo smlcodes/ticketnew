@@ -1,0 +1,15 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Thanjavur,GvComplexThanjavur,Tamil,11:00,I,120₹,138,12
+TamilNadu,Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,Tamil,11:30,Box,130₹,18,18
+TamilNadu,Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,Tamil,11:30,Couple,130₹,20,6
+TamilNadu,Vellore,SriVishnuCinemasRgbLaserDolbyAtmos,Tamil,11:30,Gold,110₹,247,19
+TamilNadu,Chennai,MuruganCinemas4KDolbyAtmosAmbattur,Tamil,13:25,Diamond,110₹,80,12
+TamilNadu,Thanjavur,GvComplexThanjavur,Tamil,14:15,I,120₹,138,12
+TamilNadu,Thanjavur,GvComplexThanjavur,Tamil,18:15,I,120₹,138,16
+TamilNadu,Thiruppatur,UdhayamComplex,Tamil,18:45,FirstClass,112₹,213,28
+TamilNadu,Thiruppatur,UdhayamComplex,Tamil,18:45,SecondClass,105₹,70,0
+TamilNadu,Thiruppatur,UdhayamComplex,Tamil,18:45,ThirdClass,50₹,32,0
+TamilNadu,Thanjavur,GvComplexThanjavur,Tamil,22:00,I,120₹,138,12
+TamilNadu,Thiruppatur,UdhayamComplex,Tamil,22:15,FirstClass,112₹,213,15
+TamilNadu,Thiruppatur,UdhayamComplex,Tamil,22:15,SecondClass,105₹,70,0
+TamilNadu,Thiruppatur,UdhayamComplex,Tamil,22:15,ThirdClass,50₹,32,5
