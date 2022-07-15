@@ -1,0 +1,9 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+AndhraPradesh,Kakinada,DeviMultiplexKakinada,Telugu,11:30,FirstClass,112₹,214,25
+AndhraPradesh,Kakinada,DeviMultiplexKakinada,Telugu,11:30,SecondClass,75₹,60,0
+AndhraPradesh,Kakinada,DeviMultiplexKakinada,Telugu,14:30,FirstClass,112₹,214,20
+AndhraPradesh,Kakinada,DeviMultiplexKakinada,Telugu,14:30,SecondClass,75₹,60,0
+AndhraPradesh,Kakinada,DeviMultiplexKakinada,Telugu,18:30,FirstClass,112₹,214,20
+AndhraPradesh,Kakinada,DeviMultiplexKakinada,Telugu,18:30,SecondClass,75₹,60,0
+AndhraPradesh,Kakinada,DeviMultiplexKakinada,Telugu,21:30,FirstClass,112₹,214,20
+AndhraPradesh,Kakinada,DeviMultiplexKakinada,Telugu,21:30,SecondClass,75₹,60,0
