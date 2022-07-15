@@ -1,0 +1,10 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,RevolutionMultiplexAhmedabad,Gujarathi,18:35,PlatinumClass,180₹,15,0
+Gujarat,Ahmedabad,RevolutionMultiplexAhmedabad,Gujarathi,18:35,GoldenClass,160₹,40,0
+Gujarat,Ahmedabad,RevolutionMultiplexAhmedabad,Gujarathi,18:35,SilverClass,140₹,20,0
+Gujarat,Surat,CinepolisImperialSquareMall,Gujarathi,19:10,Premium,180₹,33,0
+Gujarat,Surat,CinepolisImperialSquareMall,Gujarathi,19:10,Normal,160₹,22,0
+Gujarat,Surat,CinepolisImperialSquareMall,Gujarathi,19:10,Executive,160₹,79,15
+Gujarat,Ahmedabad,CinepolisAlphaOneMall,Gujarathi,19:10,Premium,250₹,50,0
+Gujarat,Ahmedabad,CinepolisAlphaOneMall,Gujarathi,19:10,Executive,220₹,78,0
+Gujarat,Ahmedabad,CinepolisAlphaOneMall,Gujarathi,19:10,Normal,200₹,36,12
