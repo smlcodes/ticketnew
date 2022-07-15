@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+UttarPradesh,Lucknow,PvrPhoenixUnitedMallAlambagh,Hindi,13:05,Classic,99₹,138,28
+UttarPradesh,Lucknow,PvrPhoenixUnitedMallAlambagh,Hindi,13:05,Prime,99₹,9,7
+UttarPradesh,Noida,PvrLogixCityCentreNoida,Hindi,13:25,Classic,99₹,87,2
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Hindi,13:30,Special,50₹,107,65
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Hindi,13:30,RearStall,40₹,252,68
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Hindi,13:30,FrontStall,40₹,196,196
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Hindi,16:30,Special,50₹,107,65
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Hindi,16:30,RearStall,40₹,252,68
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Hindi,16:30,FrontStall,40₹,196,196
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Hindi,19:30,Special,50₹,107,65
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Hindi,19:30,RearStall,40₹,252,68
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Hindi,19:30,FrontStall,40₹,196,196
