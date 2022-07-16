@@ -1,0 +1,7 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Godhra,SilverScreenMultiplexGodhra,Gujarathi,09:30,Platinum,100₹,21,21
+Gujarat,Godhra,SilverScreenMultiplexGodhra,Gujarathi,09:30,Gold,100₹,243,147
+Gujarat,Godhra,SilverScreenMultiplexGodhra,Gujarathi,09:30,Silver,100₹,36,0
+Gujarat,Godhra,SilverScreenMultiplexGodhra,Gujarathi,14:30,Platinum,100₹,21,21
+Gujarat,Godhra,SilverScreenMultiplexGodhra,Gujarathi,14:30,Gold,100₹,243,243
+Gujarat,Godhra,SilverScreenMultiplexGodhra,Gujarathi,14:30,Silver,100₹,36,36
