@@ -1,0 +1,17 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,RevolutionMultiplexAhmedabad,Gujarathi,18:25,Diamond,230₹,17,0
+Gujarat,Ahmedabad,RevolutionMultiplexAhmedabad,Gujarathi,18:25,PlatinumClass,180₹,23,0
+Gujarat,Ahmedabad,RevolutionMultiplexAhmedabad,Gujarathi,18:25,GoldenClass,160₹,40,0
+Gujarat,Ahmedabad,RevolutionMultiplexAhmedabad,Gujarathi,18:25,SilverClass,140₹,18,0
+Gujarat,Ahmedabad,RevolutionMultiplexAhmedabad,Gujarathi,18:35,PlatinumClass,180₹,15,0
+Gujarat,Ahmedabad,RevolutionMultiplexAhmedabad,Gujarathi,18:35,GoldenClass,160₹,40,0
+Gujarat,Ahmedabad,RevolutionMultiplexAhmedabad,Gujarathi,18:35,SilverClass,140₹,20,0
+Gujarat,Surat,CinepolisImperialSquareMall,Gujarathi,19:10,Premium,180₹,33,1
+Gujarat,Surat,CinepolisImperialSquareMall,Gujarathi,19:10,Normal,160₹,22,0
+Gujarat,Surat,CinepolisImperialSquareMall,Gujarathi,19:10,Executive,160₹,79,37
+Gujarat,Ahmedabad,CinepolisAlphaOneMall,Gujarathi,19:10,Premium,250₹,50,7
+Gujarat,Ahmedabad,CinepolisAlphaOneMall,Gujarathi,19:10,Executive,220₹,78,0
+Gujarat,Ahmedabad,CinepolisAlphaOneMall,Gujarathi,19:10,Normal,200₹,36,3
+Gujarat,Vadodara,CinepolisInorbitMall,Gujarathi,19:15,Normal,200₹,24,0
+Gujarat,Vadodara,CinepolisInorbitMall,Gujarathi,19:15,Premium,200₹,26,3
+Gujarat,Vadodara,CinepolisInorbitMall,Gujarathi,19:15,Executive,200₹,93,0
