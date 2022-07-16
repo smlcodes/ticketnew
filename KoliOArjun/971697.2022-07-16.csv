@@ -1,0 +1,10 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+WestBengal,Arambagh,SudhanilCinemaHall,Bengali,12:00,Balcony,40₹,400,86
+WestBengal,Arambagh,SudhanilCinemaHall,Bengali,12:00,RearStall,30₹,434,63
+WestBengal,Kolkata,LilaCinemaKolkata,Bengali,13:00,Balcony,60₹,28,0
+WestBengal,Kolkata,LilaCinemaKolkata,Bengali,16:00,Balcony,60₹,28,0
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,16:00,Balcony,50₹,264,33
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,16:00,FirstClass,30₹,513,30
+WestBengal,Kolkata,LilaCinemaKolkata,Bengali,18:45,Balcony,60₹,28,0
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,19:00,Balcony,50₹,264,33
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,19:00,FirstClass,30₹,513,30
