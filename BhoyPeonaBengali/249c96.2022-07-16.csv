@@ -1,0 +1,7 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+WestBengal,Jalpaiguri,CinebazzUkilpara,Bengali,12:30,Regular,80₹,11,0
+WestBengal,Jalpaiguri,CinebazzUkilpara,Bengali,12:30,Premium,80₹,55,2
+WestBengal,Jalpaiguri,CinebazzUkilpara,Bengali,15:45,Regular,80₹,11,0
+WestBengal,Jalpaiguri,CinebazzUkilpara,Bengali,15:45,Premium,80₹,55,0
+WestBengal,Jalpaiguri,CinebazzUkilpara,Bengali,18:45,Regular,80₹,11,0
+WestBengal,Jalpaiguri,CinebazzUkilpara,Bengali,18:45,Premium,80₹,55,3
