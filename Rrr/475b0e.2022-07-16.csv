@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Rajkot,CosmoplexMultiplexKalawadRoad,Hindi,01:00,Club,320₹,10,0
+Gujarat,Rajkot,CosmoplexMultiplexKalawadRoad,Hindi,01:00,Captain,270₹,176,163
+Gujarat,Rajkot,CosmoplexMultiplexKalawadRoad,Hindi,01:00,Crew,240₹,428,109
+Gujarat,Rajkot,CosmoplexMultiplexKalawadRoad,Hindi,02:00,Club,330₹,65,59
