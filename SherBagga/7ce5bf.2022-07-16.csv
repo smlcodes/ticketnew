@@ -1,0 +1,14 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Punjab,Jalandhar,PvrMbdNeopolisMallJalandhar,Punjabi,10:05,Recliner,149₹,11,0
+Punjab,Jalandhar,PvrMbdNeopolisMallJalandhar,Punjabi,10:05,Prime,99₹,11,4
+Punjab,Jalandhar,PvrMbdNeopolisMallJalandhar,Punjabi,10:05,Classic,99₹,90,0
+Punjab,Jalandhar,PvrMbdNeopolisMallJalandhar,Punjabi,10:05,ClassicPlus,99₹,144,0
+Delhi,DelhiNcr,PvrPacificSubhashNagar,Punjabi,15:10,Recliner,400₹,15,10
+Delhi,DelhiNcr,PvrPacificSubhashNagar,Punjabi,15:10,Prime,249₹,90,4
+Delhi,DelhiNcr,PvrPacificSubhashNagar,Punjabi,15:10,PrimePlus,249₹,21,12
+Delhi,DelhiNcr,PvrPacificSubhashNagar,Punjabi,15:10,Classic,199₹,36,0
+Punjab,Jalandhar,PvrCuroJalandhar,Punjabi,16:45,Prime,149₹,26,1
+Punjab,Jalandhar,PvrCuroJalandhar,Punjabi,16:45,Classic,99₹,36,0
+Punjab,Jalandhar,PvrCuroJalandhar,Punjabi,16:45,ClassicPlus,99₹,36,15
+Punjab,Ludhiana,PvrPavilionMallLudhiana,Punjabi,16:55,Classic,99₹,64,12
+UttarPradesh,Noida,PvrLogixCityCentreNoida,Punjabi,22:30,Classic,99₹,84,6
