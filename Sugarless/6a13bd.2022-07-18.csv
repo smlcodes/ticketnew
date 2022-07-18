@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Bangalore,InoxMantriSquareMalleshwaram,Kannada,13:20,Royal,240₹,10,0
+Karnataka,Bangalore,InoxMantriSquareMalleshwaram,Kannada,13:20,Club,170₹,260,0
+Karnataka,Udupi,DianaTheatre,Kannada,16:15,Balcony,80₹,112,0
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,19:00,Recliner,300₹,10,2
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,19:00,Prime,190₹,80,0
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,19:00,Classic,170₹,128,0
+Karnataka,Udupi,DianaTheatre,Kannada,19:15,Balcony,80₹,112,0
+Karnataka,Bangalore,InoxMantriSquareMalleshwaram,Kannada,19:25,Royal,230₹,10,0
+Karnataka,Bangalore,InoxMantriSquareMalleshwaram,Kannada,19:25,Club,200₹,260,0
+Karnataka,Bangalore,PvrVaishnaviSapphireMallYashwantpur,Kannada,22:30,Recliner,280₹,14,0
+Karnataka,Bangalore,PvrVaishnaviSapphireMallYashwantpur,Kannada,22:30,Prime,190₹,40,0
+Karnataka,Bangalore,PvrVaishnaviSapphireMallYashwantpur,Kannada,22:30,Classic,170₹,105,0
