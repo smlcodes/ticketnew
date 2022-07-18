@@ -1,0 +1,17 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+WestBengal,Kolkata,IndiraCinemaKolkata,Hindi,12:00,Box,110₹,30,0
+WestBengal,Kolkata,IndiraCinemaKolkata,Hindi,12:00,Balcony,90₹,280,132
+UttarPradesh,Lucknow,PvrPhoenixUnitedMallAlambagh,Hindi,13:05,Classic,99₹,138,11
+UttarPradesh,Lucknow,PvrPhoenixUnitedMallAlambagh,Hindi,13:05,Prime,99₹,9,5
+UttarPradesh,Noida,PvrLogixCityCentreNoida,Hindi,13:25,Classic,99₹,76,1
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Hindi,13:30,Special,50₹,107,65
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Hindi,13:30,RearStall,40₹,252,68
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Hindi,13:30,FrontStall,40₹,196,196
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Hindi,16:30,Special,50₹,107,65
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Hindi,16:30,RearStall,40₹,252,68
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Hindi,16:30,FrontStall,40₹,196,196
+WestBengal,Kolkata,IndiraCinemaKolkata,Hindi,17:05,Box,110₹,30,0
+WestBengal,Kolkata,IndiraCinemaKolkata,Hindi,17:05,Balcony,90₹,280,135
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Hindi,19:30,Special,50₹,107,65
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Hindi,19:30,RearStall,40₹,252,68
+WestBengal,Nabadwip,AlochayaCinemaNabadwip,Hindi,19:30,FrontStall,40₹,196,196
