@@ -1,0 +1,16 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Hubli,PvrLaxmiMallCoenRoad,Kannada,09:30,Prime,250₹,9,2
+Karnataka,Hubli,PvrLaxmiMallCoenRoad,Kannada,09:30,ClassicPlus,140₹,124,0
+Karnataka,Hubli,PvrLaxmiMallCoenRoad,Kannada,09:30,Classic,110₹,68,0
+Karnataka,Davanagere,MovietimeSsGardeniaMallDavanagere,Kannada,12:15,Gold,200₹,41,2
+Karnataka,Davanagere,MovietimeSsGardeniaMallDavanagere,Kannada,12:15,Premier,180₹,160,0
+Karnataka,Belagavi,CarnivalKapeelNucleusMall,Kannada,12:45,Silver,130₹,72,0
+Karnataka,Belagavi,CarnivalKapeelNucleusMall,Kannada,12:45,Gold,130₹,120,0
+Karnataka,Belagavi,CarnivalKapeelNucleusMall,Kannada,12:45,Platinum,130₹,276,0
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,13:15,Recliner,250₹,12,0
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,13:15,Prime,170₹,99,0
+Karnataka,Bangalore,PvrOrionMallDrRajkumarRoad,Kannada,13:15,Classic,150₹,108,0
+Karnataka,Mangalore,PvrForumFizaMallPandeshwar,Kannada,13:20,Classic,150₹,71,0
+Karnataka,Bangalore,InoxMantriSquareMalleshwaram,Kannada,15:15,Club,170₹,209,0
+Karnataka,Tumkur,SriKrishnaTalkiesMgRoadTumkur,Kannada,17:00,Balcony,120₹,221,144
+Karnataka,Tumkur,SriKrishnaTalkiesMgRoadTumkur,Kannada,17:00,Second,100₹,485,288
