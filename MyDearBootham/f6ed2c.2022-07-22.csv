@@ -1,0 +1,14 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,11:45,Club,190₹,135,5
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,11:45,Executive,60₹,19,0
+TamilNadu,Chennai,PvrGrandGaladaPallavaram,Tamil,12:30,Prime,165₹,154,4
+TamilNadu,Chennai,PvrGrandGaladaPallavaram,Tamil,12:30,Classic,60₹,34,34
+TamilNadu,Chennai,InoxTheMarinaMallOmr,Tamil,15:50,Club,190₹,126,16
+TamilNadu,Chennai,InoxTheMarinaMallOmr,Tamil,15:50,Executive,60₹,16,13
+TamilNadu,Coimbatore,FunCinemaRepublicMall,Tamil,16:05,Executive,152₹,162,41
+TamilNadu,Coimbatore,FunCinemaRepublicMall,Tamil,16:05,Normal,60₹,19,19
+TamilNadu,Chennai,MuruganCinemas4KDolbyAtmosAmbattur,Tamil,18:40,Diamond,110₹,80,11
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHills,Tamil,19:00,Prime,165₹,81,25
+TamilNadu,Chennai,PvrSklsGalaxyMallRedHills,Tamil,19:00,Classic,60₹,16,16
+TamilNadu,Chennai,CinepolisBsrMall,Tamil,21:25,Executive,152₹,118,64
+TamilNadu,Chennai,CinepolisBsrMall,Tamil,21:25,Normal,60₹,16,16
