@@ -1,0 +1,16 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Maharashtra,Alwar,GoldCinemaAlwar,Hindi,09:15,Diamond,230₹,100,0
+Maharashtra,Alwar,GoldCinemaAlwar,Hindi,09:15,Gold,200₹,100,0
+Maharashtra,Alwar,GoldCinemaAlwar,Hindi,09:15,Silver,200₹,100,0
+Rajasthan,Kota,InoxAhluwaliasGreatMallDhanmandi,Hindi,09:30,Club,200₹,93,0
+Rajasthan,Kota,InoxAhluwaliasGreatMallDhanmandi,Hindi,09:30,Executive,200₹,45,0
+Rajasthan,Kota,InoxAhluwaliasGreatMallDhanmandi,Hindi,09:30,Royale,200₹,37,14
+MadhyaPradesh,Indore,InoxC21MallSheetalNagar,Hindi,11:40,Normal,200₹,163,23
+Rajasthan,Ajmer,InoxCitySquareMallPanchsheelNagar,Hindi,19:05,Club,250₹,76,0
+Rajasthan,Ajmer,InoxCitySquareMallPanchsheelNagar,Hindi,19:05,Executive,250₹,38,0
+Rajasthan,Ajmer,InoxCitySquareMallPanchsheelNagar,Hindi,19:05,Platinum,250₹,85,56
+Rajasthan,Ajmer,InoxCitySquareMallPanchsheelNagar,Hindi,19:05,Royale,250₹,29,29
+Rajasthan,Kota,InoxAhluwaliasGreatMallDhanmandi,Hindi,19:25,Club,250₹,93,46
+Rajasthan,Kota,InoxAhluwaliasGreatMallDhanmandi,Hindi,19:25,Executive,250₹,45,0
+Rajasthan,Kota,InoxAhluwaliasGreatMallDhanmandi,Hindi,19:25,Royale,250₹,38,37
+MadhyaPradesh,Indore,InoxC21MallSheetalNagar,Hindi,19:25,Normal,250₹,163,66
