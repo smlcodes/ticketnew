@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+UttarPradesh,Noida,PvrLogixCityCentreNoida,Punjabi,22:50,Classic,99₹,84,0
+Delhi,DelhiNcr,PvrPacificSubhashNagar,Punjabi,22:55,Prime,199₹,68,2
+Delhi,DelhiNcr,PvrPacificSubhashNagar,Punjabi,22:55,Classic,149₹,52,2
