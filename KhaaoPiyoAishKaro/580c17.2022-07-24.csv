@@ -1,0 +1,15 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Punjab,Amritsar,InoxTriliumMallCircularRoad,Punjabi,09:20,Normal,130₹,253,0
+Punjab,Ludhiana,PvrPavilionMallLudhiana,Punjabi,11:35,Classic,99₹,64,12
+Punjab,Jalandhar,PvrCuroJalandhar,Punjabi,12:30,Prime,149₹,40,1
+Punjab,Jalandhar,PvrCuroJalandhar,Punjabi,12:30,Classic,99₹,27,0
+Punjab,Jalandhar,PvrCuroJalandhar,Punjabi,12:30,ClassicPlus,99₹,30,2
+Punjab,Amritsar,InoxTriliumMallCircularRoad,Punjabi,14:40,Normal,170₹,163,12
+Punjab,Amritsar,PvrSctAmritsar,Punjabi,20:05,Recliner,149₹,11,2
+Punjab,Amritsar,PvrSctAmritsar,Punjabi,20:05,Classic,99₹,103,0
+Punjab,Amritsar,PvrSctAmritsar,Punjabi,20:05,Prime,99₹,45,8
+Punjab,Amritsar,PvrSctAmritsar,Punjabi,23:05,Recliner,149₹,11,4
+Punjab,Amritsar,PvrSctAmritsar,Punjabi,23:05,Classic,99₹,103,0
+Punjab,Amritsar,PvrSctAmritsar,Punjabi,23:05,Prime,99₹,45,8
+Punjab,Ludhiana,PvrPavilionMallLudhiana,Punjabi,23:10,Classic,99₹,117,5
+Punjab,Ludhiana,PvrPavilionMallLudhiana,Punjabi,23:10,Prime,99₹,8,4
