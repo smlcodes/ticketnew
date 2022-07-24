@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+WestBengal,Darjeeling,InoxRinkMallLadenLaRoad,Nepali,14:20,Royal,170₹,91,3
+WestBengal,Darjeeling,InoxRinkMallLadenLaRoad,Nepali,14:20,Economy,150₹,78,0
+WestBengal,Darjeeling,InoxRinkMallLadenLaRoad,Nepali,14:20,Executive,150₹,235,2
