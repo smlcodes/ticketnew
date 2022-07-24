@@ -1,0 +1,9 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Mangalore,CinepolisCityCentreMall,Tulu,16:15,Normal,180₹,28,0
+Karnataka,Mangalore,CinepolisCityCentreMall,Tulu,16:15,Premium,180₹,58,44
+Karnataka,Mangalore,CinepolisCityCentreMall,Tulu,16:15,Executive,180₹,133,9
+Karnataka,Mangalore,CinepolisCityCentreMall,Tulu,16:20,Vip,200₹,17,9
+Karnataka,Mangalore,CinepolisCityCentreMall,Tulu,16:20,Platinum,150₹,50,8
+Karnataka,Mangalore,CinepolisCityCentreMall,Tulu,19:20,Normal,180₹,28,0
+Karnataka,Mangalore,CinepolisCityCentreMall,Tulu,19:20,Premium,180₹,58,13
+Karnataka,Mangalore,CinepolisCityCentreMall,Tulu,19:20,Executive,180₹,133,0
