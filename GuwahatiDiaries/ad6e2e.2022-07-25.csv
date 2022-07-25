@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Assam,Guwahati,CinepolisCentralMall,Assamese,12:20,Vip,150₹,4,2
+Assam,Guwahati,CinepolisCentralMall,Assamese,12:20,Normal,100₹,24,0
+Assam,Guwahati,CinepolisCentralMall,Assamese,12:20,Premium,100₹,41,0
+Assam,Guwahati,CinepolisCentralMall,Assamese,12:20,Executive,100₹,116,0
