@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Mangalore,PvrForumFizaMallPandeshwar,Tulu,11:50,Recliner,300₹,13,0
+Karnataka,Mangalore,PvrForumFizaMallPandeshwar,Tulu,11:50,Classic,150₹,133,2
+Karnataka,Mangalore,PvrForumFizaMallPandeshwar,Tulu,11:50,Prime,150₹,69,3
+Karnataka,Mangalore,CinepolisCityCentreMall,Tulu,12:50,Premium,180₹,58,6
+Karnataka,Mangalore,CinepolisCityCentreMall,Tulu,12:50,Executive,160₹,133,1
+Karnataka,Mangalore,CinepolisCityCentreMall,Tulu,12:50,Normal,140₹,28,0
+Karnataka,Mangalore,PvrForumFizaMallPandeshwar,Tulu,15:20,Recliner,300₹,12,0
+Karnataka,Mangalore,PvrForumFizaMallPandeshwar,Tulu,15:20,Classic,150₹,126,0
+Karnataka,Mangalore,PvrForumFizaMallPandeshwar,Tulu,15:20,Prime,150₹,32,0
+Karnataka,Mangalore,PvrForumFizaMallPandeshwar,Tulu,21:40,Recliner,300₹,12,0
+Karnataka,Mangalore,PvrForumFizaMallPandeshwar,Tulu,21:40,Classic,150₹,126,0
+Karnataka,Mangalore,PvrForumFizaMallPandeshwar,Tulu,21:40,Prime,150₹,32,0
