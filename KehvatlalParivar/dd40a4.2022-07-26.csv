@@ -1,0 +1,14 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Vadodara,CinemarcAkota,Gujarathi,18:45,Gold,90₹,26,4
+Gujarat,Vadodara,CinemarcAkota,Gujarathi,18:45,Silver,90₹,87,0
+Gujarat,Vadodara,CinemarcAkota,Gujarathi,18:45,Premier,90₹,12,0
+Gujarat,Surat,InoxRajImperialVarachhaRoad,Gujarathi,18:50,Imperial,320₹,5,1
+Gujarat,Surat,InoxRajImperialVarachhaRoad,Gujarathi,18:50,Platinum,170₹,20,4
+Gujarat,Surat,InoxRajImperialVarachhaRoad,Gujarathi,18:50,Gold,140₹,23,0
+Gujarat,Surat,InoxRajImperialVarachhaRoad,Gujarathi,18:50,Silver,112₹,10,0
+Maharashtra,Mumbai,MovietimeMaladW,Gujarathi,19:30,DressCircle,100₹,70,8
+Gujarat,Bhavnagar,Top3MultiplexBhavnagar,Gujarathi,19:45,Gold,100₹,68,0
+Gujarat,Bhavnagar,Top3MultiplexBhavnagar,Gujarathi,19:45,Silver,80₹,56,0
+Gujarat,Ahmedabad,RevolutionMultiplexAhmedabad,Gujarathi,21:45,PlatinumClass,180₹,15,0
+Gujarat,Ahmedabad,RevolutionMultiplexAhmedabad,Gujarathi,21:45,GoldenClass,160₹,40,0
+Gujarat,Ahmedabad,RevolutionMultiplexAhmedabad,Gujarathi,21:45,SilverClass,140₹,20,0
