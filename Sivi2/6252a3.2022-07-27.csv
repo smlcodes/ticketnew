@@ -1,0 +1,6 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Vellichanthai,PvrHeritageRslEcrChennai,Tamil,16:40,Prime,165₹,119,7
+TamilNadu,Vellichanthai,PvrHeritageRslEcrChennai,Tamil,16:40,Classic,60₹,15,15
+TamilNadu,Vellichanthai,UdhayamComplex,Tamil,22:15,FirstClass,112₹,213,41
+TamilNadu,Vellichanthai,UdhayamComplex,Tamil,22:15,SecondClass,105₹,70,0
+TamilNadu,Vellichanthai,UdhayamComplex,Tamil,22:15,ThirdClass,50₹,32,1
