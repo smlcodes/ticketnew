@@ -1,0 +1,11 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Punjab,Firozpur,SilverBirdCinemas,Punjabi,09:30,Box,400₹,20,0
+Punjab,Firozpur,SilverBirdCinemas,Punjabi,09:30,Gold,120₹,194,64
+Punjab,Firozpur,SilverBirdCinemas,Punjabi,11:50,Box,400₹,20,0
+Punjab,Firozpur,SilverBirdCinemas,Punjabi,11:50,Gold,120₹,194,64
+Punjab,Firozpur,SilverBirdCinemas,Punjabi,16:40,Box,400₹,20,8
+Punjab,Firozpur,SilverBirdCinemas,Punjabi,16:40,Gold,120₹,194,64
+Punjab,Firozpur,SilverBirdCinemas,Punjabi,19:00,Box,400₹,20,0
+Punjab,Firozpur,SilverBirdCinemas,Punjabi,19:00,Gold,120₹,194,64
+Punjab,Firozpur,SilverBirdCinemas,Punjabi,21:30,Box,400₹,20,0
+Punjab,Firozpur,SilverBirdCinemas,Punjabi,21:30,Gold,120₹,194,64
