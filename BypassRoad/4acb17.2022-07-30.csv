@@ -1,0 +1,10 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Bangalore,CinepolisEtaNammaMall,Kannada,12:40,Premium,150₹,29,0
+Karnataka,Bangalore,CinepolisEtaNammaMall,Kannada,12:40,Executive,150₹,69,0
+Karnataka,Bangalore,CinepolisSjrSpectrum,Kannada,13:10,Vip,400₹,12,0
+Karnataka,Bangalore,CinepolisSjrSpectrum,Kannada,13:10,Normal,200₹,30,0
+Karnataka,Bangalore,CinepolisSjrSpectrum,Kannada,13:10,Premium,200₹,44,0
+Karnataka,Bangalore,CinepolisSjrSpectrum,Kannada,13:10,Executive,200₹,62,0
+Karnataka,Bangalore,InoxCentralMantriJunctionJpNagar,Kannada,13:15,Royal,400₹,10,0
+Karnataka,Bangalore,InoxCentralMantriJunctionJpNagar,Kannada,13:15,Club,290₹,219,0
+Karnataka,Bangalore,InoxMantriSquareMalleshwaram,Kannada,13:45,Club,290₹,209,2
