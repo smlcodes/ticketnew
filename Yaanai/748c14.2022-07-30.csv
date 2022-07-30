@@ -1,0 +1,12 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Doddaballapur,SriVenkateswaraTalkiesACDolbyAtmos,Tamil,10:15,First,60₹,172,27
+TamilNadu,Vellore,PvrVelocitySilkMillGandhiNagar,Tamil,12:50,Prime,149₹,136,8
+TamilNadu,Vellore,PvrVelocitySilkMillGandhiNagar,Tamil,12:50,Classic,60₹,17,17
+Karnataka,Doddaballapur,SriVenkateswaraTalkiesACDolbyAtmos,Tamil,14:00,First,60₹,172,33
+Karnataka,Doddaballapur,RakkiCinemasRgbLaser4KDolbyAtmosAmbattur,Tamil,15:00,Executive,110₹,131,11
+Karnataka,Doddaballapur,PvrSklsGalaxyMallRedHills,Tamil,15:20,Prime,179₹,135,50
+Karnataka,Doddaballapur,PvrSklsGalaxyMallRedHills,Tamil,15:20,Classic,60₹,22,22
+Karnataka,Doddaballapur,PvrHeritageRslEcrChennai,Tamil,16:20,Prime,179₹,98,30
+Karnataka,Doddaballapur,PvrHeritageRslEcrChennai,Tamil,16:20,Classic,60₹,11,11
+Karnataka,Doddaballapur,SriVenkateswaraTalkiesACDolbyAtmos,Tamil,18:15,First,60₹,172,169
+Karnataka,Doddaballapur,SriVenkateswaraTalkiesACDolbyAtmos,Tamil,21:30,First,60₹,172,110
