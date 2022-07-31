@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Angadipuram,SriVenkateswaraTalkiesACDolbyAtmos,Tamil,10:15,First,60₹,172,69
+Kerala,Angadipuram,RakkiCinemasRgbLaser4KDolbyAtmosAmbattur,Tamil,11:30,Executive,110₹,131,0
+TamilNadu,Vellore,PvrVelocitySilkMillGandhiNagar,Tamil,12:50,Prime,149₹,136,12
+TamilNadu,Vellore,PvrVelocitySilkMillGandhiNagar,Tamil,12:50,Classic,60₹,17,17
+Kerala,Angadipuram,SriVenkateswaraTalkiesACDolbyAtmos,Tamil,14:00,First,60₹,172,92
+Kerala,Angadipuram,RakkiCinemasRgbLaser4KDolbyAtmosAmbattur,Tamil,15:00,Executive,110₹,131,2
+Kerala,Angadipuram,PvrSklsGalaxyMallRedHills,Tamil,15:20,Prime,179₹,135,55
+Kerala,Angadipuram,PvrSklsGalaxyMallRedHills,Tamil,15:20,Classic,60₹,22,22
+Kerala,Angadipuram,PvrHeritageRslEcrChennai,Tamil,16:20,Prime,179₹,98,25
+Kerala,Angadipuram,PvrHeritageRslEcrChennai,Tamil,16:20,Classic,60₹,11,11
+Kerala,Angadipuram,SriVenkateswaraTalkiesACDolbyAtmos,Tamil,18:15,First,60₹,172,169
+Kerala,Angadipuram,SriVenkateswaraTalkiesACDolbyAtmos,Tamil,21:30,First,60₹,172,48
