@@ -1,0 +1,17 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Vadodara,PvrTransCubeVadodara,Japanese,09:45,Recliner,300₹,8,0
+Gujarat,Vadodara,PvrTransCubeVadodara,Japanese,09:45,Classic,140₹,34,0
+Gujarat,Vadodara,PvrTransCubeVadodara,Japanese,09:45,Prime,140₹,100,24
+Maharashtra,Pune,PvrMarketCityVimanNagar,Japanese,10:00,PrimePlus,150₹,10,10
+Maharashtra,Pune,PvrMarketCityVimanNagar,Japanese,10:00,Classic,100₹,52,9
+Maharashtra,Pune,PvrMarketCityVimanNagar,Japanese,10:00,Prime,100₹,119,107
+WestBengal,Kolkata,PvrManiSquareMallEmBypassRoad,Japanese,10:55,Recliner,149₹,8,8
+WestBengal,Kolkata,PvrManiSquareMallEmBypassRoad,Japanese,10:55,Classic,99₹,48,0
+WestBengal,Kolkata,PvrManiSquareMallEmBypassRoad,Japanese,10:55,Prime,99₹,94,69
+UttarPradesh,Noida,PvrLogixCityCentreNoida,Japanese,11:30,Classic,300₹,38,24
+UttarPradesh,Noida,PvrLogixCityCentrePlayHouseNoida,Japanese,11:30,Classic,300₹,38,24
+Uttarakhand,Dehradun,PvrPacificMallDehradun,Japanese,13:15,Prime,99₹,72,26
+Uttarakhand,Dehradun,PvrPacificMallDehradun,Japanese,13:15,Classic,99₹,24,0
+Tripura,Agartala,RupasiCinemaAgartala,Japanese,14:15,GoldClass,150₹,329,81
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,Japanese,15:20,Kiddles,300₹,53,11
+Telangana,Hyderabad,PvrNextGalleriaMallPanjagutta,Japanese,16:35,Classic,150₹,144,141
