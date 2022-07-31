@@ -1,0 +1,8 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Chhattisgarh,Raipur,InoxAmbujaCityCentreMowa,Chhattisghari,12:30,RoyalRecliner,200₹,15,0
+Chhattisgarh,Raipur,InoxAmbujaCityCentreMowa,Chhattisghari,12:30,Club,100₹,150,3
+Chhattisgarh,Raipur,InoxAmbujaCityCentreMowa,Chhattisghari,12:30,Royal,100₹,32,6
+Chhattisgarh,Raipur,InoxAmbujaCityCentreMowa,Chhattisghari,12:30,Executive,90₹,32,0
+Chhattisgarh,Bilaspur,PvrRamaMagnetoMallBilaspur,Chhattisghari,13:05,PrimePlus,350₹,15,8
+Chhattisgarh,Bilaspur,PvrRamaMagnetoMallBilaspur,Chhattisghari,13:05,Prime,170₹,152,38
+Chhattisgarh,Bilaspur,PvrRamaMagnetoMallBilaspur,Chhattisghari,13:05,Classic,160₹,56,0
