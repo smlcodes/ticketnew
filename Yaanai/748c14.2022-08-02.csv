@@ -1,0 +1,14 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Vellichanthai,SriVenkateswaraTalkiesACDolbyAtmos,Tamil,10:15,First,60₹,172,20
+TamilNadu,Vellichanthai,RakkiCinemasRgbLaser4KDolbyAtmosAmbattur,Tamil,11:30,Executive,110₹,131,2
+TamilNadu,Vellore,PvrVelocitySilkMillGandhiNagar,Tamil,12:50,Prime,149₹,136,0
+TamilNadu,Vellore,PvrVelocitySilkMillGandhiNagar,Tamil,12:50,Classic,60₹,17,17
+TamilNadu,Vellichanthai,SriVenkateswaraTalkiesACDolbyAtmos,Tamil,14:00,First,60₹,172,20
+TamilNadu,Vellichanthai,RakkiCinemasRgbLaser4KDolbyAtmosAmbattur,Tamil,15:00,Executive,110₹,131,6
+TamilNadu,Vellichanthai,PvrSklsGalaxyMallRedHills,Tamil,15:20,Prime,165₹,135,7
+TamilNadu,Vellichanthai,PvrSklsGalaxyMallRedHills,Tamil,15:20,Classic,60₹,22,20
+TamilNadu,Vellichanthai,PvrHeritageRslEcrChennai,Tamil,16:20,Prime,165₹,98,13
+TamilNadu,Vellichanthai,PvrHeritageRslEcrChennai,Tamil,16:20,Classic,60₹,11,11
+TamilNadu,Vellichanthai,SriVenkateswaraTalkiesACDolbyAtmos,Tamil,18:15,First,60₹,172,29
+TamilNadu,Vellichanthai,PvrSklsGalaxyMallRedHills,Tamil,22:25,Prime,165₹,81,0
+TamilNadu,Vellichanthai,PvrSklsGalaxyMallRedHills,Tamil,22:25,Classic,60₹,16,14
