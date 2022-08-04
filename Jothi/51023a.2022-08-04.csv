@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,NeyveliTownship,SriNidhiRathinaCineplex4K3DDolbyAtmosNeyveliTownship,Tamil,10:50,FirstClass,150₹,146,12
+TamilNadu,NeyveliTownship,SriNidhiRathinaCineplex4K3DDolbyAtmosNeyveliTownship,Tamil,10:50,SecondClass,150₹,24,24
+Karnataka,Doddaballapur,CinepolisBsrMall,Tamil,13:25,Executive,152₹,118,0
+Karnataka,Doddaballapur,CinepolisBsrMall,Tamil,13:25,Normal,60₹,16,0
+TamilNadu,NeyveliTownship,SriNidhiRathinaCineplex4K3DDolbyAtmosNeyveliTownship,Tamil,14:50,FirstClass,150₹,146,12
+TamilNadu,NeyveliTownship,SriNidhiRathinaCineplex4K3DDolbyAtmosNeyveliTownship,Tamil,14:50,SecondClass,150₹,24,24
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,15:40,Club,152₹,159,0
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,15:40,Executive,60₹,21,0
+TamilNadu,Thanjavur,GvComplexThanjavur,Tamil,18:15,I,120₹,138,12
+Karnataka,Doddaballapur,InoxTheMarinaMallOmr,Tamil,19:10,Club,190₹,126,10
+Karnataka,Doddaballapur,InoxTheMarinaMallOmr,Tamil,19:10,Executive,60₹,16,10
+TamilNadu,Thanjavur,GvComplexThanjavur,Tamil,22:00,I,120₹,138,12
