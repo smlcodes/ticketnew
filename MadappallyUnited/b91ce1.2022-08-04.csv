@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Uttarakhand,Dehradun,PvrPacificMallDehradun,Malayalam,18:00,Prime,230₹,72,0
+Uttarakhand,Dehradun,PvrPacificMallDehradun,Malayalam,18:00,Classic,190₹,24,0
+Uttarakhand,Dehradun,PvrPacificMallDehradun,Malayalam,18:15,Prime,230₹,72,9
+Uttarakhand,Dehradun,PvrPacificMallDehradun,Malayalam,18:15,Classic,190₹,24,0
