@@ -1,0 +1,12 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Chennai,MuruganCinemas4KDolbyAtmosAmbattur,Tamil,11:40,Diamond,110₹,80,14
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,13:10,Club,152₹,135,0
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,13:10,Executive,60₹,19,5
+Kerala,Angadipuram,PvrSklsGalaxyMallRedHills,Tamil,13:45,Prime,165₹,81,10
+Kerala,Angadipuram,PvrSklsGalaxyMallRedHills,Tamil,13:45,Classic,60₹,16,15
+Kerala,Angadipuram,InoxTheMarinaMallOmr,Tamil,15:50,Club,190₹,126,3
+Kerala,Angadipuram,InoxTheMarinaMallOmr,Tamil,15:50,Executive,60₹,16,10
+Kerala,Angadipuram,CinepolisBsrMall,Tamil,16:15,Executive,152₹,118,0
+Kerala,Angadipuram,CinepolisBsrMall,Tamil,16:15,Normal,60₹,16,0
+Kerala,Angadipuram,CinepolisBsrMall,Tamil,16:15,Executive,152₹,118,2
+Kerala,Angadipuram,CinepolisBsrMall,Tamil,16:15,Normal,60₹,16,0
