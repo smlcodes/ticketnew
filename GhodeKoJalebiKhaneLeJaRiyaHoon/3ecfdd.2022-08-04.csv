@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+WestBengal,Kolkata,PvrManiSquareMallEmBypassRoad,Hindi,17:05,Recliner,149₹,19,4
+WestBengal,Kolkata,PvrManiSquareMallEmBypassRoad,Hindi,17:05,Classic,99₹,45,0
+WestBengal,Kolkata,PvrManiSquareMallEmBypassRoad,Hindi,17:05,Prime,99₹,81,16
