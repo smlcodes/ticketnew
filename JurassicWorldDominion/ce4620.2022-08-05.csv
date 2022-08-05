@@ -1,0 +1,6 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Telangana,Hyderabad,PvrIrrumManzilKhairatabad,English,18:35,3DRecliner,280₹,10,3
+Telangana,Hyderabad,PvrIrrumManzilKhairatabad,English,18:35,3DClassic,180₹,158,48
+Telangana,Hyderabad,PvrPlayHouseNextGalleriaMallPanjagutt,English,21:30,Classic,150₹,54,19
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,23:00,Classic,310₹,38,0
+UttarPradesh,Noida,PvrLogixCityCentrePlayHouseNoida,English,23:00,Classic,310₹,38,0
