@@ -1,0 +1,12 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Maharashtra,Mumbai,CinepolisSeawoodsLT,Marathi,12:45,Vip,420₹,13,0
+Maharashtra,Mumbai,CinepolisSeawoodsLT,Marathi,12:45,Premium,220₹,60,5
+Maharashtra,Mumbai,CinepolisSeawoodsLT,Marathi,12:45,Executive,200₹,74,5
+Maharashtra,Mumbai,CinepolisSeawoodsLT,Marathi,12:45,Normal,180₹,49,2
+Maharashtra,Mumbai,CinepolisVivianaMall,Marathi,16:10,Premium,270₹,43,18
+Maharashtra,Mumbai,CinepolisVivianaMall,Marathi,16:10,Executive,250₹,97,0
+Maharashtra,Mumbai,CinepolisVivianaMall,Marathi,16:10,Normal,230₹,25,0
+Maharashtra,Mumbai,PvrOrionPanvel,Marathi,16:15,Classic,139₹,20,0
+Maharashtra,Mumbai,PvrOrionPanvel,Marathi,16:15,Prime,139₹,98,14
+Maharashtra,Mumbai,PvrOrionPanvel,Marathi,16:15,PrimePlus,139₹,27,0
+Maharashtra,Mumbai,MovietimeHubMallGoregaonE,Marathi,17:55,Mhraja,170₹,44,10
