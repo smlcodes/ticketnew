@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Rajasthan,Ajmer,MayaMandirMultiplexAjmer,Hindi,19:30,ClubA,112₹,20,14
+Rajasthan,Ajmer,MayaMandirMultiplexAjmer,Hindi,19:30,ClubB,112₹,20,20
+Rajasthan,Ajmer,MayaMandirMultiplexAjmer,Hindi,19:30,Premium,100₹,68,32
+Rajasthan,Ajmer,MayaMandirMultiplexAjmer,Hindi,19:30,Classic,100₹,92,24
