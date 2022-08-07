@@ -1,0 +1,16 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Kochi,SaritaCinemasKochi,Malayalam,12:00,BlueCircle,150₹,227,218
+Kerala,Chalakudy,DCinemaasChalakudy,Malayalam,12:15,Platinum,270₹,5,0
+Kerala,Chalakudy,DCinemaasChalakudy,Malayalam,12:15,Gold,129₹,238,35
+Kerala,Thalayolaparambu,CarnivalThalayolaparambu,Malayalam,12:45,Gold,110₹,144,0
+Kerala,Kodungallur,CarnivalMughalMallStarNagar,Malayalam,14:00,Vip,250₹,10,5
+Kerala,Kodungallur,CarnivalMughalMallStarNagar,Malayalam,14:00,ExecutiveOffline,140₹,172,16
+Kerala,Karunagappally,CarnivalHJComplexLalajiJunction,Malayalam,15:30,ClassicOffline,150₹,118,15
+Kerala,Angamaly,CarnivalKsrtComplexSalemErnakulamHighway,Malayalam,17:00,GoldOffline,150₹,202,27
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,17:20,PremiumOffline,300₹,50,8
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,17:20,ExecutiveOffline,180₹,102,0
+Kerala,Trivandrum,CarnivalMallOfTravancoreEanchakkal,Malayalam,17:20,NormalOffline,100₹,17,0
+Kerala,Kunnamkulam,BavanaMoviesHouseACKunnamkulam,Malayalam,17:30,LuxuryClass,220₹,13,0
+Kerala,Kunnamkulam,BavanaMoviesHouseACKunnamkulam,Malayalam,17:30,PlatinumCircle,130₹,159,0
+Kerala,Chalakudy,DCinemaasChalakudy,Malayalam,19:15,Platinum,270₹,5,0
+Kerala,Chalakudy,DCinemaasChalakudy,Malayalam,19:15,Gold,129₹,238,25
