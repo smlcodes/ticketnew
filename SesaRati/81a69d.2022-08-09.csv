@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Odisha,Bhubaneswar,CinepolisEsplanade,Odiya,10:40,Vip,300₹,11,0
+Odisha,Bhubaneswar,CinepolisEsplanade,Odiya,10:40,Normal,100₹,24,0
+Odisha,Bhubaneswar,CinepolisEsplanade,Odiya,10:40,Premium,100₹,45,8
+Odisha,Bhubaneswar,CinepolisEsplanade,Odiya,10:40,Executive,100₹,51,0
