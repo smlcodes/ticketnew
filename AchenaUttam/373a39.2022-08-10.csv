@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,16:00,Balcony,50₹,264,33
+WestBengal,Krishnanagar,SangeetaTalkiesKrishnanagar,Bengali,16:00,FirstClass,30₹,513,30
+WestBengal,Kolkata,RupMandirCinemaKolkata,Bengali,19:30,Platinum,100₹,48,0
+WestBengal,Kolkata,RupMandirCinemaKolkata,Bengali,19:30,Gold,80₹,102,32
