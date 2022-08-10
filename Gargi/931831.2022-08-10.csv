@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Vellichanthai,PvrAmpaSkywalkMallAminjikarai,Tamil,12:30,Prime,179₹,218,16
+TamilNadu,Vellichanthai,PvrAmpaSkywalkMallAminjikarai,Tamil,12:30,Classic,60₹,36,36
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,15:30,Club,152₹,240,2
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,15:30,Executive,60₹,30,0
+TamilNadu,Vellichanthai,PvrHeritageRslEcrChennai,Tamil,15:45,Prime,165₹,118,13
+TamilNadu,Vellichanthai,PvrHeritageRslEcrChennai,Tamil,15:45,Classic,60₹,15,15
+TamilNadu,Vellichanthai,PvrHeritageRslEcrChennai,Tamil,15:45,Prime,165₹,118,13
+TamilNadu,Vellichanthai,PvrHeritageRslEcrChennai,Tamil,15:45,Classic,60₹,15,15
+TamilNadu,Vellichanthai,PvrHeritageRslEcrChennai,Tamil,15:45,Prime,165₹,118,16
+TamilNadu,Vellichanthai,PvrHeritageRslEcrChennai,Tamil,15:45,Classic,60₹,15,15
+TamilNadu,Vellichanthai,InoxTheMarinaMallOmr,Tamil,22:30,Club,190₹,126,0
+TamilNadu,Vellichanthai,InoxTheMarinaMallOmr,Tamil,22:30,Executive,60₹,16,0
