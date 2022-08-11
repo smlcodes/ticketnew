@@ -1,0 +1,7 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+MadhyaPradesh,Bhopal,InoxCityCentreMallBhilwara,Hindi,13:10,Club,200₹,60,0
+MadhyaPradesh,Bhopal,InoxCityCentreMallBhilwara,Hindi,13:10,Executive,200₹,29,0
+MadhyaPradesh,Bhopal,InoxCityCentreMallBhilwara,Hindi,13:10,Royale,200₹,22,0
+MadhyaPradesh,Gwalior,InoxDbMallRaceCourseRoad,Hindi,13:15,Royale,230₹,58,6
+MadhyaPradesh,Gwalior,InoxDbMallRaceCourseRoad,Hindi,13:15,Club,220₹,55,8
+MadhyaPradesh,Gwalior,InoxDbMallRaceCourseRoad,Hindi,13:15,Executive,190₹,22,0
