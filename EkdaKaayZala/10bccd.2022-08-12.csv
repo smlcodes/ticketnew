@@ -1,0 +1,7 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Maharashtra,Mumbai,MovietimeChembur,Marathi,12:15,Silver,150₹,74,0
+Maharashtra,Mumbai,MovietimeHubMallGoregaonE,Marathi,15:05,Mhraja,160₹,44,9
+Maharashtra,Mumbai,CinepolisVipVivianaMall,Marathi,16:50,Vip,500₹,74,19
+Maharashtra,Pune,CinepolisSeasonsMall,Marathi,22:10,Premium,220₹,40,4
+Maharashtra,Pune,CinepolisSeasonsMall,Marathi,22:10,Executive,220₹,52,0
+Maharashtra,Pune,CinepolisSeasonsMall,Marathi,22:10,Normal,200₹,23,0
