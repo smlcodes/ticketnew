@@ -1,0 +1,10 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Vellichanthai,CinepolisBsrMall,Telugu,15:45,Executive,162₹,124,0
+TamilNadu,Vellichanthai,CinepolisBsrMall,Telugu,15:45,Normal,63₹,17,1
+Haryana,Gurgaon,CinepolisAiriaMall,Telugu,16:05,Premium,240₹,17,2
+Haryana,Gurgaon,CinepolisAiriaMall,Telugu,16:05,Executive,220₹,105,0
+Haryana,Gurgaon,CinepolisAiriaMall,Telugu,16:05,Normal,200₹,41,0
+Karnataka,Bangalore,InoxGarudaYelahankaBangalore,Telugu,21:30,Club,236₹,111,15
+Karnataka,Bangalore,InoxGarudaYelahankaBangalore,Telugu,21:30,Executive,236₹,60,0
+TamilNadu,Vellichanthai,CinepolisBsrMall,Telugu,22:25,Executive,162₹,124,0
+TamilNadu,Vellichanthai,CinepolisBsrMall,Telugu,22:25,Normal,63₹,17,4
