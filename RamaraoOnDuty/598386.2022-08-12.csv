@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+AndhraPradesh,Visakhapatnam,MohiniCinemasDolbyAtmosVisakhapatnam,Telugu,18:30,Premium,145₹,224,0
+AndhraPradesh,Visakhapatnam,MohiniCinemasDolbyAtmosVisakhapatnam,Telugu,18:30,NonPremium,100₹,150,0
+AndhraPradesh,Visakhapatnam,MohiniCinemasDolbyAtmosVisakhapatnam,Telugu,21:30,Premium,145₹,224,2
+AndhraPradesh,Visakhapatnam,MohiniCinemasDolbyAtmosVisakhapatnam,Telugu,21:30,NonPremium,100₹,150,5
