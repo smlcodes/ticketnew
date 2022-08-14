@@ -1,0 +1,10 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,08:50,Club,190₹,196,4
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,08:50,Executive,60₹,28,3
+TamilNadu,Thiruppatur,SangamCinemas4KRgbLaserDolbyAtmos,Tamil,12:10,Executive,190₹,108,62
+TamilNadu,Thiruppatur,SangamCinemas4KRgbLaserDolbyAtmos,Tamil,12:10,Corporate,160₹,156,3
+TamilNadu,Thiruppatur,SangamCinemas4KRgbLaserDolbyAtmos,Tamil,12:10,Budget,60₹,22,22
+TamilNadu,Thiruppatur,Devicineplex,Tamil,12:45,Quartz,152₹,277,6
+TamilNadu,Thiruppatur,Devicineplex,Tamil,12:45,Zircon,60₹,31,31
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,16:10,Club,190₹,134,65
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,16:10,Executive,60₹,22,22
