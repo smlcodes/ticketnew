@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Bangalore,CinepolisForumShantiniketan,English,17:20,SingleSofa,300₹,6,5
+Karnataka,Bangalore,CinepolisForumShantiniketan,English,17:20,Lounger,280₹,9,8
+Karnataka,Bangalore,CinepolisForumShantiniketan,English,17:20,DoubleSofa,250₹,24,23
+Karnataka,Bangalore,CinepolisForumShantiniketan,English,17:20,Normal,200₹,69,68
