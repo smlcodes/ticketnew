@@ -1,0 +1,7 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,12:05,Classic,99₹,87,0
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,12:05,Classic,99₹,97,3
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,21:30,Platinum,500₹,28,0
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,English,21:30,PlatinumSuperior,500₹,8,0
+Delhi,DelhiNcr,PvrPromenadeVasantKunj,English,22:15,Prime,300₹,34,2
+Delhi,DelhiNcr,PvrPromenadeVasantKunj,English,22:15,Classic,250₹,50,0
