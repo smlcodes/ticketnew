@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+AndhraPradesh,Eluru,VMaxEluru,Telugu,11:00,Balcony,150₹,228,139
+AndhraPradesh,Eluru,VMaxEluru,Telugu,11:00,SecondClass,80₹,30,30
+AndhraPradesh,Eluru,VMaxEluru,Telugu,11:00,LowClass,50₹,48,0
+AndhraPradesh,Eluru,VMaxEluru,Telugu,14:30,Balcony,150₹,228,139
+AndhraPradesh,Eluru,VMaxEluru,Telugu,14:30,SecondClass,80₹,30,30
+AndhraPradesh,Eluru,VMaxEluru,Telugu,14:30,LowClass,50₹,48,0
+AndhraPradesh,Eluru,VMaxEluru,Telugu,18:30,Balcony,150₹,228,139
+AndhraPradesh,Eluru,VMaxEluru,Telugu,18:30,SecondClass,80₹,30,30
+AndhraPradesh,Eluru,VMaxEluru,Telugu,18:30,LowClass,50₹,48,0
+AndhraPradesh,Eluru,VMaxEluru,Telugu,21:30,Balcony,150₹,228,139
+AndhraPradesh,Eluru,VMaxEluru,Telugu,21:30,SecondClass,80₹,30,30
+AndhraPradesh,Eluru,VMaxEluru,Telugu,21:30,LowClass,50₹,48,0
