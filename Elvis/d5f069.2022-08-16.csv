@@ -1,0 +1,5 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+UttarPradesh,Noida,PvrLogixCityCentreNoida,English,12:05,Classic,99₹,87,1
+Maharashtra,Mumbai,InoxAtriaMallWorli,English,21:55,Insignia,850₹,26,5
+Delhi,DelhiNcr,PvrPromenadeVasantKunj,English,22:15,Classic,200₹,50,0
+Delhi,DelhiNcr,PvrPromenadeVasantKunj,English,22:15,Prime,200₹,34,4
