@@ -1,0 +1,11 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Angadipuram,SangamCinemas4KRgbLaserDolbyAtmos,Tamil,12:10,Executive,190₹,108,18
+Kerala,Angadipuram,SangamCinemas4KRgbLaserDolbyAtmos,Tamil,12:10,Corporate,160₹,156,0
+Kerala,Angadipuram,SangamCinemas4KRgbLaserDolbyAtmos,Tamil,12:10,Budget,60₹,22,22
+Kerala,Angadipuram,Devicineplex,Tamil,12:45,Quartz,152₹,277,0
+Kerala,Angadipuram,Devicineplex,Tamil,12:45,Zircon,60₹,31,31
+Kerala,Angadipuram,SangamCinemas4KRgbLaserDolbyAtmos,Tamil,15:50,Executive,190₹,108,20
+Kerala,Angadipuram,SangamCinemas4KRgbLaserDolbyAtmos,Tamil,15:50,Corporate,160₹,156,1
+Kerala,Angadipuram,SangamCinemas4KRgbLaserDolbyAtmos,Tamil,15:50,Budget,60₹,22,22
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,16:10,Club,190₹,134,0
+TamilNadu,Coimbatore,InoxProzoneMallCoimbatore,Tamil,16:10,Executive,60₹,22,2
