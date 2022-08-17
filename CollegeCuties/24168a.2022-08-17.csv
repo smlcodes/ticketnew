@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Trivandrum,CarnivalGreenfieldCinemaKaryavattom,Malayalam,12:35,ExecutiveOffline,140₹,119,25
+Kerala,Kochi,SaritaCinemasKochi,Malayalam,15:00,BlueCircle,150₹,227,218
+Kerala,Karunagappally,CarnivalHJComplexLalajiJunction,Malayalam,16:00,ClassicOffline,110₹,118,15
