@@ -1,0 +1,9 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+TamilNadu,Thiruppatur,PvrSklsGalaxyMallRedHills,Tamil,11:35,Prime,165₹,81,10
+TamilNadu,Thiruppatur,PvrSklsGalaxyMallRedHills,Tamil,11:35,Classic,60₹,16,13
+TamilNadu,Thiruppatur,PvrAmpaSkywalkMallAminjikarai,Tamil,12:30,Prime,179₹,118,0
+TamilNadu,Thiruppatur,PvrAmpaSkywalkMallAminjikarai,Tamil,12:30,Classic,60₹,17,17
+TamilNadu,Thiruppatur,PvrHeritageRslEcrChennai,Tamil,12:45,Prime,165₹,99,13
+TamilNadu,Thiruppatur,PvrHeritageRslEcrChennai,Tamil,12:45,Classic,60₹,11,11
+TamilNadu,Vellore,PvrVelocitySilkMillGandhiNagar,Tamil,13:15,Prime,179₹,125,0
+TamilNadu,Vellore,PvrVelocitySilkMillGandhiNagar,Tamil,13:15,Classic,60₹,18,18
