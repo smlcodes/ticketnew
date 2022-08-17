@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Maharashtra,Mumbai,PvrDynamicJuhu,Hindi,17:30,Prime,200₹,219,21
+Maharashtra,Mumbai,PvrDynamicJuhu,Hindi,17:30,Classic,180₹,84,0
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,Hindi,18:15,Platinum,400₹,28,0
+Haryana,Gurgaon,PvrAmbienceGoldGurgaon,Hindi,18:15,PlatinumSuperior,400₹,8,0
+Maharashtra,Mumbai,PvrCitiMallAndheriW,Hindi,18:30,Recliner,249₹,24,2
+Maharashtra,Mumbai,PvrCitiMallAndheriW,Hindi,18:30,Classic,149₹,46,0
+Maharashtra,Mumbai,PvrCitiMallAndheriW,Hindi,18:30,Prime,149₹,146,14
+Delhi,DelhiNcr,PvrPromenadeVasantKunj,Hindi,18:45,Prime,199₹,34,0
+Delhi,DelhiNcr,PvrPromenadeVasantKunj,Hindi,18:45,Classic,149₹,50,0
+UttarPradesh,Noida,PvrLogixCityCentreNoida,Hindi,22:00,Classic,99₹,84,7
+UttarPradesh,Lucknow,PvrSaharaGanjMallHazratganj,Hindi,22:55,Recliner,149₹,12,0
+UttarPradesh,Lucknow,PvrSaharaGanjMallHazratganj,Hindi,22:55,Classic,99₹,171,7
