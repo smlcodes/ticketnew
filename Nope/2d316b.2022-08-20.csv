@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+MadhyaPradesh,Indore,InoxC21MallSheetalNagar,English,09:05,Cl,250₹,33,0
+MadhyaPradesh,Indore,InoxC21MallSheetalNagar,English,09:05,Ry,250₹,63,1
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,12:15,Club,320₹,16,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,12:15,Royal,320₹,60,12
+MadhyaPradesh,Indore,InoxC21MallSheetalNagar,English,14:20,Cl,300₹,33,0
+MadhyaPradesh,Indore,InoxC21MallSheetalNagar,English,14:20,Ry,300₹,63,0
+MadhyaPradesh,Indore,InoxC21MallSheetalNagar,English,17:05,Cl,350₹,33,0
+MadhyaPradesh,Indore,InoxC21MallSheetalNagar,English,17:05,Ry,350₹,63,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,17:45,Club,400₹,16,0
+Maharashtra,Mumbai,InoxMegaplexInorbitMall,English,17:45,Royal,400₹,60,6
+MadhyaPradesh,Indore,InoxC21MallSheetalNagar,English,22:30,Cl,350₹,33,0
+MadhyaPradesh,Indore,InoxC21MallSheetalNagar,English,22:30,Ry,350₹,63,0
