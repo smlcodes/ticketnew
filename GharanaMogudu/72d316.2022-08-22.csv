@@ -1,0 +1,13 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+AndhraPradesh,Visakhapatnam,Jagadamba4KVizag,Telugu,18:15,PremiumClass,145₹,586,564
+AndhraPradesh,Visakhapatnam,Jagadamba4KVizag,Telugu,18:15,NonPremiumClass,100₹,430,430
+AndhraPradesh,Anantapur,SvCinemax4KDolbyAtmosAnantapur,Telugu,18:30,Boxs,148₹,48,5
+AndhraPradesh,Anantapur,SvCinemax4KDolbyAtmosAnantapur,Telugu,18:30,Diamond,148₹,316,184
+AndhraPradesh,Anantapur,SvCinemax4KDolbyAtmosAnantapur,Telugu,18:30,Gold,148₹,168,168
+AndhraPradesh,Anantapur,SvCinemax4KDolbyAtmosAnantapur,Telugu,18:30,Silver,112₹,98,42
+AndhraPradesh,Srikakulam,MithraMovieMaxMaruthiTheatreSrikakulam,Telugu,18:30,Premium,140₹,264,79
+AndhraPradesh,Srikakulam,MithraMovieMaxMaruthiTheatreSrikakulam,Telugu,18:30,NonPremium,70₹,95,31
+AndhraPradesh,Srikakulam,MithraMovieMaxMaruthiTheatreSrikakulam,Telugu,21:45,Premium,140₹,264,70
+AndhraPradesh,Srikakulam,MithraMovieMaxMaruthiTheatreSrikakulam,Telugu,21:45,NonPremium,70₹,95,22
+AndhraPradesh,Visakhapatnam,Jagadamba4KVizag,Telugu,22:00,PremiumClass,145₹,586,559
+AndhraPradesh,Visakhapatnam,Jagadamba4KVizag,Telugu,22:00,NonPremiumClass,100₹,430,430
