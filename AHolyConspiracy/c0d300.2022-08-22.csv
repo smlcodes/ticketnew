@@ -1,0 +1,7 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+WestBengal,Kolkata,PvrDiamondPlazaJassore,English,16:30,Recliner,149₹,14,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,English,16:30,Classic,99₹,154,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,English,16:30,Prime,99₹,12,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,English,16:30,Recliner,149₹,14,3
+WestBengal,Kolkata,PvrDiamondPlazaJassore,English,16:30,Classic,99₹,154,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,English,16:30,Prime,99₹,12,0
