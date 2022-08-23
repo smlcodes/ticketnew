@@ -1,0 +1,15 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+WestBengal,Jiaganj,MahabirJainMunicipaltyCulturalJiaganj,Bengali,13:00,Boxa,100₹,14,0
+WestBengal,Jiaganj,MahabirJainMunicipaltyCulturalJiaganj,Bengali,13:00,Boxb,100₹,14,0
+WestBengal,Jiaganj,MahabirJainMunicipaltyCulturalJiaganj,Bengali,13:00,Balcony,80₹,90,38
+WestBengal,Jiaganj,MahabirJainMunicipaltyCulturalJiaganj,Bengali,13:00,RearStall,60₹,176,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,13:05,Recliner,149₹,14,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,13:05,Classic,99₹,154,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,13:05,Prime,99₹,12,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,13:05,Recliner,149₹,14,0
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,13:05,Classic,99₹,154,2
+WestBengal,Kolkata,PvrDiamondPlazaJassore,Bengali,13:05,Prime,99₹,12,0
+WestBengal,Jiaganj,MahabirJainMunicipaltyCulturalJiaganj,Bengali,19:00,Boxa,100₹,14,0
+WestBengal,Jiaganj,MahabirJainMunicipaltyCulturalJiaganj,Bengali,19:00,Boxb,100₹,14,0
+WestBengal,Jiaganj,MahabirJainMunicipaltyCulturalJiaganj,Bengali,19:00,Balcony,80₹,90,38
+WestBengal,Jiaganj,MahabirJainMunicipaltyCulturalJiaganj,Bengali,19:00,RearStall,60₹,176,0
