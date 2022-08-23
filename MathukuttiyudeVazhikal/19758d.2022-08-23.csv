@@ -1,0 +1,4 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Kochi,SaritaCinemasKochi,Malayalam,10:00,BlueCircle,150₹,227,218
+Kerala,SultanBathery,AiswaryaAthulyaCineplexSulthanBathery,Malayalam,19:15,SofaSeat,170₹,44,0
+Kerala,SultanBathery,AiswaryaAthulyaCineplexSulthanBathery,Malayalam,19:15,GoldClass,110₹,63,3
