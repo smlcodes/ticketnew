@@ -1,0 +1,7 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+MadhyaPradesh,Bhopal,InoxCityCentreMallBhilwara,Hindi,09:00,Club,112₹,180,0
+MadhyaPradesh,Bhopal,InoxCityCentreMallBhilwara,Hindi,09:00,Executive,112₹,53,0
+MadhyaPradesh,Bhopal,InoxCityCentreMallBhilwara,Hindi,09:00,Royale,112₹,58,1
+Rajasthan,Kota,InoxAhluwaliasGreatMallDhanmandi,Hindi,09:00,Club,112₹,93,0
+Rajasthan,Kota,InoxAhluwaliasGreatMallDhanmandi,Hindi,09:00,Executive,112₹,45,0
+Rajasthan,Kota,InoxAhluwaliasGreatMallDhanmandi,Hindi,09:00,Royale,112₹,37,0
