@@ -1,0 +1,14 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,TimeCinemaAhmedabadCgSquareMall,English,09:10,Standard160,160₹,108,8
+Gujarat,Ahmedabad,TimeCinemaAhmedabadCgSquareMall,English,13:30,Standard160,160₹,84,0
+Gujarat,Ahmedabad,TimeCinemaAhmedabadCgSquareMall,English,15:25,Standard160,160₹,84,0
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,English,16:45,Recliner,320₹,12,1
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,English,16:45,PrimePlus,220₹,39,13
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,English,16:45,Prime,170₹,156,2
+Rajasthan,Udaipur,PvrCelebrationMallUdaipur,English,16:45,Classic,160₹,52,0
+Gujarat,Ahmedabad,TimeCinemaAhmedabadCgSquareMall,English,17:25,Standard160,160₹,84,0
+Gujarat,Ahmedabad,TimeCinemaAhmedabadCgSquareMall,English,19:35,Standard160,160₹,84,0
+WestBengal,Kolkata,PvrManiSquareMallEmBypassRoad,English,19:55,Recliner,540₹,8,0
+WestBengal,Kolkata,PvrManiSquareMallEmBypassRoad,English,19:55,Prime,270₹,110,2
+WestBengal,Kolkata,PvrManiSquareMallEmBypassRoad,English,19:55,Classic,230₹,48,0
+Gujarat,Ahmedabad,TimeCinemaAhmedabadCgSquareMall,English,23:15,Standard,330₹,108,8
