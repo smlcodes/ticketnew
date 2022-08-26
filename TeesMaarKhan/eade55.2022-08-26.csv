@@ -1,0 +1,7 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Odisha,Rayagada,AshokaTalkiesACDtsRayagada,Telugu,10:30,Balcony,150₹,355,0
+Odisha,Rayagada,AshokaTalkiesACDtsRayagada,Telugu,10:30,FirstClass,100₹,222,0
+Odisha,Rayagada,AshokaTalkiesACDtsRayagada,Telugu,10:30,SecondClass,60₹,57,4
+Odisha,Rayagada,AshokaTalkiesACDtsRayagada,Telugu,14:00,Balcony,150₹,355,0
+Odisha,Rayagada,AshokaTalkiesACDtsRayagada,Telugu,14:00,FirstClass,100₹,222,0
+Odisha,Rayagada,AshokaTalkiesACDtsRayagada,Telugu,14:00,SecondClass,60₹,57,0
