@@ -1,0 +1,11 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Chhattisgarh,Raipur,InoxAmbujaCityCentreMowa,Chhattisghari,12:50,RoyalRecliner,200₹,15,0
+Chhattisgarh,Raipur,InoxAmbujaCityCentreMowa,Chhattisghari,12:50,Royal,140₹,32,0
+Chhattisgarh,Raipur,InoxAmbujaCityCentreMowa,Chhattisghari,12:50,Club,100₹,150,2
+Chhattisgarh,Raipur,InoxAmbujaCityCentreMowa,Chhattisghari,12:50,Executive,90₹,32,1
+Chhattisgarh,Bilaspur,PvrRamaMagnetoMallBilaspur,Chhattisghari,15:05,PrimePlus,370₹,13,7
+Chhattisgarh,Bilaspur,PvrRamaMagnetoMallBilaspur,Chhattisghari,15:05,Prime,220₹,116,28
+Chhattisgarh,Bilaspur,PvrRamaMagnetoMallBilaspur,Chhattisghari,15:05,Classic,170₹,40,0
+Chhattisgarh,Raipur,CinemaxCityCenterPandri,Chhattisghari,16:30,Recliner,380₹,12,0
+Chhattisgarh,Raipur,CinemaxCityCenterPandri,Chhattisghari,16:30,Prime,170₹,140,0
+Chhattisgarh,Raipur,CinemaxCityCenterPandri,Chhattisghari,16:30,Classic,140₹,24,0
