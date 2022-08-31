@@ -1,0 +1,7 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Kerala,Kochi,SaritaCinemasKochi,Malayalam,10:00,Deluxe,150₹,555,531
+Kerala,Kochi,SaritaCinemasKochi,Malayalam,10:00,RoseCircle,150₹,115,115
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,17:05,RoyalRecliner,290₹,10,0
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,17:05,Club,170₹,66,10
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,17:05,Royal,170₹,13,2
+Kerala,Thrissur,InoxSobhaCityMall,Malayalam,17:05,Executive,130₹,22,0
