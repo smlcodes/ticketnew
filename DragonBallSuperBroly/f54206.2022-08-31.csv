@@ -1,0 +1,7 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,TimeCinemaAhmedabadCgSquareMall,English,10:30,Standard160,160₹,108,8
+Gujarat,Ahmedabad,TimeCinemaAhmedabadCgSquareMall,English,13:30,Standard160,160₹,84,0
+Gujarat,Ahmedabad,TimeCinemaAhmedabadCgSquareMall,English,15:25,Standard160,160₹,84,0
+Gujarat,Ahmedabad,TimeCinemaAhmedabadCgSquareMall,English,17:25,Standard160,160₹,84,0
+Gujarat,Ahmedabad,TimeCinemaAhmedabadCgSquareMall,English,19:35,Standard160,160₹,84,0
+Gujarat,Ahmedabad,TimeCinemaAhmedabadCgSquareMall,English,23:15,Standard330,330₹,108,8
