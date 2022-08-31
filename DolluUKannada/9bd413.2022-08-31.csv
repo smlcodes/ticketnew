@@ -1,0 +1,17 @@
+State,City,Name,Language,Time,Type,Price,Capacity,Booked
+Karnataka,Bellary,RrCinemasBellary,Punjabi,11:00,Gold,150₹,124,83
+Karnataka,Bellary,RrCinemasBellary,Punjabi,11:00,Silver,100₹,242,132
+Karnataka,Hubli,ShringarCinemaHubli,Punjabi,12:00,Balcony,150₹,190,84
+Karnataka,Hubli,ShringarCinemaHubli,Punjabi,12:00,DressCircle,100₹,504,113
+Karnataka,Bangalore,PvrMsrElementsMallTanisandhraMainRoad,Punjabi,12:45,Classic,240₹,95,2
+Karnataka,Mangalore,PvrForumFizaMallPandeshwar,Punjabi,12:45,Classic,150₹,79,0
+Karnataka,Bellary,RrCinemasBellary,Punjabi,14:00,Gold,150₹,124,83
+Karnataka,Bellary,RrCinemasBellary,Punjabi,14:00,Silver,100₹,242,132
+Karnataka,Bangalore,PvrVaishnaviSapphireMallYashwantpur,Punjabi,16:10,Recliner,350₹,9,0
+Karnataka,Bangalore,PvrVaishnaviSapphireMallYashwantpur,Punjabi,16:10,Prime,220₹,20,6
+Karnataka,Bangalore,PvrVaishnaviSapphireMallYashwantpur,Punjabi,16:10,Classic,200₹,85,0
+Karnataka,Mysore,PvrGarudaMallAlbertVictorRoad,Punjabi,16:45,Classic,140₹,102,1
+Karnataka,Bellary,RrCinemasBellary,Punjabi,17:00,Gold,150₹,124,83
+Karnataka,Bellary,RrCinemasBellary,Punjabi,17:00,Silver,100₹,242,132
+Karnataka,Bellary,RrCinemasBellary,Punjabi,20:00,Gold,150₹,124,83
+Karnataka,Bellary,RrCinemasBellary,Punjabi,20:00,Silver,100₹,242,132
