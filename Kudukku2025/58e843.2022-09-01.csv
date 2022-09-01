@@ -1,0 +1,12 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,SaritaCinemasKochi,Malayalam,12:05,Deluxe,180₹,555,531
+Kerala,Kochi,SaritaCinemasKochi,Malayalam,12:05,RoseCircle,180₹,115,115
+Kerala,Kochi,SaritaCinemasKochi,Malayalam,12:05,Deluxe,150₹,555,531
+Kerala,Kochi,SaritaCinemasKochi,Malayalam,12:05,RoseCircle,150₹,115,115
+Kerala,Kattanam,GanamTheatreComplexACKattanam,Malayalam,13:00,FirstClass,110₹,129,129
+Kerala,Trivandrum,CarnivalGreenfieldCinemaKaryavattom,Malayalam,13:30,ExecutiveOffline,140₹,119,27
+Kerala,Kochi,SaritaCinemasKochi,Malayalam,15:00,Deluxe,180₹,555,531
+Kerala,Kochi,SaritaCinemasKochi,Malayalam,15:00,RoseCircle,180₹,115,115
+Kerala,Perinthalmanna,VismayaCinemasPerinthalmanna,Malayalam,16:05,Platinum,100₹,230,25
+Kerala,Kochi,SaritaCinemasKochi,Malayalam,21:00,Deluxe,150₹,555,531
+Kerala,Kochi,SaritaCinemasKochi,Malayalam,21:00,RoseCircle,150₹,115,115
