@@ -1,0 +1,13 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+AndhraPradesh,Cheepurupalli,AnuragAndAmoghTheatresCheepurupalli,Telugu,10:30,Premium,100₹,184,38
+AndhraPradesh,Cheepurupalli,AnuragAndAmoghTheatresCheepurupalli,Telugu,10:30,NonPremium,100₹,96,0
+AndhraPradesh,Rajahmundry,AshokaTheatre2KACDtsRajahmundry,Telugu,11:15,PremuimCl,112₹,434,84
+AndhraPradesh,Rajahmundry,AshokaTheatre2KACDtsRajahmundry,Telugu,11:15,NonPremiumCl,75₹,145,110
+AndhraPradesh,Rajahmundry,AshokaTheatre2KACDtsRajahmundry,Telugu,14:30,PremuimCl,112₹,434,84
+AndhraPradesh,Rajahmundry,AshokaTheatre2KACDtsRajahmundry,Telugu,14:30,NonPremiumCl,75₹,145,110
+AndhraPradesh,Cheepurupalli,AnuragAndAmoghTheatresCheepurupalli,Telugu,14:30,Premium,100₹,184,39
+AndhraPradesh,Cheepurupalli,AnuragAndAmoghTheatresCheepurupalli,Telugu,14:30,NonPremium,100₹,96,0
+AndhraPradesh,Rajahmundry,AshokaTheatre2KACDtsRajahmundry,Telugu,18:15,PremuimCl,112₹,434,83
+AndhraPradesh,Rajahmundry,AshokaTheatre2KACDtsRajahmundry,Telugu,18:15,NonPremiumCl,75₹,145,110
+AndhraPradesh,Rajahmundry,AshokaTheatre2KACDtsRajahmundry,Telugu,21:30,PremuimCl,112₹,434,82
+AndhraPradesh,Rajahmundry,AshokaTheatre2KACDtsRajahmundry,Telugu,21:30,NonPremiumCl,75₹,145,110
