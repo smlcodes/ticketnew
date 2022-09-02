@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Karnataka,Bangalore,SantoshTheatreGandhinagar,Kannada,10:30,Balcony,150₹,272,212
+Karnataka,Bangalore,SantoshTheatreGandhinagar,Kannada,10:30,SecondClass,100₹,720,614
+Karnataka,Bangalore,SantoshTheatreGandhinagar,Kannada,13:30,Balcony,150₹,272,212
+Karnataka,Bangalore,SantoshTheatreGandhinagar,Kannada,13:30,SecondClass,100₹,720,614
+Karnataka,Bangalore,SantoshTheatreGandhinagar,Kannada,16:30,Balcony,150₹,272,212
+Karnataka,Bangalore,SantoshTheatreGandhinagar,Kannada,16:30,SecondClass,100₹,720,614
+Karnataka,Bangalore,SantoshTheatreGandhinagar,Kannada,19:30,Balcony,150₹,272,212
+Karnataka,Bangalore,SantoshTheatreGandhinagar,Kannada,19:30,SecondClass,100₹,720,614
