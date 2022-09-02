@@ -1,0 +1,14 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Ahmedabad,TimeCinemaAhmedabadCgSquareMall,Gujarathi,12:30,Standard160,160₹,108,8
+Gujarat,Nadiad,InoxOpalOneMallNadiad,Gujarathi,13:45,RoyalRecliners,190₹,15,0
+Gujarat,Nadiad,InoxOpalOneMallNadiad,Gujarathi,13:45,Royal,112₹,28,1
+Gujarat,Nadiad,InoxOpalOneMallNadiad,Gujarathi,13:45,Club,100₹,51,0
+Gujarat,Nadiad,InoxOpalOneMallNadiad,Gujarathi,13:45,Executive,90₹,34,0
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,Gujarathi,16:55,Royale,260₹,48,0
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,Gujarathi,16:55,Club,240₹,108,0
+Maharashtra,Mumbai,MetroInoxCinemaMGRoad,Gujarathi,16:55,Executive,210₹,36,0
+Gujarat,Bharuch,InoxShaalimarMallStationRoad,Gujarathi,18:15,Premiere,150₹,211,2
+Gujarat,Bharuch,InoxShaalimarMallStationRoad,Gujarathi,18:15,Executive,140₹,51,0
+Gujarat,Bharuch,InoxShaalimarMallStationRoad,Gujarathi,18:15,Premiere,150₹,211,4
+Gujarat,Bharuch,InoxShaalimarMallStationRoad,Gujarathi,18:15,Executive,140₹,51,0
+Gujarat,Surat,TimeCinemaSurat,Gujarathi,19:15,Sofa220,220₹,34,0
