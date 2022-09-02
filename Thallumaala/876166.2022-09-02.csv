@@ -1,0 +1,5 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Kerala,Kochi,SaritaCinemasKochi,Malayalam,12:00,BlueCircle,150₹,227,218
+Kerala,Ottapalam,LadderCinemasOttapalam,Malayalam,12:00,Executive,150₹,214,1
+Kerala,Kochi,SaritaCinemasKochi,Malayalam,15:00,BlueCircle,150₹,227,218
+Kerala,Ottapalam,LadderCinemasOttapalam,Malayalam,18:00,Executive,150₹,214,3
