@@ -1,0 +1,9 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Surat,InoxRajImperialVarachhaRoad,Gujarathi,16:20,Imperial,340₹,5,1
+Gujarat,Surat,InoxRajImperialVarachhaRoad,Gujarathi,16:20,Platinum,190₹,20,0
+Gujarat,Surat,InoxRajImperialVarachhaRoad,Gujarathi,16:20,Gold,160₹,23,0
+Gujarat,Surat,InoxRajImperialVarachhaRoad,Gujarathi,16:20,Silver,140₹,10,0
+Gujarat,Surat,InoxRajImperialVarachhaRoad,Gujarathi,16:20,Imperial,340₹,11,2
+Gujarat,Surat,InoxRajImperialVarachhaRoad,Gujarathi,16:20,Platinum,190₹,53,2
+Gujarat,Surat,InoxRajImperialVarachhaRoad,Gujarathi,16:20,Gold,160₹,113,0
+Gujarat,Surat,InoxRajImperialVarachhaRoad,Gujarathi,16:20,Silver,140₹,36,0
