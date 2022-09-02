@@ -1,0 +1,7 @@
+State,City,Name,Language,Time(IST),Type,Price,Capacity,Booked
+Gujarat,Sanand,ArthMultiplexSanand,Gujarathi,12:30,Gold,80₹,74,0
+Gujarat,Sanand,ArthMultiplexSanand,Gujarathi,12:30,Silver,80₹,51,16
+Gujarat,Sanand,ArthMultiplexSanand,Gujarathi,21:30,Gold,80₹,74,0
+Gujarat,Sanand,ArthMultiplexSanand,Gujarathi,21:30,Silver,80₹,51,16
+Gujarat,Surendranagar,MahalaxmiMultiplexSurendranagar,Gujarathi,22:00,Gold,150₹,122,6
+Gujarat,Surendranagar,MahalaxmiMultiplexSurendranagar,Gujarathi,22:00,Silver,100₹,60,5
